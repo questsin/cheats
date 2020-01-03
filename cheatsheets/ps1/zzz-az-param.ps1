@@ -1,0 +1,176 @@
+--access-tier Hot
+--account-key $key
+--account-key $stgacctkey
+--account-name $acct
+--account-name $stgacct
+--account-name $stgAcctName
+--account-name $stgacctname
+--admin-user $adminLogin --admin-password $adminPassword
+--application-logging true
+--assignee $sp.appId
+--assignee $sp.appId --role Contributor
+--assignee $sp.appId --role Reader
+--assignee-object-id $spobjid
+--branch master
+--command-line "/bin/bash -c 'printenv | grep AZ_BATCH; sleep 90s'"
+--container-name $container
+--container-name $containerName
+--container-name testcontainer
+--content $order1json
+--db-name $databaseName
+--default-consistency-level Strong
+--deployment-container-image-name $container
+--destination ./stdout0.txt
+--enable-addons monitoring
+--enable-automatic-failover true
+--enable-multiple-write-locations true
+--endpoint $viewerendpoint
+--endpoint-type WebHook
+--expiry $end
+--expiry $tomorrow.ToString("yyyy-MM-dd")
+--file bleu.jpg
+--file testfile.txt
+--file-path stdout.txt
+--generate-ssh-keys
+--id $poolName
+--id $sp.appId
+--id myjob
+--is-linux
+--job-id myjob
+--kind GlobalDocumentDB
+--kind StorageV2
+--level information
+--locations "West US=0" "North Central US=1"
+--manual-integration
+--name "connectionString"
+--name "logpolicy"
+--name $accountName
+--name $container
+--name $containerName
+--name $kvname
+--name $queueName
+--name $serviceName
+--name $webappname
+--name bleu.jpg
+--name connectionString
+--name contribcli
+--name logs
+--name RootManageSharedAccessKey
+--name storagesubscription
+--name testcontainer
+--name testfile.txt
+--namespace-name laaz203sb
+--node-agent-sku-id
+--node-count 1
+--num-messages 10
+--output json
+--output table
+--output tsv)
+--password $sp.password
+--permissions lwrd
+--permissions r
+--plan $planname
+--plan $webappplanname
+--policy-name logpolicy
+--pool-id $poolName
+--properties "@$propsFile"
+--query "[0].key"
+--query "[0].value"
+--query "allocationState"
+--query "connectionString"
+--query "defaultHostName" -o tsv
+--query "documentEndpoint"
+--query "primaryKey"
+--query "properties.InstrumentationKey" -o tsv
+--query '[].{"actions":permissions[0].actions, "notActions":permissions[0].notActions}'
+--query '[].{"roleName":roleName, "description":description}'
+--query id
+--query objectId -o tsv
+--query primaryConnectionString
+--query tenantId -o tsv
+--queue-name $queue
+--queue-name $queueName
+--repo-url $repourl
+--resource-id $storageid
+--resource-type "Microsoft.Insights/components"
+--role "Storage Account Contributor"
+--role "Website Contributor"
+--sas $sas
+--scope $sampleweb.id
+--scope $stgacctid
+--secret-permissions get
+--service-name $serviceName
+--service-objective S0
+--settings WEBSITES_PORT=80
+--shared-key-auth
+--sku B1
+--sku FREE
+--sku free
+--sku standard
+--sku Standard_LRS
+--source-resource-id $storageid
+--spn $sp.Name
+--src $package
+--start $start
+--start $today.ToString("yyyy-MM-dd")
+--storage-account $stgAcctName
+--subject-begins-with "/blobServices/default/containers/testcontainer/"
+--target-dedicated-nodes 2
+--task-id mytask0
+--task-id mytask1
+--task-id mytask$i
+--tenant $tenantid
+--username $sp.appId
+--value "this is the connection string"
+--vault-name $kvname
+--vm-size Standard_A1_v2
+--watch
+-c logs
+-ColumnName "AccountCode"
+-DatabaseName $dbName
+-EnablePartitioning $false
+-g $resourceGroup
+-g $resourceGroupName
+-g $rg
+-g $rgName
+-g $rgname
+-g $webapprgname
+-g $webapprgname  | ConvertFrom-Json
+-g servicebus
+-l $location
+-l $location --sku B1
+-l westus
+-MaskingFunction Text
+-n $acct
+-n $appInsightsName
+-n $appName
+-n $appname
+-n $batchAcctName
+-n $cluster
+-n $dbName
+-n $kvname
+-n $planname
+-n $queue
+-n $resourceGroupName
+-n $rg -l westus
+-n $rgName
+-n $stgacct
+-n $stgacct --query id -o tsv
+-n $stgAcctName
+-n $stgacctname
+-n $webappname
+-n $webappplanname
+-n LaAz203StgSp | ConvertFrom-Json
+-n testqueue
+-name testqueue
+-NamespaceName laaz203sb
+-o tsv
+-PrefixSize 2
+-ReplacementString "xxxxxxxx"
+-ResourceGroupName $rgName
+-ResourceGroupName servicebus
+-s $serverName
+-SchemaName "dbo"
+-ServerName $serverName
+-SuffixSize 2
+-TableName "Users"

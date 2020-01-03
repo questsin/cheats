@@ -1,0 +1,43 @@
+index="iptv_sol_cdn_ats" | stats count by _raw
+
+index="staging" NOT name="*"   sourcetype=DownloadSessionEvent | af classfield=status
+
+index=iptv_*  index !=*cdn*
+| eval diff= (_indextime - _time)/1000
+| bin diff bins=20 
+| eval indextime=strftime(_indextime,"%Y-%m-%d %H:%M:%S") 
+|eval capturetime=strftime(_time,"%Y-%m-%d %H:%M:%S")  
+| stats count by  index diff
+
+index="iptv_sol_cdn_ats" sourcetype="custom_ats_2" pssc=200
+| rex field=host "ats(?<CDN_Type>[^\-]+)\-(?<Site>[^\-]+)\-"
+| stats count by ttms Site
+
+index=iptv_*  index !=*cdn*
+| eval diff= (_indextime - _time)/1000
+| bin diff bins=20 
+| eval indextime=strftime(_indextime,"%Y-%m-%d %H:%M:%S") 
+|eval capturetime=strftime(_time,"%Y-%m-%d %H:%M:%S")  
+| stats count by  index diff
+
+| tstats count where index=iptv_* by index _time span=1m 
+| stats count max(_time) as T by index
+| eval c_time=strftime(T,"%m/%d/%y %H:%M:%S")
+
+ index=_audit action=edit_user operation=edit OR operation=create
+ | stats min(timestamp) as "created" by object
+ | rename object as user
+ | inputlookup append=t inactiveusers.csv
+ | sort -created
+ | dedup user
+ | outputlookup inactiveusers.csv
+
+index=oss 
+| stats count latest(_time) as lt by kevent.Records{}.eventSourceARN 
+| eval secondsAgo=now() - lt 
+| table  kevent.Records{}.eventSourceARN count secondsAgo 
+| sort -secondsAgo
+
+index="staging" 
+|  eval topic=if(isnull(name),sourcetype,name)  
+| stats count by topic
