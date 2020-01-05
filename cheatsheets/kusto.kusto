@@ -3,14 +3,13 @@
 
 // https://app.pluralsight.com/library/courses/kusto-query-language-kql-from-scratch/table-of-contents
 
-/ https://app.pluralsight.com/course-player?clipId=5d02bb1a-8e72-4e31-9955-e6f34dc7a37d
+// https://app.pluralsight.com/course-player?clipId=5d02bb1a-8e72-4e31-9955-e6f34dc7a37d
 
+// live labs
 // https://aka.ms/LADemo
 // https://aka.ms/AIAnalyticsDemo
 // https://aka.ms/WinDefATP
 // https://dataexplorer.azure.com/clusters/help/databases/Samples
-// https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/virtual-network/manage-route-table.md
-// https://editor.swagger.io/
 
 search *
 | summarize count() by $table
