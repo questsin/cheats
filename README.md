@@ -1,2 +1,5 @@
 # cheats
-my cheat sheets
+
+quickstarts vs cheatsheets vs examples
+
+# lists
