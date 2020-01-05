@@ -54,3 +54,4 @@ git archive
 git gc
 git fsck
 git prune
+git checkout master -- Allfiles/*
