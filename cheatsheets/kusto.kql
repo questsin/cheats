@@ -1,0 +1,33 @@
+
+// https://docs.microsoft.com/en-us/azure/data-explorer/create-cluster-database-portal
+
+// https://app.pluralsight.com/library/courses/kusto-query-language-kql-from-scratch/table-of-contents
+
+/ https://app.pluralsight.com/course-player?clipId=5d02bb1a-8e72-4e31-9955-e6f34dc7a37d
+
+// https://aka.ms/LADemo
+// https://aka.ms/AIAnalyticsDemo
+// https://aka.ms/WinDefATP
+// https://dataexplorer.azure.com/clusters/help/databases/Samples
+// https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/virtual-network/manage-route-table.md
+// https://editor.swagger.io/
+
+search *
+| summarize count() by $table
+
+Perf
+| summarize count() by Computer, ObjectName
+
+Syslog 
+| where SeverityLevel == "err" | summarize count() by Computer 
+
+Syslog
+| search "*Palo*"
+| limit 50
+
+Syslog
+| search "*Palo*"
+| top 10 by EventTime  desc
+
+Perf | union Heartbeat
+| summarize count() by Computer, ObjectName
