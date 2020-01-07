@@ -32,6 +32,7 @@ powershell
 bash
 yaml
 md
+odata 
 
 other
 =====
