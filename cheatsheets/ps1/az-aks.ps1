@@ -20,3 +20,5 @@ kubectl apply -f azure-vote.yaml
 
 kubectl get service azure-vote-front `
  --watch
+
+ az aks scale --name $cluster --node-count 3 --resource-group $rg
