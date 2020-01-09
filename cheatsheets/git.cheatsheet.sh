@@ -36,3 +36,5 @@ code .
 git add .
 git commit -m "New version of web app."
 git push staging
+git remote -v
+git remote set-url <remote-name> <remote-url>
