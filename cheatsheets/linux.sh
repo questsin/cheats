@@ -18,7 +18,9 @@ pkill func
 curl "http://localhost:7071/api/simple-interest" -w "\n"
 STORAGEACCT=learnstorage$(openssl rand -hex 5)
  curl https://api.github.com/users/questsin/gists | grep git_pull_url > gist2.sh
-
+## https://www.torproject.org/
+sudo apt-get install tor
+torify curl ...
 htop --better ps 
 sudo apt update
 sudo apt upgrade
