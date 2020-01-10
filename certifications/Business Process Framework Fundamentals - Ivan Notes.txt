@@ -1,0 +1,181 @@
+MODULE 1
+
+Framework Introduction
+- enterprise-wide process decomposition or structured outline
+- catalog and classification scheme
+- five goals: enterprise-wide; manage complex business relationships; consistent process flows; develop clear IT requirements / understand application portfolios; reduce management time and cost
+
+MODULE 2
+
+Framework Structure
+- used to: define project scope; transform business processes; support procurement requests; map roles/organizations (define organization boundaries); focus process-related discussions; manage KPIs
+- "domain" - collection of core processes associated with a specific management area
+- eight domains: market/sales; product; customer;service;resource;engaged party;enterprise;common process patterns
+- "core process" - manages the lifecycle of or more key business entities
+	- naming convention: start with a noun "e.g. Product Offering Lifecycle Management"
+	- starts with a capital letter
+- "tasks" follow the core process
+	- naming convention: start with a verb then the core process name "e.g. Manage Product Offering Exit"
+	- starts with a capital letter
+- no process is duplicated in the framework
+- First Level Categorization is the Process Area. There are two: Strategy, Infrastructure and Product (SIP) and Operations (Ops).
+- Second Level Categorization is the Process Groupings. 
+- Under SIP are Strategy & Commit; Infrastructure Lifecycle Management; Product Lifecycle Management
+- Under Ops are: Operations Support & Readiness; Fulfuillment; Assurance; Billing & Revenue Management (FAB)
+- Market / Sales Domain: 
+- Product Domain: 
+- Customer Domain: 
+- Service Domain:
+- Resource Domain: compute and storage; associates products & services to resources; provides usage data
+- Engaged Party Domain: individuals or organizations involved with an enterprise (was Supplier-Partner)
+- Enterprise Domain: policy for overall enterprise
+- Common Process Patterns Domain: re-usable processes that can be used across the enterprise; e.g. capacity managemment; unique to this domain is that processes cannot execute on their own
+
+MODULE 3 (Part 1)
+Business Process Framework Uses
+
+Cabelvision Case Study
+
+Framework Use Cases
+- developing process flows
+- defining project scope
+- plan, design, test, and deploy applications
+- transforming business processes
+- procurement request support
+- role/organization mapping
+- managing key performance indicators
+- focus process related discussions
+
+eTOM can and should play a role in development... especially planning, ready-made set of requirements, and high-level use cases
+"use cases" inherit the business properties of a "task" and adds more detail regarding the interaction between processes and information.
+use case steps can be the task's sub-tasks.
+use cases are organized by domain, core process within the domain, and categorized using a vertical process grouping
+
+Procurement (RFP): scope can be expressed in terms of eTOM's business processes. Can then be used to determine conformance to the framework using the framework's point system.
+
+Role/Organizing Mapping: can used eTOM to perform RACI or RASCI analysis. Can use eTOM sub-processes to determine ownership. 
+   Resources are allocated to Responsible.
+   Support will assist in completing the task.
+   Consulted may provide input.
+
+KPIs (such as cost) can be associated with each step in a process flow. Then you can use a simulation tool to compute end-to-end process cost.
+
+Q. What are two reasons why an enterprise should use the framework to focus process related discussions?
+A. Reducing the reliance on the subject matter expertise of members of a team assembled to solve the problem and keeping discussions from becoming unfocused and wandering off in different directions.
+
+MODULE 3 (Part 2)
+Business Process Framework Uses
+- see exercise in student workbook
+
+MODULE 4
+The Framework and Business Process Transformation
+- three approaches: bottom-up; top-down; hybrid
+- if you only have process flows then use bottom-up
+- if you only have process decomposition then use top-down
+
+step 1: define scope
+- process swim lanes
+- information flows
+- material flows
+- financial flows
+- need SMEs in both the in-scope items and in eTOM
+
+bottom-up approach
+- build a spreadsheet with the following columns:
+	- flow step ID; process name; (F)low or (D)ecomp; source of input; decomp req'd; equivalent business process framework process + ID, equivalence type
+	- equivalence type can be: "enterprise gap" meaning the flow is missing an eTOM process or, "full match", or "partial match" to an eTOM process. In the latter, add to the eTOM process's description.
+- extensions to eTOM should be clearly noted so they are not wiped out at the next eTOM update
+
+three key considerations
+- any shared processes? put them in Enterprise or Common Process Patterns
+- take care not to group processes according to organization (as organizations change)
+- introduce specialized processes at the lowest level possible
+
+how to extend/confirm a framework implementation
+- semantic analysis: analyzes the description of a process for clues to the sub-tasks; look for (1) nouns upon which actions are performed (2) look for nouns (3) look for phrases that imply actions on nouns
+- lifecycle decomposition:
+	tangible (product lifecycle management) entities: look for "gather", "develop", "deploy"
+	intangible (strategy) entities look for "research", "approve", "assess"
+	activity (assurance) entities look for "issue"; "analyze"; "fix"
+	- should have 7 +/- 2 first level processes
+		- should have 5 +/- 2 sub-processes
+		- process should never decompose into a single sub-process
+additional guidance
+- retain framework as a baseline
+- implement a subset of the process areas
+- add core processes; or elevate task-level process to a core process
+- split task-level processes; this is where task specialization occurs
+
+MODULE 5
+Conformance to the Framework
+- what does it mean to be conformant/compliant?
+- measured by how close the model matches the framework
+- conformance implies less rigid approach (don't use compliance)
+- begin with first-level processes such as Order Handling and apply a conformance rating
+- conformance is about equivalence; don't need exactly matching text
+- conformance scores are not awarded to level one domains or core processes
+- conformance scores are awarded to Tasks (level 3 and below) and Sub-tasks (level 4 and below)
+	- Tasks are scored between 3.1 and 5
+	- Sub-task scores are calculated as input to parent Task scores
+
+MODULE 6
+The Framework and Other Industry Process Models
+- ITIL (Information Technology Infrastructure Library)
+- COBIT (Control Objectives for Information and Related Technology)
+- PCF (Process Classification Framework)
+- SCOR (Supply Chain Operations Reference Model)
+
+ITIL
+- four practice areas: service strategy, service design, service transition, service operation
+- ITIL processes placed in the Enterprise domain since Enterprise domain defines policies for other domains
+- GB921W - ITIL / eTOM
+- GB921L
+- GB921Q - FAQ
+- TR143
+
+COBIT 5
+- good practices to control quality and risk
+- two main process domains: governance; management
+- governance has five processes: value delivery; risk management; resource management; performance measurement; strategic alignment
+- management contains four domains: align, plan and organize; build/acquire and implement; deliver service and support; monitor, evaluate, and assess
+- links business goals to IT goals
+- COBIT book can be downloaded at no charge
+- COBIT domains are aligned with eTOM vertical process categories
+- "align, plan and organize" supports "strategy & commit"
+- "build/acquire and implement" supports "infrastructure lifecycle management"
+- "deliver service and support" supports some Operations verticals
+- "monitor, evaluate and assess" supports the Enterprise domain's "enterprise effectiveness management" core process
+- no mappings to the "billing and revenue management" vertical, nor to the "product lifecycle management" vertical
+
+PCF
+- process management and benchmarking
+- can be downloaded at no charge
+- there are no process descriptions of the first-level processes
+- descriptions of the lower-level processes are available to members
+- two groups: operating processes (similar to SIP and OPS); management and support services (similar to Enterprise Domain)
+- each has six categories
+- hundreds of processes
+- difficult to map to eTOM
+
+SCOR
+- four reference areas: DCOR; CCOR; M4SC; PLCOR
+- DCOR (design chain operations reference model): product and process design
+- CCOR (customer chain operations reference model): sales and support
+- M4SC (managing for supply chain performance)
+- PLCOR (product lifecycle operations reference model)
+- has both process frameworks and best practices information
+- DCOR maps to several areas in the product domain and the enterprise domain
+- CCOR maps to the market / sales domain and the customer domain
+- M4SC maps to the engaged party domain
+- PLCOR maps to the product lifecycle management vertical grouping
+
+
+
+
+
+
+
+
+
+
+
