@@ -1,21 +1,22 @@
 # Information Framework SID
+- enterprise-wide information decomposition or structured outline and model
+- technology neutral information model; can be used to generate technology specific data model
 
-Goals Achieved
+## Goals Achieved
 1. Reducing the cost of integration
 2. Reducing time to market /introduction of new technologies
 3. Support multiple implementations from a single model
 4. Facilitate new/existing development
 5. Reduce management time and cost
 
-Information Framework Uses
+## Information Framework Uses
 1. Starting point for database development
 2. Defining project scope
 3. Developing application program interfaces
 4. Facilitating application Integration
 5. Supporting procurement requests
 
-Notes
-=====
+## Terms
 IF Domains = Collection of Business entities
 Common Domain = Common Business Entities
 Domains > ABE 
@@ -33,11 +34,7 @@ Compliance (rigorous) vs  Comformance (subjctive)
 .. .. IF .. ..(PF)
 Defined by the Vendor for a list of ABE
 
-The Information Framework
-- enterprise-wide information decomposition or structured outline and model
-- technology neutral information model; can be used to generate technology specific data model
-- five goals: reducing time to market / introduction of new technologies; reducing the cost of integration; support multiple implementations from a single model; facilitate new development; reduce management time and cost
-- eight domains: market/sales; product; customer;service;resource;engaged party;enterprise;common business entities (CBE)
+# Notes
 - CBE: entities not owned by any particular domain; each entity represents an abstraction of real-world entities
 - business entity: e.g. "Customer"; links between entities are "associations"
 - "aggregated business entity (ABE)": grouping of highly cohesive CBEs; named after the Core Entity

@@ -23,8 +23,8 @@ Service,
 Resource, 
 `Supplier Partner`
 Enterrise
-Cross Domain , 
-Integration Infra
+**Cross Domain** , 
+**Integration Infra**
 
 Notes
 =====

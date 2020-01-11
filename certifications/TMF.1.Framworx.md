@@ -1,75 +1,80 @@
 # TMF Framworks
 Digital service provider
+version 18.5
+tmf = framewrks, catelogs, models, maps, templates, standards, blueprints, metrics, maturity models,
 Framworks ussage =frameworx, models, digital bridge, map, temlates, Partner integration, B2b guide
-Frameworx components= BPF (eTOM), App F (TAM), Info F (SID), Open APIs = REST API's, Business metrics
-catelogs, models, maps, templates, standards, blueprints, metrics, maturity models,
+Frameworx components= BPF (eTOM), App F (TAM), Info F (SID), Open APIs, Business metrics
 primary objective: standardize
 
-Goals
-=====
+## Goals
 - By providing ways to minimize `cost`, `time` and `risk` of improving the planning and operation of these vital aspects of delivering `value` to customers
 - Leaving each enterprise more scope and more resources, and the
 necessary agility, to tackle the `differentiation` of their `offerings`
+- enable deployment of new services and products
+- provide a common point of reference; 
+- accelerate realization of benefits
 
-Frameworx and Best Practices:
-- Can be used to create value
-- Provide a template to streamline product and service delivery
+## Frameworx and Best Practices:
+- Can be used to create `value`
+- Provide a `template` to streamline product and service delivery
 - Can improve customer experience and customer retention
-- Can be used to simplify, optimize and automate business processes
-- Speeds up and improves the procurement process
-- Provides a clear common language and terminology
-- Reduce transformation risk
+- Can be used to `simplify`, `optimize` and `automate` business processes
+- Speeds up and improves the `procurement` process
+- Provides a `clear common language` and `terminology`
+- Reduce `transformation risk`
 
-Best Practices
+## Best Practices
 - Increase agility
-- Reduce cost and risk
 - enable deployment of new sevices and products
-- provide comon point of ref
+- provide `comon point of ref`
 - accelerate realization of benifits
 
-Areas
-- Virtulization
+## Areas
+- Virtulization: end-to-end management; 
+- Operations transformation; virtualization operational 
 - Security, Privacy and Risk
 - Customer Centric
 - CEX
 - Big data
+- data analystics; 
 - Tranperancy
--   
-
-
+ 
+# Domain Graphic
 domains construct = unit of management area
-===========================================
 Vertical Domain Areas = Strategy , Infa, Prudct(SIP) vs Ops
 SIP  gropuing = Strategy & Commit, Infra LC M, Product, LC M,
 Ops grouping = Ops Support & Readiness, Fullfilment, Assurance, Billing and Revenue M
 
-Domains
-=======
-market and Sales, 
+# The Domains
+Market and Sales, 
 Product, 
 Customer, 
 Service, 
 Resource, 
 Engaged party, 
 Enterprise, 
-Common Business Entities
+Common
 
-BPF eTOM = `Common Process Patterns` vs CBE
-TAM = `Supplier partner` instead of `Engaged party`
-? === Cross Domain, 
-? === integration infra
+BPF eTOM Common= `Common Process Patterns` vs CBE
+IF Common = `Common Business Entities`
+TAM 3pp = `Supplier partner` instead of `Engaged party`
 
-Terms
-=====
+# Terms
+Value Fabric = business processes need to change to work in a "value fabric"; e.g. devops, increase in self-service
 ABE = Aggregate Business Entity
 SIP = Lifecycle management
 BPF = Scope,  Trasform, Procurement req. Roles.. 
 Core Entitly - 
 function=task, capability
+BPF = Hierarchiccal catelog of key processes
+IF = structured ref model and common vocabulary
+AF = Catelog of Apps, which support/implement business processes
+Open APIs = set standard REST based API's 
+Business Metrics = metrics and guidlines
 
 **Generic**
 _Strategy and Plan, _Spec, _Configuration, _Performance,  _Ussage, _Problem _Test
-**market and Sales**
+**Market and Sales**
 Market Strategy Plan, Marketing Campaign, Contact/Lead/Prospect 
 Market Segment, Competitor, Sales Statistics, Sales Chaneel
 **Product**
@@ -94,24 +99,8 @@ Root, Location, Catelog, Performance, Calendar, Trouble or Problem, Configuratio
 Base Types, Capacity, Ussage, Project, Policy, Metric
 Business Interaction, Test, Topology, Event, Trouble Ticket, Usser and Roles, Account
 
-BPF = Hierarchiccal catelog of key processes
-IF = structured ref model and common vocabulary
-AF = Catelog of Apps, which support/implement business processes
-Open APIs = set standard REST based API's 
-Business Metrics = metrics and guidlines
-Best Practices
-
-Notes
-=====
-Value Fabric =
-
-Frameworx Best Practices
+# Misc
 - suite of best practivces and standards that provide the blueprint for effective, efficient business operations
-- goals: increase agility; reduce cost and risk; enable deployment of new services and products; provide a common point of reference; accelerate realization of benefits
-- business processes need to change to work in a "value fabric"; e.g. devops, increase in self-service
-- virtualization themes: end-to-end management; operations transformation; virtualization operational readiness and procurement; foundational studies (e.g. metadata)
-- security, privacy, and risk management KPIs
-- customer centric goals: increasing profitability; deliver a personalized customer experience; future-proofing customer experience
 - customer experience resources: guidebook; ROI calculator; lifecycle model; metrics library; big data analystics; use case library
 - customer experience lifecycle model:
 	- three phases: engaging; using; evaluating

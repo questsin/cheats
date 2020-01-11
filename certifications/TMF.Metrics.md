@@ -1,24 +1,28 @@
 # TMF Metrics
+- Standard vocab and modeling of Business metric
+- Standard defintion of specific metrics
+- Linkages between business metrics and of TMF components
+- provide a set of metrics aimed specifically at business performance at the product and service level
 
-Goals Achieved
-1. Comparison with peers
-2. Need for measures that focus attention
-3. Promotion of superior performance areas
+## Goals Achieved
+1. `Comparison` with peers
+2. Need for measures that `focus` attention
+3. Promotion of `superior performance` areas
 
-Metrics Uses
+## Metrics Uses
 1. Assess groups of metrics
 2. Measure trends over time
 3. Assess process groupings
 4. Identify processes needing improvement
 
-MEtrics Domains, Areas
+## Metrics Domains, Areas
 1. Revenue and margin (Finacial)
 2. Customer Experience (Outside in)
 3. Operational Efficiancy (all around view)
 
-Focus 
+## Focus 
 1. General
-2. CM
+2. Customer Management
 3. Fulfilment
 4. Assurance
 5. Billing
@@ -28,7 +32,6 @@ Focus
 2. OpEx/CapEx
 3. OpEx/Revenue
 4. RA Revenue Assurance
-
 
 ## Customer Experience (Outside in) topics
 1. Preferred Access
@@ -56,13 +59,7 @@ fault rate,
 repeat faults, 
 customer turnaround time.
 
-Business Metrics
-- Standard vocab and modeling of Business metric
-- Standarddefintion of specific metrics
-- Linkages between business metrics and of TMF components
-- provide a set of metrics aimed specifically at business performance at the product and service level
-- three goals: measures that focus attention; comparison with peers; promotion of superior performance areas
-- five process focus areas: general; customer management; fulfillment; assurance; billing
+# Notes
 - revenue & margin only have a general focus
 - product and service agnostic
 - standard vocabulary; standard definitions; linkages between business metrics and other Frameworx components
