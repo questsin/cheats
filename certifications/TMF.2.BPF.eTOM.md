@@ -37,27 +37,27 @@ The Business Process Framework "the Telecom Operation Map" (TOM)
 - KPIs (such as cost) can be associated with each step in a process flow. Then you can use a simulation tool to compute end-to-end process cost.
 
 # Terms
-Vertical Domain Areas = Strategy , Infa, Prudct(SIP) vs Ops
-S.I.P process groupings = Strategy & Commit, Infra LC M, Product, LC M,
-Ops process groupings = Ops Support & Readiness, Fullfilment, Assurance, Billing and Revenue M (FAB)
-BPF Domains= Distict group of processes
-domain = collection of core processes associated with a specific management area
-ABE = Core Process element > Task Level process elements 
-Process Area = Strategy, Infrastructure and Product (SIP) and Operations (Ops).
-Process Groupings SIP = Strategy & Commit; Infrastructure Lifecycle Management; Product Lifecycle Management
-Process Ops Grouping = Operations Support & Readiness; Fulfuillment; Assurance; Billing & Revenue Management (FAB)
-Task Level process elements (level 2) ~SDLC 
-BPF Common Domain = Common Process patterns (no meaning outside the context of other ABE)
+Vertical Domain Areas = Strategy , Infa, Prudct(SIP) vs Ops  
+S.I.P process groupings = Strategy & Commit, Infra LC M, Product, LC M,  
+Ops process groupings = Ops Support & Readiness, Fullfilment, Assurance, Billing and Revenue M (FAB)  
+BPF Domains= Distict group of processes  
+domain = collection of core processes associated with a specific management area  
+ABE = Core Process element > Task Level process elements  
+Process Area = Strategy, Infrastructure and Product (SIP) and Operations (Ops).  
+Process Groupings SIP = Strategy & Commit; Infrastructure Lifecycle Management; Product Lifecycle Management  
+Process Ops Grouping = Operations Support & Readiness; Fulfuillment; Assurance; Billing & Revenue Management (FAB)  
+Task Level process elements (level 2) ~SDLC   
+BPF Common Domain = Common Process patterns (no meaning outside the context of other ABE)  
 
 ## 8 Domains
-**Market / Sales Domain**: 
-**Product Domain**: 
-**Customer Domain**: 
-**Service Domain**:
-**Resource Domain: compute and storage; associates products & services to resources; provides usage data
-**Engaged Party Domain**: individuals or organizations involved with an enterprise (was Supplier-Partner)
-**Enterprise Domain**: policy for overall enterprise
-**Common Process Patterns Domain**: re-usable processes that can be used across the enterprise; e.g. capacity managemment; unique to this domain is that processes cannot execute on their own
+1. **Market / Sales Domain**: 
+2. **Product Domain**: 
+3. **Customer Domain**: 
+4. **Service Domain**:
+5. **Resource Domain**: compute and storage; associates products & services to resources; provides usage data
+6. **Engaged Party Domain**: individuals or organizations involved with an enterprise (was Supplier-Partner)
+7. **Enterprise Domain**: policy for overall enterprise
+8. **Common Process Patterns Domain**: re-usable processes that can be used across the enterprise; e.g. capacity managemment; unique to this domain is that processes cannot execute on their own
 
 # process patterns
 **core process** - manages the `lifecycle` of or more key business entities
@@ -69,10 +69,9 @@ BPF Common Domain = Common Process patterns (no meaning outside the context of o
 # Notes
 - First Level Categorization is the Process Area. There are two: Strategy, Infrastructure and Product (SIP) and Operations (Ops).
 - Second Level Categorization is the Process Groupings. 
-eTOM can and should play a role in development
-especially planning, ready-made set of requirements, and high-level use cases
-"use cases" inherit the business properties of a "task" and adds more detail regarding the interaction between processes and information.
-use case steps can be the task's sub-tasks.
+eTOM can and should play a role in `development` especially `planning`, ready-made set of requirements, and high-level use cases  
+"use cases" inherit the business properties of a "task" and adds more detail regarding the interaction between processes and information.  
+use case steps can be the task's sub-tasks.  
 
 ## Implementation = Business Process Transformation
 - three approaches: bottom-up; top-down; hybrid
@@ -104,9 +103,9 @@ use case steps can be the task's sub-tasks.
 **extend/confirm a framework implementation**
 - semantic analysis: analyzes the description of a process for clues to the sub-tasks; look for (1) nouns upon which actions are performed (2) look for nouns (3) look for phrases that imply actions on nouns
 - lifecycle decomposition:
-	tangible (product lifecycle management) entities: look for "gather", "develop", "deploy"
-	intangible (strategy) entities look for "research", "approve", "assess"
-	activity (assurance) entities look for "issue"; "analyze"; "fix"
+	tangible (product lifecycle management) entities: look for "gather", "develop", "deploy"  
+	intangible (strategy) entities look for "research", "approve", "assess"  
+	activity (assurance) entities look for "issue"; "analyze"; "fix"  
 	- should have 7 +/- 2 first level processes
 		- should have 5 +/- 2 sub-processes
 		- process should never decompose into a single sub-process
