@@ -47,15 +47,15 @@ Vertical Domain Areas = Strategy , Infa, Prudct(SIP) vs Ops
 SIP  gropuing = Strategy & Commit, Infra LC M, Product, LC M,
 Ops grouping = Ops Support & Readiness, Fullfilment, Assurance, Billing and Revenue M
 
-# The Domains
-Market and Sales, 
-Product, 
-Customer, 
-Service, 
-Resource, 
-Engaged party, 
-Enterprise, 
-Common
+# The 8 Domains
+1. Market and Sales, 
+2. Product, 
+3. Customer, 
+4. Service, 
+5. Resource, 
+6. Engaged party, 
+7. Enterprise, 
+8. Common
 
 BPF eTOM Common= `Common Process Patterns` vs CBE
 IF Common = `Common Business Entities`
