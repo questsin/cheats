@@ -1,4 +1,6 @@
 # Business Process Framework (eTOM) 
+https://en.wikipedia.org/wiki/Business_Process_Framework_(eTOM)
+
 The Business Process Framework "the Telecom Operation Map" (TOM) 
 - enterprise-wide process decomposition or structured outline
 - catalog and classification scheme

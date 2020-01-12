@@ -1,4 +1,5 @@
 TAM
+https://en.wikipedia.org/wiki/Frameworx#Telecom_Application_Map
 
 Goals Achieved
 1. Provide standard application requirements

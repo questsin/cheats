@@ -1,4 +1,6 @@
 # TMF Framworks
+https://en.wikipedia.org/wiki/Frameworx  
+
 Digital service provider
 version 18.5
 tmf = framewrks, catelogs, models, maps, templates, standards, blueprints, metrics, maturity models,

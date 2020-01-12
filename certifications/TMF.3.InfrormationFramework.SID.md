@@ -1,4 +1,6 @@
 # Information Framework SID
+https://en.wikipedia.org/wiki/Frameworx#Information_Framework  
+
 - enterprise-wide information decomposition or structured outline and model
 - technology neutral information model; can be used to generate technology specific data model
 
