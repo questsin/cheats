@@ -2,6 +2,7 @@
 git config --list
 git config --global user.name ""
 git config --global user.email ""
+git config --global credential.helper cache
 git config --global core.editor "code"
 git config --global color.ui true
 git help
