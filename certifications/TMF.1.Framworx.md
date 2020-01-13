@@ -1,8 +1,7 @@
 # TMF Framworks =
 https://en.wikipedia.org/wiki/Frameworx;
 
-term = definition = hint;
-
+## term = definition = hint;
 from MSO = to Digital service provider;  
 TMF version = 18.5;  
 tmf aids = frameworks, catelogs, models, maps, templates, standards, blueprints, metrics, maturity models;  
@@ -10,7 +9,7 @@ Digital service provider = digital bridge, Partner integration, B2b guide;
 Frameworx components = BPF (eTOM), App F (TAM), Info F (SID), Open APIs, Business metrics;  
 tmf primary objective = standardize;  
 
-## Goals = 
+# Goals = 
 - By providing ways to minimize `cost`, `time` and `risk` of improving the planning and operation of these vital aspects of delivering `value` to customers
 - Leaving each enterprise more scope and more resources, and the
 necessary agility, to tackle the `differentiation` of their `offerings`
@@ -24,7 +23,7 @@ Goals (enable) = enable deployment of new services and products;
 Goals (provide) = provide a common point of reference;  
 Goals (accelerate) =accelerate realization of benefits;  
 
-## Frameworx and Best Practices =
+# Frameworx and Best Practices =
 - Can be used to create `value`
 - Provide a `template` to streamline product and service delivery
 - Can improve customer experience and customer retention
@@ -48,7 +47,7 @@ Best Practices(enable) =  enable deployment of new sevices and products;
 Best Practices(provide) = provide `comon point of ref`;  
 Best Practices(accelerate) = accelerate realization of benifits;  
 
-## Areas =
+# Areas =
 - Virtulization: end-to-end management
 - Operations transformation, virtualization operational 
 - Security, Privacy and Risk
@@ -62,6 +61,7 @@ Best Practices(accelerate) = accelerate realization of benifits;
 Vertical Domain Areas = Strategy , Infa, Prudct(SIP) vs Ops;  
 SIP  gropuing = Strategy & Commit, Infra LC M, Product, LC M;  
 Ops grouping = Ops Support & Readiness, Fullfilment, Assurance, Billing and Revenue M;  
+
 # The 8 Domains =
 1. Market and Sales
 2. Product
@@ -112,7 +112,8 @@ Enterprise Effectiveness, Enterprise Risk, Workforce, Finance;
 Root, Location, Catelog, Performance, Calendar, Trouble or Problem, Configuration and Profiling  
 Base Types, Capacity, Ussage, Project, Policy, Metric
 Business Interaction, Test, Topology, Event, Trouble Ticket, Usser and Roles, Account;  
-## use case library = examples = hint;
+
+# use case library = examples = hint;
 - customer experience lifecycle model 3 phases =  engaging, using, evaluating;
 - measuring customer experience = approx 550 customer experience metrics (out of 1,700 total Metrics);
 - big data analytics (BDA) = reference model, use cases mapped to eTOM (often used for RFPs), external data monetization, building blocks (implement), maturity model (assessment tool), analytics and big data repository;
