@@ -10,18 +10,18 @@ Frameworx components = BPF (eTOM), App F (TAM), Info F (SID), Open APIs, Busines
 tmf primary objective = standardize;  
 
 # Goals = 
-- By providing ways to minimize `cost`, `time` and `risk` of improving the planning and operation of these vital aspects of delivering `value` to customers
-- Leaving each enterprise more scope and more resources, and the
+- By providing ways to `minimize` `cost`, `time` and `risk` of improving the planning and operation of these vital aspects of delivering `value` to customers
+- Leaving each enterprise more `scope` and more resources, and the
 necessary agility, to tackle the `differentiation` of their `offerings`
-- enable deployment of new services and products
-- provide a common point of reference
-- accelerate realization of benefits;
+- `enable` deployment of new services and products
+- provide a `common point of reference`
+- accelerate `realization of benefits`;
 
 Goals (minimize) =  By providing ways to  `cost`, `time` and `risk` of improving the planning and operation of these vital aspects of delivering `value` to customers;  
-Goals (focus) = Leaving each enterprise more scope and more resources, and the necessary agility, to tackle the `differentiation` of their `offerings`;  
-Goals (enable) = enable deployment of new services and products;  
-Goals (provide) = provide a common point of reference;  
-Goals (accelerate) =accelerate realization of benefits;  
+Goals (differentiation) = Leaving each enterprise more scope and more resources, and the necessary agility, to tackle the `differentiation` of their `offerings`;  
+Goals (new) = enable deployment of `new` services and products;  
+Goals (common) = provide a common point of reference;  
+Goals (realization) =accelerate realization of benefits;  
 
 # Frameworx and Best Practices =
 - Can be used to create `value`
@@ -90,7 +90,7 @@ function = task, capability;
 _Strategy and Plan, _Spec, _Configuration,  _Performance,  _Ussage, _Problem _Test;  
 **Market and Sales** = 
 Market Strategy Plan, Marketing Campaign, Contact/Lead/Prospect   
-Market Segment, Competitor, Sales Statistics, Sales Chaneel;  
+Market Segment, Competitor, Sales Statistics, Sales Chanel;  
 **Product** =
 Product, Strategic Product Portfolio Plan, Product Performance, Product Configuration, Product Test  
 Product Specification, Product Offering, Product Ussage, Loyalty;  

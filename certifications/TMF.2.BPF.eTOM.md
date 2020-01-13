@@ -24,8 +24,8 @@ eTOM = "the Telecom Operation Map" (TOM);
 5. `Map roles, owners /organizations`; 
 
 ## Framework Use Cases =
-- developing process flows
 - defining project scope
+- developing process flows
 - plan, design, test, and deploy applications
 - transforming business processes
 - managing key performance indicators;
