@@ -29,6 +29,8 @@ sudo apt install remmina
 ssh-keygen -t rsa -b 4096
 ssh-copy-id -i ~/.ssh/id_rsa.pub azureuser@myserver
 ssh [username]@[public_ip_address]
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
 //smb mount
 sudo apt install cifs-utils
 sudo mkdir /mnt/fileshare1
