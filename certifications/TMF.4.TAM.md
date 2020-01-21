@@ -1,10 +1,9 @@
-# TAM - The Application Framework = 
+# TAM - The Application Framework =
 - enterprise-wide decomposition and model of application functionality
 - consistent common terminology
 - separation of application neutral from application specific model
 - automates the business processes in the eTOM
 https://en.wikipedia.org/wiki/Frameworx#Telecom_Application_Map;
-
 
 # Goals  =
 1. Provide standard application requirements
@@ -22,10 +21,10 @@ https://en.wikipedia.org/wiki/Frameworx#Telecom_Application_Map;
 
 # 9 Domains =
 1. market and Sales, 
-2. Product 
-3. Customer 
-4. Service 
-5. Resourc, 
+2. Product
+3. Customer
+4. Service
+5. Resourc,
 6. `Supplier Partner`: (not yet  replaced by  `engaged party domain`).
 7. Enterrise
 8. **Cross Domain** , 
