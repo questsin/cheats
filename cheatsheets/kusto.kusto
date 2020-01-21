@@ -30,3 +30,39 @@ Syslog
 
 Perf | union Heartbeat
 | summarize count() by Computer, ObjectName
+
+
+//POC #2
+//If the Bandwidth of the same user (CHI) is higher than previous record than UPSHIFT = UPSHIFT  + 1
+//If the Bandwidth of the same user (CHI)  is lower than previous record than DOWNSHIFT = DOWNSHIFT + 1
+//If the Bandwidth of the same user (CHI)  is the same than previous record than NOSHIFT = NOSHIFT + 1
+cdnlogs
+| where TimeStamp between (datetime('2018-11-28T16:00:50.808Z') .. datetime('2018-11-28T16:00:50.994Z'))
+| project TimeStamp, chi, bandwidth, channel
+| order by chi, channel, TimeStamp
+| extend prev_chi = prev(chi,1) //get the previous client IP
+| extend prev_channel = prev(channel,1) //get the previous client IP
+| extend prev_bandwidth = iif((prev_chi == chi) and (prev_channel == channel),prev(bandwidth,1),bandwidth) //get the previous bandwidth for the same client IP
+| extend UpShift = iif(bandwidth > prev_bandwidth,1,0)
+| extend DownShift = iif(bandwidth < prev_bandwidth,1,0)
+| extend NoShift = iif(isempty(prev_bandwidth),1,iif(bandwidth == prev_bandwidth,1,0))
+| summarize UpShift=sum(UpShift), DownShift=sum(DownShift), NoShift=sum(NoShift), TimeStart = min(TimeStamp), TimeEnd=max(TimeStamp) by channel, chi
+| project TimeStart, TimeEnd, Customer=chi, Channel=channel, UpShift, DownShift, NoShift
+ 
+ 
+//Secondly, I found a bug in my parsing code. Its adding a space after the values. Please update the below function and reload the data in the staging table.
+//.create-or-alter function parsecdnlogs()
+{
+cdnrawlogs_stage
+| parse kind=relaxed Events with TimeStamp:real " chi=" chi:string " phn=" phn:string " php=" php:int " shn=" shn:string " url=" url:string " cqhm=" cqhm:string " cqhv=" cqhv:string " pssc=" pssc:int " ttms=" ttms:int " b=" b:int " sssc=" sssc:int " sscl=" sscl:int " cfsc=" cfsc:string " pfsc=" pfsc:string " crc=" crc:string " phr=" phr:string " pqsn=" pqsn:string " uas=" uas:string
+| project-away Events
+| extend TimeStamp=unixtime_seconds_todatetime(TimeStamp)
+| parse kind=relaxed url with protocol:string "://"  source:string "-" col1:string "-" server_location:string "-" server_number:string "." domain:string "/" channel:string "_" quality:string "_" profile:string "_" in_out_home:string "_" gracenote_id:int "_" merlin_id:string "/format-" format:string "-track-" track:string "-bandwidth-" bandwidth:int "-repid-" repid:string "-" tempcol2:string
+| parse kind=relaxed tempcol2 with "tc-" tc:int "-duration-" duration:int "-frag-" fragment:long "-asset-" asset:long "." extension:string
+| project-away tempcol2
+}
+ 
+ 
+//Here is a sample script to truncate the table so the reloading won’t cause duplicate data.
+ 
+.drop extents <| .show table cdnlogs extents

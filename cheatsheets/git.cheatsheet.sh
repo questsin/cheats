@@ -7,6 +7,7 @@ git config --global core.editor "code"
 git config --global color.ui true
 git help
 git init .
+//git clone $url
 git add .
 git commit -m "init commit"
 git log -n 1
@@ -16,12 +17,16 @@ git branch
 git branch new_feature
 git checkout new_feature
 git commit -am " commit to branch"
+echo 123 > newfile
+git commit -am " commit to branch2"
 git checkout -b second_feature
+git checkout master
+git merge new_feature
 git remote
 git remote add $origin $url
 git remote -v
 git push -u origin master
-git clone $url
+git merge 
 
 ##othe workflow
 git config --global user.name "<your name>"
