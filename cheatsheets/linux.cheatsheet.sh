@@ -25,3 +25,5 @@ apt-get update
 apt-get install parallel
 gnu parallel
 | parallel -j400 --timeout 160 'bash ./1.sh {}'
+
+find . -type f -exec grep 'needle' {} \;
