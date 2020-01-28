@@ -41,7 +41,7 @@ Common;
 3. Resource Management Platform
 4. Network as a Service Management Platform;
 - platfrms = NFV, Big Data, NGOSS/BSS, IOT, Smart City, Smart Grids;
-- Product and Customer Management Platform = Product Ordiering, Activation and Config;
+- Product and Customer Management Platform = Product Ordering, Activation and Config;
 - Service Management Platform = Service Ordering, Service Cat, Service Invent, Resource Orderingm Activ and Config;
 - Resource Management Platform = Resource Ordering Activation and Config
 
@@ -78,7 +78,28 @@ Common;
 - https://github.com/better/jsonschema2db
 - npm i json-schema-table;
 
-# patterns =;
+# rest design patterns docs = 630 and 631;
+- Resource Archtypes = Resource Collection, Managed Resource, Task, Hub;
+- Contract Elements = http verbs;
+- query entities = get attribute, selection, filtering, paging
+- create via = post;
+- update via = patch, put;
+- response structure= location header, exception code;
+- exeption code = http exit codes like 404;
+
+# url paterns =;
+- select = GET {apiRoot}/{resourceName}/{resourceID}?fields={atributeName*}
+- select with filtering = GET {apiRoot}/{resourceName}/?[{atributeName}={atributeValue}&*]
+- select andfiltering = GET {apiRoot}/report?fields={atributeName*}&[{atributeName}.gt={atributeValue}&*]
+
+# pubsub =
+- post create api/hub
+- post notify post/listener
+- retun callback
+- http://in.listener.com;
+
+
+# info patterns =;
 **EntitySpecification/Entity** = many entities are described by specifications, which take the form of paper spec sheets or links to specifications that can be found when shopping on the web. The facts (attributes) for a specification, such as weight, dimensions, color, and so forth, are common to all instances of the entity related to the specification.;
 **Composite/Atomic** = entities are often grouped together. For example, bundles of product offerings, network elements composed of physical and logical resources.
 Entity/Role – an entity can often play many roles, while retaining a basic set of facts about the entity in general. For example, an individual can play the role of customer and employee, but the individual’s name and address don’t change from role to role.;
@@ -132,6 +153,12 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 - tmf630 conformance
 - api verification via business process gb921d
 - gb992 adendum mapping for bpf;
+
+# micro services= 
+- isolated
+- autonomous
+- context-bound
+- data encapulation;
 
 # Notes =;
 - C.R.U.D = Create, Read, Update , Delete 
