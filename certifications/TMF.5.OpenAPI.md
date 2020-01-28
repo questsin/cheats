@@ -12,6 +12,12 @@
 4. Reduce cost 
 5. Reduce installation difficulty;
 
+# Benifits =
+- Business agility and interop
+- Partnering for new services
+- Simplification of the IT estate
+- Reduced time to market;
+
 # Integration Program Uses =
 1. Create reusable architecture patterns
 2. Follow a design and implementation blueprint
@@ -34,9 +40,10 @@ Common;
 2. Service Management Platform
 3. Resource Management Platform
 4. Network as a Service Management Platform;
+- platfrms = NFV, Big Data, NGOSS/BSS, IOT, Smart City, Smart Grids;
 - Product and Customer Management Platform = Product Ordiering, Activation and Config;
 - Service Management Platform = Service Ordering, Service Cat, Service Invent, Resource Orderingm Activ and Config;
-- Resource Management Platform = Resource Ordering Activation and Config;
+- Resource Management Platform = Resource Ordering Activation and Config
 
 # Lifecycle =
 - concept
@@ -85,7 +92,53 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
    Business Interaction = request-order-events-notification-ack<items>;
     CharacteristicSpecification/CharacteristicValue = spec-described-by, enumby;
 
+# SOAP Web Services = 
+- XML messages
+- in web services description language (wsdl)
+- examples: TMF TIP, MTOSI, OSS/J;
+
+# REST Web Services = 
+- HTTP based
+- defiened by Swagger or RAML
+- payload in json
+- TMF Open API;
+
+# REST Contraints=
+- Client Server
+- Stateless
+- Cache
+- Interface/Uniform Contract
+- Layered System
+- Code on Demand;
+
+# Standards = 
+- W3C
+- IETF
+- HTTP, XML, URI,MIME;
+
+# Test Kits =
+- api spec
+- postman collection
+- swagger
+- ref implemenation
+- download spec
+- ctk profile;
+
+# Docs=
+- API Governance manifesto
+- GB990 api data model and info framework mapping guide book r15.5.0
+- tr250 api rest
+- tmf425 api crowdsourced guide r15.5
+- tmf630 conformance
+- api verification via business process gb921d
+- gb992 adendum mapping for bpf
+- ;
+
 # Notes =;
+- C.R.U.D = Create, Read, Update , Delete 
+- R.E.S.T = Representation State Transfer;-
+- Uniform Contract Verbs = POST, GET, PUT, DELETE, PATCH OPTIONS, HEAD; 
+- API in business speak = is a contractl
 - RAND = ~Apache Lic;
 - naming format = camel case for atributes;
 - spec = GB922 format;
@@ -97,4 +150,6 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 - ~Reactive micro service = ;
 - ~Apache openwhisk = ;
 - ~Zeebe = ;
+- Web Api Protocol and Styles = COBRA,js,  XML-RPC, SOAP, REST;
+- request/response = pattern for web api typically json or xml;
 
