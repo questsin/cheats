@@ -78,14 +78,14 @@ Common;
 - https://github.com/better/jsonschema2db
 - npm i json-schema-table;
 
-# patterns
+# patterns =;
 **EntitySpecification/Entity** = many entities are described by specifications, which take the form of paper spec sheets or links to specifications that can be found when shopping on the web. The facts (attributes) for a specification, such as weight, dimensions, color, and so forth, are common to all instances of the entity related to the specification.;
 **Composite/Atomic** = entities are often grouped together. For example, bundles of product offerings, network elements composed of physical and logical resources.
 Entity/Role – an entity can often play many roles, while retaining a basic set of facts about the entity in general. For example, an individual can play the role of customer and employee, but the individual’s name and address don’t change from role to role.;
 **Business Interaction** = as an enterprise carries out its mission, it interacts with individuals and organizations in a number of ways. This generalization pattern models the characteristics (entities, attributes, and associations) common to most interactions. As such it allows new interactions, such as customer orders, late payment notices, and so forth, to be easily added to the Information Framework. 	<BI>Categories<Entiries> relationthips;
 **CharacteristicSpecification/Characteristic** = attempting to model every attribute for new and/or existing entities or attributes associated with new types (specifications) of entities is a near impossible task. This pattern enables new attributes to be dynamically defined, eliminating the need to explicitly model them.;
 
-# Examples
+# Examples =;
 EntitySpecification/Entity = (EntitySpecification describes-specifies-defines Entity);
  Composite/Atomic = conprisesof-compound-collection 0..Atomic<Entity>;
   Entity/Role = manyRoles-plays ;
@@ -131,8 +131,7 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 - tmf425 api crowdsourced guide r15.5
 - tmf630 conformance
 - api verification via business process gb921d
-- gb992 adendum mapping for bpf
-- ;
+- gb992 adendum mapping for bpf;
 
 # Notes =;
 - C.R.U.D = Create, Read, Update , Delete 
