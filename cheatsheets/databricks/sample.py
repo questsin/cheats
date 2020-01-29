@@ -4,6 +4,12 @@ ping 10.179.64.4
 %sh
 nslookup databricks-tutorial-vm.westus2.cloudapp.azure.com
 
+%sql
+SELECT count(*) FROM databricks.airlineflight
+
+df = spark.sql("SELECT * FROM usedcars_#####")
+df
+
 jdbcHostname = "10.179.64.4"
 jdbcDatabase = "MYDB"
 userName = 'SA'
