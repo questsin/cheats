@@ -1,5 +1,6 @@
-# OpenAPI =
-- API Ecosystem
+# OpenAPI = suite of api's making it easier to create, build, operate complex innovative services;
+
+API Ecosystem =
 - rapid, repeatable
 - supports interoperability between applications and acts as the glue that holds together the other frameworks
 - The ecosystem contains representational state transfer, referred to as REST based APIs. A
@@ -12,7 +13,7 @@
 4. Reduce cost 
 5. Reduce installation difficulty;
 
-# Benifits =
+# Benefits =
 - Business agility and interop
 - Partnering for new services
 - Simplification of the IT estate
@@ -32,7 +33,7 @@ Customer,
 Service, 
 Resource, 
 Engaged Party
-Enterrise
+Enterprise
 Common;
 
 # Platforms using OpenAPI = 
@@ -40,12 +41,12 @@ Common;
 2. Service Management Platform
 3. Resource Management Platform
 4. Network as a Service Management Platform;
-- platfrms = NFV, Big Data, NGOSS/BSS, IOT, Smart City, Smart Grids;
+- platforms = NFV, Big Data, NGOSS/BSS, IOT, Smart City, Smart Grids;
 - Product and Customer Management Platform = Product Ordering, Activation and Config;
-- Service Management Platform = Service Ordering, Service Cat, Service Invent, Resource Orderingm Activ and Config;
+- Service Management Platform = Service Ordering, Service Cat, Service Invent, Resource Ordering Active and Config;
 - Resource Management Platform = Resource Ordering Activation and Config
 
-# Lifecycle =
+# Life cycle =
 - concept
 - identification
 - design
@@ -55,7 +56,7 @@ Common;
 - testing;
 
 - concept = API Proposal;
-- identification = requirments;
+- identification = requirements;
 - design =
    - what entities 
    - attributes
@@ -65,7 +66,7 @@ Common;
 - implement = API Implementation Code Postman testing suite;
 - testing = testing via CTK script;
 
-# openapi tools =
+# open api tools =
 - linux foundation swagger 3.0
 - swagger for doc, spec, swaggerhub
 - json editor
@@ -87,7 +88,7 @@ Common;
 - response structure= location header, exception code;
 - exeption code = http exit codes like 404;
 
-# url paterns =;
+# url patterns =;
 - select = GET {apiRoot}/{resourceName}/{resourceID}?fields={atributeName*}
 - select with filtering = GET {apiRoot}/{resourceName}/?[{atributeName}={atributeValue}&*]
 - select andfiltering = GET {apiRoot}/report?fields={atributeName*}&[{atributeName}.gt={atributeValue}&*]
@@ -124,7 +125,7 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 - payload in json
 - TMF Open API;
 
-# REST Contraints=
+# REST Constraints=
 - Client Server
 - Stateless
 - Cache
@@ -141,35 +142,37 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 - api spec
 - postman collection
 - swagger
-- ref implemenation
+- ref implementation
 - download spec
 - ctk profile;
 
 # Docs=
 - API Governance manifesto
-- GB990 api data model and info framework mapping guide book r15.5.0
-- tr250 api rest
-- tmf425 api crowdsourced guide r15.5
-- tmf630 conformance
-- api verification via business process gb921d
-- gb992 adendum mapping for bpf;
+- `GB990 api data model` and info framework mapping guide book r15.5.0
+- `tr250 api rest` conformance
+- `tmf425 api crowd sourced guide` r15.5
+- `tmf630 conformance`
+- api verification via business process `gb921d`
+- `gb992` adendum mapping for bpf;
 
 # micro services= 
 - isolated
 - autonomous
 - context-bound
-- data encapulation;
+- data encapsulation;
 
 # Notes =;
-- C.R.U.D = Create, Read, Update , Delete 
-- R.E.S.T = Representation State Transfer;-
+- C.R.U.D = Create, Read, Update , Delete; 
+- R.E.S.T = Representation State Transfer;
+- S.O.A.P = Simple Object Access Protocol;
 - Uniform Contract Verbs = POST, GET, PUT, DELETE, PATCH OPTIONS, HEAD; 
-- API in business speak = is a contractl
+- API in business speak = is a contract;
+- how many levels for API MAP = 3; 
 - RAND = ~Apache Lic;
-- naming format = camel case for atributes;
+- naming format = camel case for attributes;
 - spec = GB922 format;
 - Swagger.io = https://editor.swagger.io/;
-- CTK = is a testsuite from postman;
+- CTK = is a test suite from postman;
 - common domain  = represents APIs that can be used across two or more domains;
 - "first level" = APIs may contain sub-APIs which inherit from the first-level API;
 - CQRS = Command Query Responsibility Segregation (CQRS).;
@@ -178,4 +181,5 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 - ~Zeebe = ;
 - Web Api Protocol and Styles = COBRA,js,  XML-RPC, SOAP, REST;
 - request/response = pattern for web api typically json or xml;
+- governance activities = management of portfolio, life cycle, standards and policies;
 
