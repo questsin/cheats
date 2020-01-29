@@ -89,9 +89,9 @@ Common;
 - exeption code = http exit codes like 404;
 
 # url patterns =;
-- select = GET {apiRoot}/{resourceName}/{resourceID}?fields={atributeName*}
-- select with filtering = GET {apiRoot}/{resourceName}/?[{atributeName}={atributeValue}&*]
-- select andfiltering = GET {apiRoot}/report?fields={atributeName*}&[{atributeName}.gt={atributeValue}&*]
+- select = GET {apiRoot}/{resourceName}/{resourceID}?fields={atributeName*};
+- select with filtering = GET {apiRoot}/{resourceName}/?[{atributeName}={atributeValue}&*];
+- select and filtering = GET {apiRoot}/report?fields={atributeName*}&[{atributeName}.gt={atributeValue}&*];
 
 # pubsub =
 - post create api/hub
@@ -100,7 +100,7 @@ Common;
 - http://in.listener.com;
 
 
-# info patterns =;
+# info patterns = similar to sid;
 **EntitySpecification/Entity** = many entities are described by specifications, which take the form of paper spec sheets or links to specifications that can be found when shopping on the web. The facts (attributes) for a specification, such as weight, dimensions, color, and so forth, are common to all instances of the entity related to the specification.;
 **Composite/Atomic** = entities are often grouped together. For example, bundles of product offerings, network elements composed of physical and logical resources.
 Entity/Role – an entity can often play many roles, while retaining a basic set of facts about the entity in general. For example, an individual can play the role of customer and employee, but the individual’s name and address don’t change from role to role.;
@@ -121,7 +121,7 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 
 # REST Web Services = 
 - HTTP based
-- defiened by Swagger or RAML
+- defined by Swagger or RAML
 - payload in json
 - TMF Open API;
 
@@ -148,12 +148,12 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 
 # Docs=
 - API Governance manifesto
-- `GB990 api data model` and info framework mapping guide book r15.5.0
 - `tr250 api rest` conformance
 - `tmf425 api crowd sourced guide` r15.5
 - `tmf630 conformance`
 - api verification via business process `gb921d`
-- `gb992` adendum mapping for bpf;
+- `GB990 api data model` and info framework mapping guide book r15.5.0
+- `gb992` addendum mapping for bpf;
 
 # micro services= 
 - isolated
