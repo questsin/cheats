@@ -69,6 +69,7 @@ INSERT INTO [dbo].[EmployeeRemuneration] VALUES (4,'Data Scientist',8000,2);
 INSERT INTO [dbo].[EmployeeRemuneration] VALUES (5,'Human Resource',4600,3);
 INSERT INTO [dbo].[EmployeeRemuneration] VALUES (6,'Sr.Software Developer',6000,1);
 
+select * into [dbo].[nick] from [dbo].[EmployeeBasic] 
 
 SELECT * FROM [dbo].[EmployeeBasic];
 
