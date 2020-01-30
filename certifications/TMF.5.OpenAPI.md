@@ -6,25 +6,25 @@ API Ecosystem =
 - The ecosystem contains representational state transfer, referred to as REST based APIs. A
 - RESTful API is an API that uses HTTP requests to GET, PUT, POST and DELETE data.;
 
-# Goals =
-1. Encourage competition
-2. Ensure interoperability
-3. Reduce customization
-4. Reduce cost 
-5. Reduce installation difficulty;
+# Goals (Reduce)3 =
+1. `Encourage competition`
+2. `Ensure interoperability`
+3. `Reduce customization`
+4. `Reduce cost `
+5. `Reduce installation difficulty`;
 
 # Benefits =
-- Business agility and interop
-- Partnering for new services
-- Simplification of the IT estate
-- Reduced time to market;
+- agility/interop - `Business agility and interop` 
+- partner - `Partnering for new services`
+- simplify - `Simplification of the IT estate`
+- TTM - `Reduced time to market`;
 
 # Integration Program Uses =
-1. Create reusable architecture patterns
-2. Follow a design and implementation blueprint
-3. Integrate systems from multiple vendors
-4. Define new interfaces
-5. Make changes to systems quickly;
+1. `Create reusable architecture patterns`
+2. `Follow a design and implementation blueprint`
+3. `Integrate systems from multiple vendors`
+4. `Define new interfaces`
+5. `Make changes to systems quickly`;
 
 # Domains =
 market and Sales, 
@@ -42,13 +42,13 @@ Common;
 3. Resource Management Platform
 4. Network as a Service Management Platform;
 - platforms = NFV, Big Data, NGOSS/BSS, IOT, Smart City, Smart Grids;
-- Product and Customer Management Platform = Product Ordering, Activation and Config;
-- Service Management Platform = Service Ordering, Service Cat, Service Invent, Resource Ordering Active and Config;
-- Resource Management Platform = Resource Ordering Activation and Config
+- Product and Customer Management Platform = `Product Ordering, Activation and Config`;
+- Service Management Platform = `Service Ordering, Service Cat, Service Invent, Resource Ordering Active and Config`;
+- Resource Management Platform = `Resource Ordering Activation and Config`
 
 # Life cycle =
-- concept
-- identification
+- `concept`
+- `identification`
 - design
 - implementation
 - spec
@@ -149,8 +149,8 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 # Docs=
 - API Governance manifesto
 - `tr250 api rest` conformance
-- `tmf425 api crowd sourced guide` r15.5
-- `tmf630 conformance`
+- `tmf-425 api crowd sourced guide` r15.5
+- `tmf-630 conformance`
 - api verification via business process `gb921d`
 - `GB990 api data model` and info framework mapping guide book r15.5.0
 - `gb992` addendum mapping for bpf;
@@ -181,5 +181,66 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 - ~Zeebe = ;
 - Web Api Protocol and Styles = COBRA,js,  XML-RPC, SOAP, REST;
 - request/response = pattern for web api typically json or xml;
-- governance activities = management of portfolio, life cycle, standards and policies;
+- governance activities = `management of portfolio`, life cycle, standards and policies;
 
+# Conformance = 
+;
+
+# Account Management API
+
+Provides standardized mechanism for the management of billing and settlement accounts, as well as for financial accounting (account receivable) either in B2B or B2B2C contexts
+
+# Appointment API
+
+The appointment API provides a standardized mechanism to book an appointment with all the necessary appointment characteristics. The API allows searching of free slots based on parameters, as for example a party, then creating the appointment. The appointment has characteristics such as nature of appointment, place of appointment.
+
+# Customer Management API
+
+Provides a standardized mechanism for customer and customer account management, such as creation, update, retrieval, deletion and notification of events.
+
+# Partnership Type Management API
+
+Standardized mechanisms for creating partnership types. It is one of the APIs involved in an onboarding process. Identifies a type of a partnership between parties, including the list of role types that are permitted (i.e Buyer, Seller, Developer). Role types may refer to agreement specifications to be signed by parties playing the role.
+The API allows the retrieval, creation, update, and deletion of partnership type and its owned sub-resources.
+
+# Party Management API
+
+Provides a standardized mechanism for party management such as creation, update, retrieval, deletion and notification of events.
+Party can be an individual or an organization that has any kind of relationship with the enterprise.
+
+# Party Role Management API
+
+A standardized mechanism for general party roles and includes operations such as creation, update, retrieval, deletion and notification of events. Notice that for the management of customers there is a specific Customer Management API.
+Party Role management API manages the following data resources: PartyRole
+
+# Privacy Management API
+
+The Privacy management API provides a standardized mechanism for privacy profile types, privacy profiles and privacy agreements such as creation, update, retrieval, deletion and notification of events.
+
+# Product Catalog Management API
+
+Provides a standardized solution for rapidly adding partners’ products to an existing Catalog. It brings the capability for Service Providers to directly feed partners systems with the technical description of the products they propose to them. 
+
+# Product Inventory Management API
+
+Provides standardized mechanism for product inventory management such as creation, partial or full update and retrieval of the representation of a product in the inventory. It also allows the notification of events related to product lifecycle.
+
+# Product Offering Qualification API
+
+Product Offering Qualification API is one of Pre-Ordering Management API Family. Product Offering Qualification API goal is to provide Product Offering commercial eligibility.
+
+# Product Ordering API
+
+Provides a standardized mechanism for placing a product order with all of the necessary order parameters. The API consists of a simple set of operations that interact with CRM/Order negotiation systems in a consistent manner. A product order is created based on a product offering that is defined in a catalog. The product offering identifies the product or set of products that are available to a customer and includes characteristics such as pricing, product options and market.
+
+# Quote Management API
+
+The Quote API is one of the Pre-Ordering Management APIs. The customer Quote API provides a standardized mechanism for placing a customer quote with all of the necessary quote parameters.
+
+# Shopping Cart API
+
+A standardized mechanism for the management of shopping carts. Including creation, update, retrieval, deletion and notification of an event. Shopping Cart entity is used for the temporary selection and reservation of product offerings in e-commerce and retail purchase.
+
+# Trouble Ticket API
+
+Provides a standardized client interface to Trouble Ticket Management Systems for creating, tracking and managing trouble tickets among partners as a result of an issue or problem identified by a customer or another system. Examples of Trouble Ticket API clients include CRM applications, network management or fault management systems, or other trouble ticket management systems (e.g. B2B).
