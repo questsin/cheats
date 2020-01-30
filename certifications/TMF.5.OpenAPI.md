@@ -69,12 +69,27 @@ Common;
 # open api tools =
 - linux foundation swagger 3.0
 - swagger for doc, spec, swaggerhub
+- Swagger.io = https://editor.swagger.io/;
 - json editor
-- postman test suite
-- https://circleci.com/
-- aws cloud9 ide
-- https://jsonschema.net/
-- https://github.com/snowplow/schema-guru
+- postman - test suite
+- circleci - https://circleci.com/
+- ide - aws cloud9
+- schema - https://jsonschema.net/
+- git - https://github.com/snowplow/schema-guru
+
+# IBM open lab
+- Node.js
+- OAuth2 and Connect ID
+- API Connect
+- OpenWhisk
+- Docker
+- Kafka
+- Kubernetes
+- MQTT and AMQP
+- Spring Boot and Cloud
+-MongoDB
+
+# related
 - https://github.com/json-schema-faker/json-schema-faker
 - https://github.com/better/jsonschema2db
 - npm i json-schema-table;
