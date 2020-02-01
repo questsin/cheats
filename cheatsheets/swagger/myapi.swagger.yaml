@@ -1,0 +1,73 @@
+openapi: "3.0.0"
+info: 
+  title: myapi
+  version: 1.0.0
+paths:
+  /product/{productId}:
+    get: 
+      parameters:
+        - in: path
+          name: productId
+          decription: 
+          required: true
+          schema: 
+            type: integer
+            example: 12345
+        - in: header
+          name: customer-security-header
+          required: false
+          schema: 
+            type: integer
+            example: 12-345
+      response:
+        200:
+          description: list of products
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  id:
+                    type: integer
+                    exaple: 400
+                  name:
+                    type: string
+                    exaple: lemon water
+  /product:
+    get:
+      parameters:
+        - in: query
+          name: pageNumber
+          decription: 
+          required: false
+          schema: 
+            type: integer
+            example: 1
+        - in: query
+          name: pageSize
+          decription: 
+          required: false
+          schema: 
+            type: integer
+            example: 1
+            maximum: 100
+      response:
+        200:
+          description: list of products
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schema/Product'
+components: 
+  schemas:
+    Product:
+      type: object
+      properties:
+        id:
+          type: integer
+          example: 400
+        name:
+          type: string
+          example: lemon water

@@ -1,0 +1,73 @@
+"responses": {
+    "200": {
+        "description": "Success", 
+        "headers": {
+            "X-Total-Count": {
+                "type": "integer", 
+                "description": "Total number of items matching criteria"
+            }, 
+            "X-Result-Count": {
+                "type": "integer", 
+                "description": "Actual number of items returned in the response body"
+            }
+        }, 
+        "schema": {
+            "items": {
+                "$ref": "#/definitions/PartnershipType"
+            }, 
+            "type": "array"
+        }
+    }, 
+    "201": {
+        "description": "Created", 
+        "schema": {
+            "$ref": "#/definitions/PartnershipType"
+        }
+    }, 
+    "204": {
+        "description": "Deleted"
+    }, 
+
+    "400": {
+        "description": "Bad Request", 
+        "schema": {
+            "$ref": "#/definitions/Error"
+        }
+    }, 
+    "401": {
+        "description": "Unauthorized", 
+        "schema": {
+            "$ref": "#/definitions/Error"
+        }
+    }, 
+    "403": {
+        "description": "Forbidden", 
+        "schema": {
+            "$ref": "#/definitions/Error"
+        }
+    }, 
+    "404": {
+        "description": "Not Found", 
+        "schema": {
+            "$ref": "#/definitions/Error"
+        }
+    }, 
+    "405": {
+        "description": "Method Not allowed", 
+        "schema": {
+            "$ref": "#/definitions/Error"
+        }
+    }, 
+    "409": {
+        "description": "Conflict", 
+        "schema": {
+            "$ref": "#/definitions/Error"
+        }
+    }, 
+    "500": {
+        "description": "Internal Server Error", 
+        "schema": {
+            "$ref": "#/definitions/Error"
+        }
+    }
+}
