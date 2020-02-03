@@ -6,27 +6,27 @@ API Ecosystem =
 - The ecosystem contains representational state transfer, referred to as REST based APIs. A
 - RESTful API is an API that uses HTTP requests to GET, PUT, POST and DELETE data.;
 
-# Goals (Reduce)3 =
+# Goals (En)2(Reduce)3 =
 1. `Encourage competition`
 2. `Ensure interoperability`
 3. `Reduce customization`
 4. `Reduce cost `
 5. `Reduce installation difficulty`;
 
-# Benefits =
-- agility/interop - `Business agility and interop` 
+# Benefits (PAST) =
 - partner - `Partnering for new services`
+- agility/interop - `Business agility and interop` 
 - simplify - `Simplification of the IT estate`
 - TTM - `Reduced time to market`;
 
-# Integration Program Uses =
+# Integration Program Uses (CFI-DeMa)=
 1. `Create reusable architecture patterns`
 2. `Follow a design and implementation blueprint`
 3. `Integrate systems from multiple vendors`
 4. `Define new interfaces`
 5. `Make changes to systems quickly`;
 
-# Domains =
+# 8 Domains =
 market and Sales, 
 Product, 
 Customer, 
@@ -42,11 +42,12 @@ Common;
 3. Resource Management Platform
 4. Network as a Service Management Platform;
 - platforms = NFV, Big Data, NGOSS/BSS, IOT, Smart City, Smart Grids;
+- `template` Platform = `Ordering, Config, Activate `;
 - Product and Customer Management Platform = `Product Ordering, Activation and Config`;
 - Service Management Platform = `Service Ordering, Service Cat, Service Invent, Resource Ordering Active and Config`;
 - Resource Management Platform = `Resource Ordering Activation and Config`
 
-# Life cycle =
+# Life cycle (CIDISIT)=
 - `concept`
 - `identification`
 - design
@@ -95,7 +96,7 @@ Common;
 - npm i json-schema-table;
 
 # rest design patterns docs = 630 and 631;
-- Resource Archtypes = Resource Collection, Managed Resource, Task, Hub;
+- Resource Archtypes = `Resource Collection, Managed Resource, Task, Hub`;
 - Contract Elements = http verbs;
 - query entities = get attribute, selection, filtering, paging
 - create via = post;
@@ -162,13 +163,30 @@ EntitySpecification/Entity = (EntitySpecification describes-specifies-defines En
 - ctk profile;
 
 # Docs=
+- coffeebreak = `tr250 api rest` conformance
+- schools out crowd = `tmf-425 api crowd sourced guide` r15.5
+- dinner = `tmf-630 conformance`
+- neflix, 21juptstreet = api verification via business process `gb921d`
+- netflix, gretsky knows data `GB990 api data model` and info framework mapping guide book r15.5.0
+- `gb992` addendum format mapping for bpf;
+
+# DOCS
 - API Governance manifesto
-- `tr250 api rest` conformance
-- `tmf-425 api crowd sourced guide` r15.5
-- `tmf-630 conformance`
-- api verification via business process `gb921d`
-- `GB990 api data model` and info framework mapping guide book r15.5.0
-- `gb992` addendum mapping for bpf;
+- TR250 `API REST Conformance Guidelines R15.5.1`
+  - the development of TM Forum REST APIs Conformance Certification. 
+  - Application Programming Interfaces, 
+- TMF425 `API Crowdsourcing Template R17.5.1`
+  -  template for crowdsourcing APIs to TM Forum. 
+- TMF630 `API Design Guidelines 3.0 R17.5.1`
+  - TM Forum APIs using REST. 
+  - Entity CRUD operations and Task operations. 
+  - It also provides information on filtering and attribute selection. 
+  - notification management in REST based systems. 
+- GB921 `Business Process Framework (eTOM) Models R19.0`
+- GB990 `API Data Model and Information Framework Mapping Guide Book R16.0.1`
+  - deriving concrete API data models from SID model abstractions. 
+- GB992 `Open API Map R18.0.1`
+  - The API Map is intended to show the complete landscape of all the necessary APIs in a telecommunications ecosystem. 
 
 # micro services= 
 - isolated
