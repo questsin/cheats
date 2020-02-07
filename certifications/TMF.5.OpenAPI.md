@@ -46,7 +46,8 @@ Common;
 - Product and Customer Management Platform = `Product Ordering, Activation and Config`;
 - Service Management Platform = `Service Ordering, Service Cat, Service Invent, Resource Ordering Active and Config`;
 - Resource Management Platform = `Resource Ordering Activation and Config`
-
+- ONAP - 
+- 
 # Life cycle (CIDISIT)=
 - `concept`
 - `identification`
@@ -277,3 +278,42 @@ A standardized mechanism for the management of shopping carts. Including creatio
 # Trouble Ticket API
 
 Provides a standardized client interface to Trouble Ticket Management Systems for creating, tracking and managing trouble tickets among partners as a result of an issue or problem identified by a customer or another system. Examples of Trouble Ticket API clients include CRM applications, network management or fault management systems, or other trouble ticket management systems (e.g. B2B).
+
+# Practionioners
+Using
+- Open API MAP =
+   - level 0 = API Domain like Customer 
+   - level 1 = Like Service Qual API
+   - level 2 = API resource like entity or task
+- Open API Table =
+  - spec
+  - pstman
+  - swagger
+  - ref implementation code
+  - ctk profile
+- Similar to 
+  - MEF SONATA = Customer Management
+  - MEF LEGATO = Service Management 
+  - MEF PRESTO = Resource management
+
+Modeling
+Extending
+Design 
+Implement
+
+Authentication and Authorization
+Authentication
+Authorization
+OpenID Connect = Authentication
+Oauth2 = Authorization
+SAML = (SSO across sites)
+Delegate authorization = gave birth 2 Oauth2, oauth flow
+resource owner = customer
+client = app
+auth server = facebook
+resource server = facebook api
+authorization grant
+redirect uri
+access token = need by client to do suff on behalf of resource owner/customer
+code grant = auth grant that gets an auth code. to exchange for access token
+access token = can act directly on behalf of owner/customer
