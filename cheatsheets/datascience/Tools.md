@@ -1,5 +1,7 @@
 tools
 =====
 seaborn: statistical data visualization
-keras
 matlab?
+zeppelin
+melt() 
+weka, 
