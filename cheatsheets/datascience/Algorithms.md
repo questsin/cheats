@@ -6,6 +6,11 @@ bandit problem, early stop strategies, eval mentrics
 cross-validation, smote, seq model
 hyperparameter tunning
 automated ml in azure
+1hotencoder
+encoder / decoder
+Convolutional encoder
+variational encoder
+Relu vs sigmoid 
 
 
 # ML
