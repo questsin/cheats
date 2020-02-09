@@ -1,7 +1,10 @@
-tools
-=====
-seaborn: statistical data visualization
+# tools
 matlab?
-zeppelin
 melt() 
 weka, 
+
+## notebooks
+- zeppelin
+
+## visulizations
+- seaborn ~matplotlib =  statistical data visualization
