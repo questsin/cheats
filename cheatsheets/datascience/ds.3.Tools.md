@@ -1,4 +1,7 @@
 # tools
+pyton
+r
+sql
 matlab?
 melt() 
 weka, 
