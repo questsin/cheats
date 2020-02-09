@@ -7,28 +7,63 @@
 - math
   - probability
   - linear algebra
+    - y =xb + e
+    - matrices and vectors
+    - scale up, generalise.
   - caculus
+    - max/min
+  - bayes theorem
   - regression
+    - linear regression
 - data
   - Qualitative ~Categrical
     - nominal = dim
     - ordinal = detail
   - numerical = measure
+- distributions
+  - bell curve
+  - positive skew
+  - negative skew
+  - u-shape
 - visualizations
   - histograms vs scatter plots
   - venn diagram = overlaping circles
 - Model
   - inference
-  - hypothesis
+  - hypothesis ~(A/B)
     - null hypothesis 
     - alternative 
     - test statistic =alt - null
+  - rules / decision trees
+    - explicit rules
+    - deviation of rules
+    - generation of implicit rules
 - confidence
   - bootstrap
   - confidence interval
 - permutation
+- clustering  
+  - kmeans, density, distribution
 - classification
   - class vs attributes
   - k-nearest neighbour k-nn
-  - binary class
+  - binary/two class
   - multiclass
+- anomaly
+  - one class support vector model (SVM)
+  - principle component analysis (PCA)
+- dim reduction
+- regression
+  - contnuous quantity
+  - poisson
+
+# ML Apps
+Supervised 
+- Regression 
+- Classification
+- reinforcement learning
+Unsupervised
+- Clustering
+- Anomaly detection
+- Recommendation
+

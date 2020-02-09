@@ -35,3 +35,17 @@ Validate Model
 Deploy Model
 Monitor Model
 Retain Model
+
+# experiment
+- clean data
+  - remove nulls
+  - selet columns - remove unrelevent clumns
+- `split data` (train/test) = cross validation
+- `train model`
+- `score model`
+  - train vs test
+- `evaluate model`
+- deploy to web service
+  - request/response (RRS)
+  - batch execution (BES)
+ 

@@ -1,10 +1,17 @@
 # tools
-pyton
-r
+spreadsheets
 sql
-matlab?
+python
+r
+matlab
 melt() 
-weka, 
+weka
+
+# SaaS
+MS Az ML
+Google AutoML
+AWS ML
+IBM Watson
 
 ## notebooks
 - zeppelin
