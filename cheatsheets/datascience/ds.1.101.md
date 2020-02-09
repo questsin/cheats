@@ -4,6 +4,11 @@
   - scope = georaphy, time coverage
   - temporality = events, time zones
   - faithfulness = actually captures reality > data cleansing
+- math
+  - probability
+  - linear algebra
+  - caculus
+  - regression
 - data
   - Qualitative ~Categrical
     - nominal = dim
@@ -11,6 +16,7 @@
   - numerical = measure
 - visualizations
   - histograms vs scatter plots
+  - venn diagram = overlaping circles
 - Model
   - inference
   - hypothesis
