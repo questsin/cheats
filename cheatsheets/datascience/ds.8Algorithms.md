@@ -1,5 +1,15 @@
 # Agorithms
 
+# MS AI Cognitive Services
+## Vision
+- RESNET
+## Speech
+- Switchboard
+## Language
+## Search
+## Knowledge
+## Bot Framework
+
 # ???
 AMLS
 bandit problem, early stop strategies, eval mentrics
@@ -14,14 +24,25 @@ Relu vs sigmoid
 
 
 # ML
-Linear Regression
-Classificaion
-Positive / Negative Skkew
-Poisson regression
-Fishers exact test
-Pearson
-PCA
+## statistics
+    mode, median, mean, variance,
+    bell curve
+    Positive / Negative Skkew
+    ucurve
+## Classificaion
+## Anomaly
+## Clustering
+## Regression
+    Linear Regression
+    Poisson regression
+## Reinforcement
+## ?
+    Fishers exact test
+    Pearson
+    PCA
 
 # Deep Learning
 RNN vs CNN vs DCN vs GAN
-rnn,dnn,ann
+rnn =
+dnn =
+ann =

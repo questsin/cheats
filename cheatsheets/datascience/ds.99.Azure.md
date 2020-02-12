@@ -15,6 +15,7 @@ MMMLSpark
   - OpenCV  
   - Microsoft Cognitive Toolkit 
 AI Toolkit for Az IoT Edge
+MS Cognitive Toolkit (CNTK)~ TensorFlow
 
 `Azure Machine Learning Workbench (deprecated)`
 - Desktop App
