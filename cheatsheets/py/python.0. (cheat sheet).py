@@ -9,6 +9,11 @@ age = int(age)
 pi = input("What's the value of pi? ")
 pi = float(pi)
 
+savings = 100
+result = 100 * 1.10 ** 7
+print("I started with $" + str(savings) + " and now have $" + str(result) + ". Awesome!")
+
+
 squares = []
 for x in range(1, 11):
 	squares.append(x**2)

@@ -59,11 +59,17 @@
 
 # ML Apps
 Supervised 
-- Regression 
-- Classification
+- Regression?? predict metrics
+  - Support vector machines (SVMs) 
+- Classification?? predict labels
+  - Logistic regression = binary like yes/no
+  - Support vector machines (SVMs) 
 - reinforcement learning
 Unsupervised
 - Clustering
+  - k-means clustering
+  - support vector clustering
+  - spectral clustering??
 - Anomaly detection
 - Recommendation
 
