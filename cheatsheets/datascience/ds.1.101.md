@@ -1,4 +1,7 @@
 decriptive stats > inferential stats > rule-based models > ML models
+scoping > development > deployment
+data > data set > wrangle
+train > validate > test > score > evaluate
 
 - exploratory data analysis (eda)
   - granularity = hiecharcy
