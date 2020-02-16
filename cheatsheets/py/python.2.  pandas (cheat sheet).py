@@ -7,6 +7,7 @@ import pandas as pd
  
 df=pd.read_csv('pupils.csv')
 df.head()
+df.sample(5)
 len(df)
 df.columns
 df.info()

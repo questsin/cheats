@@ -26,7 +26,8 @@ decriptive stats > inferential stats > rule-based models > ML models
     - binary
     - multi-class
     - ordinal = detail
-  - numerical = measure, continous 
+  - numerical = measure, continous > groups
+  - class = output label
 - distributions
   - bell curve
   - positive skew
@@ -77,6 +78,21 @@ T-tests (two categories)
 ANOVA (Analysis of Variance) (multiple groups)
 validating modes
 hyperparameter tuning
+
+
+# Azure ML Studio
+data > dataset
+split data
+train < model
+score
+evaluate
+
+no-validation = train/test
+cross-validation = model validation technique
+- singular cross-valiation
+  - train/validate/test
+- k-flold 
+
 
 # ML Apps
 Supervised 
