@@ -63,5 +63,5 @@ my_simple_series = pd.Series(np.random.randn(5), index=['a', 'b', 'c', 'd', 'e']
 my_dictionary = {'a' : 45., 'b' : -19.5, 'c' : 4444}
 my_second_series = pd.Series(my_dictionary)
 
-data['x'] = data['x'].astype('category')
+data['x'] = data['x'].astype('category').cat.codes
 data.select_dtypes(['category']).columns

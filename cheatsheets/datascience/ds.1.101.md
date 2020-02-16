@@ -1,3 +1,4 @@
+decriptive stats > inferential stats > rule-based models > ML models
 
 - exploratory data analysis (eda)
   - granularity = hiecharcy
@@ -13,8 +14,8 @@
     - scale up, generalise.
   - caculus
     - max/min
-  - bayes theorem
-  - bayes rule - a priori probabilities
+  - bayes theorem ~classification
+  - bayes rule - a priori probabilities = upfront
     - 
   - regression
     - linear regression
@@ -44,7 +45,9 @@
   - hypothesis ~(A/B)
     - null hypothesis 
     - alternative 
+    - SELET TEST
     - test statistic =alt - null
+    - SIGNIFICANCE LEVEL
   - rules / decision trees
     - explicit rules
     - deviation of rules
@@ -67,6 +70,13 @@
 - regression
   - contnuous quantity
   - poisson
+
+
+T-tests (two categories)
+- p-value
+ANOVA (Analysis of Variance) (multiple groups)
+validating modes
+hyperparameter tuning
 
 # ML Apps
 Supervised 

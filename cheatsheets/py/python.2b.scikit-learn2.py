@@ -10,11 +10,14 @@ y = 0.5 * x + 1.0 + np.random.normal(size=x.shape)
 
 # create a linear regression model
 model = LinearRegression()
+#model = GaussianNB()
 model.fit(x, y)
 
 # predict y from the data
 x_new = np.linspace(0, 30, 100)
 y_new = model.predict(x_new[:, np.newaxis])
+#accuracy_score(y,y_new)
+
 
 # plot the results
 plt.figure(figsize=(4, 3))
