@@ -1,4 +1,8 @@
 import numpy as np
+
+
+np.__version__
+
 np.arange(1,5)
 np.linspace(1,5,4)
 np.zeros(3)
@@ -25,3 +29,15 @@ my_array.size
 v.reshape((4, 3))
 mat[np.abs(mat - mat.mean()) > 1.5*mat.std()]
 import this
+
+np.mean
+np.meadian
+np.var 
+np.max
+np.min
+np.std
+np.ptp # peak to peak
+np.percentile
+
+
+

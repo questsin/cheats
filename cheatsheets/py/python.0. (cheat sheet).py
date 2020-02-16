@@ -1,5 +1,10 @@
 #https://ehmatthes.github.io/pcc/cheatsheets/README.html
 #$ python --version
+import sys
+print("Python version")
+print (sys.version)
+print("Version info.")
+print (sys.version_info)
 
 name = input("What's your name? ")
 print("Hello, " + name + "!")
@@ -49,7 +54,8 @@ wdf.describe()
 ddf = df.groupby(df['lpep_pickup_datetime'].dt.date).count()
 
 import pickle
-with open('model.pickle', 'wb') as out:
-    pickle.dump(pipe, out)
-with open('model.pickle', 'rb') as fp
- data = pickle.load(fp)
+favorite_color = { "lion": "yellow", "kitty": "red" }
+pickle.dump( favorite_color, open( "save.p", "wb" ) )
+
+favorite_color = pickle.load( open( "save.p", "rb" ) )
+favorite_color

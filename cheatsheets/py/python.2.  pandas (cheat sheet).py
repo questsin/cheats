@@ -11,6 +11,7 @@ len(df)
 df.columns
 df.info()
 df = pd.read_csv(fname, parse_dates=['time'])
+df.to_csv('pupils2.csv', index = False)
 
 #Select * from df where index between 2 and 6
 df[2:6]
@@ -47,6 +48,9 @@ for i,v in df.iterrows():
 df.drop(df['Age']==6,inplace=True)
 df.drop(df['Age']==6,inplace=True)
 
+df.describe()
+df.corr()
+
 #Select count(Name), sum(income) , max(Age) from df
 df.agg({'Name':'count', 'income':'sum' , 'Age':'max'})
 df1=df.groupby(['Country','family persons']).count()
@@ -58,3 +62,6 @@ df1
 my_simple_series = pd.Series(np.random.randn(5), index=['a', 'b', 'c', 'd', 'e'])
 my_dictionary = {'a' : 45., 'b' : -19.5, 'c' : 4444}
 my_second_series = pd.Series(my_dictionary)
+
+data['x'] = data['x'].astype('category')
+data.select_dtypes(['category']).columns

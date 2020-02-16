@@ -5,6 +5,7 @@
   - temporality = events, time zones
   - faithfulness = actually captures reality > data cleansing
 - math
+  - tensor = matrix
   - probability
   - linear algebra
     - y =xb + e
@@ -13,13 +14,18 @@
   - caculus
     - max/min
   - bayes theorem
+  - bayes rule - a priori probabilities
+    - 
   - regression
     - linear regression
+      - univariate, bivariate, multivariate
 - data
-  - Qualitative ~Categrical
+  - Qualitative ~Categorical
     - nominal = dim
+    - binary
+    - multi-class
     - ordinal = detail
-  - numerical = measure
+  - numerical = measure, continous 
 - distributions
   - bell curve
   - positive skew
@@ -29,6 +35,11 @@
   - histograms vs scatter plots
   - venn diagram = overlaping circles
 - Model
+  - ml data needs to be numberic, standardied, Normalized
+  - text
+    - encoding: one hot, freq-based, prediction-based
+  - images
+    - (h,w,rgb)
   - inference
   - hypothesis ~(A/B)
     - null hypothesis 
