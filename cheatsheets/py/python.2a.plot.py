@@ -17,7 +17,8 @@ sns.heatmap(x,y)
 sns.scatterplot(x=,y=,data=)
 #boxplot, barplot, countplot
 #violinplot
-plt.show()
+df.groupby(['branch','gender']).size().unstack().plot(kind='bar')
+plt.show()plt.show()
 #Kernel Density Estimation (KDE) Plots,
 #Joint Plots
 #hexbin plots
