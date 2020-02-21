@@ -1,6 +1,11 @@
 #https://ehmatthes.github.io/pcc/cheatsheets/README.html
 #$ python --version
+import builtins
+dir(builtins)  
+
 import sys
+dir(sys)  
+
 print("Python version")
 print (sys.version)
 print("Version info.")
@@ -59,3 +64,7 @@ pickle.dump( favorite_color, open( "save.p", "wb" ) )
 
 favorite_color = pickle.load( open( "save.p", "rb" ) )
 favorite_color
+
+if __name__ == "__main__":
+    import sys
+    fib(int(sys.argv[1]))
