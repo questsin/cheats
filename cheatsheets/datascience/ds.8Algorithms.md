@@ -21,6 +21,8 @@ encoder / decoder
 Convolutional encoder
 variational encoder
 Relu vs sigmoid 
+smote?,
+ mice
 
 
 # ML
