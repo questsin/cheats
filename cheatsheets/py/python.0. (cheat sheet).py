@@ -48,6 +48,16 @@ with open(fname) as fp:
             break
         print(line[:-1])
 
+with open('workfile') as f:
+    read_data = f.read()
+# We can check that the file has been automatically closed.
+f.closed
+
+import json
+json.dumps([1, 'simple', 'list'])
+json.dump(x, f)
+x = json.load(f)
+
 import sqlite3
 conn = sqlite3.connect('weather.db')
 wdf = pd.read_sql('SELECT * FROM weather', conn)

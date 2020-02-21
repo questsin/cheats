@@ -1,7 +1,13 @@
-from azureml import Workspace
+from azureml import Workspace, Datastore
 
 ws = Workspace()
 ws = Workspace.from_config()
+
+datastore = ws.get_default_datastore()
+blobstore = Datastore(ws,'name')
+filestore = Datastore(ws,'name')
+
+blobstore.get_default(ws).upload_files(["array of files"])
 
 ds = ws.datasets['*.csv']
 df = ds.to_dataframe()
