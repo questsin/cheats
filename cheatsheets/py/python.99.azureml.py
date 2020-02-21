@@ -41,3 +41,17 @@ from azureml.core.compute import ComputeTarget, AmlCompute
        cpu_cluster = ComputeTarget.create(ws, cpu_cluster_name, compute_config)
 
    cpu_cluster.wait_for_completion(show_output=True)
+
+   from azureml.train.estimator import Estimator
+
+script_params = {
+    # to mount files referenced by mnist dataset
+    '--data-folder': ds.as_named_input('mnist').as_mount(),
+    '--regularization': 0.8
+}
+
+sk_est = Estimator(source_directory='./my-sklearn-proj',
+                   script_params=script_params,
+                   compute_target=compute_target,
+                   entry_script='train.py',
+                   conda_packages=['scikit-learn'])
