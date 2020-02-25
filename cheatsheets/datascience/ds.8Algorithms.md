@@ -49,6 +49,8 @@ rnn =
 dnn =
 ann =
 
+A Pearson correlation is a number between -1 and 1 that indicates the extent to which two variables are linearly related. The Pearson correlation is also known as the “product moment correlation coefficient” (PMCC) or simply “correlation
+
 SMOTE? Just like the name suggests, the technique generates synthetic data for the minority class. SMOTE proceeds by joining the points of the minority class with line segments and then places artificial points on these lines.
 
 PCA is principal components analysis. It takes a dataset and "rotates" it, taking the original axes defined by the original variables, and creating new axes that are linear combinations of the old data. The precise linear combinations are chosen such that each successive component maximizes variance along that new dimensions. A quick google search turns up lots of tutorials
