@@ -75,3 +75,32 @@ knn = asks "what is this new item most similar too?".
 dnn =
 ann =
 Relu vs sigmoid 
+
+Classification Algorithms
+    Logistic Regression
+    Light Gradient Boosting Machine (GBM)
+    Decision Tree
+    Random Forest
+    Naive Bayes
+    Linear Support Vector Machine (SVM)
+    XGBoost
+    Deep Neural Network (DNN) Classifier
+    Others...
+Regression Algorithms
+    Linear Regression
+    Light Gradient Boosting Machine (GBM)
+    Decision Tree
+    Random Forest
+    Elastic Net
+    LARS Lasso
+    XGBoost
+    Others...
+Forecasting Algorithms
+    Linear Regression
+    Light Gradient Boosting Machine (GBM)
+    Decision Tree
+    Random Forest
+    Elastic Net
+    LARS Lasso
+    XGBoost
+    Others...
