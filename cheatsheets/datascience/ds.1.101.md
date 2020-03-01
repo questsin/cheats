@@ -3,12 +3,12 @@ scoping > development > deployment
 data > data set > wrangle
 train > validate > test > score > evaluate
 
-- exploratory data analysis (eda)
+- `exploratory data analysis (eda)`
   - granularity = hiecharcy
   - scope = georaphy, time coverage
   - temporality = events, time zones
   - faithfulness = actually captures reality > data cleansing
-- math
+- `math`
   - tensor = matrix
   - probability
   - linear algebra
@@ -23,7 +23,7 @@ train > validate > test > score > evaluate
   - regression
     - linear regression
       - univariate, bivariate, multivariate
-- data
+- `data`
   - Qualitative ~Categorical
     - nominal = dim
     - binary
@@ -39,7 +39,7 @@ train > validate > test > score > evaluate
 - visualizations
   - histograms vs scatter plots
   - venn diagram = overlaping circles
-- Model
+- `Model`
   - ml data needs to be numberic, standardied, Normalized
   - text
     - encoding: one hot, freq-based, prediction-based

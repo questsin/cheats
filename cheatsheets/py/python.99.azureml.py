@@ -1,4 +1,16 @@
+#!pip install azureml-sdk
+#Azure Machine Learning Extension for VS Code
 from azureml import Workspace, Datastore
+
+ 
+ws = Workspace.create(name='aml-workspace', 
+                    subscription_id='123456-abc-123...',
+                    resource_group='aml-resources',
+                    create_resource_group=True,
+                    location='eastus',
+                    sku='enterprise'
+                    )
+
 
 ws = Workspace()
 ws = Workspace.from_config()
@@ -11,6 +23,10 @@ blobstore.get_default(ws).upload_files(["array of files"])
 
 ds = ws.datasets['*.csv']
 df = ds.to_dataframe()
+
+for compute_name in ws.compute_targets:
+    compute = ws.compute_targets[compute_name]
+    print(compute.name, ":", compute.type)
 
 #ws.name
 #ws.location
