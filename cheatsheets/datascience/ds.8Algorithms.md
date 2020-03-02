@@ -65,15 +65,26 @@ Fishers exact test
 ## Clustering
 ## Regression
     Linear Regression
+    multiple linear regression
+    polynomial regression.
     Poisson regression
 ## Reinforcement
 
 # Deep Learning
 RNN vs CNN vs DCN vs GAN
-rnn =
+rnn = Recurrent neural networks (RNNs) ~sequences
+cnn = Convolutional neural networks (CNNs)  ~ speech, vision    
+    - You Only Look Once - YOLO
+    - Softmax is an activation function used in neural networks
+    - LSTM - a variation of RNNs that is very good at connecting previous data to current data where there is a long gap.
+    - GRU - a variation of LSTM that is simpler - meaning a decrease in training time, which can be quite beneficial sometimes.
+      - Softmax outputs multiple probabilities adding up to 1 
 knn = asks "what is this new item most similar too?".
 dnn =
 ann =
+activation functions
+     stochastic gradient descent (SGD) = Adam and RMSProp
+
 Relu vs sigmoid 
 
 Classification Algorithms
