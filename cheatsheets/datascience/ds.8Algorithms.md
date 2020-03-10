@@ -17,6 +17,9 @@
     ucurve
 
 ## Stats
+Poisson regression model
+Entropy MDL binning mode 
+
 A `Pearson correlation` is a number between -1 and 1 that indicates the extent to which two variables are linearly related. The Pearson correlation is also known as the “product moment correlation coefficient” (PMCC) or simply “correlation
 
 `Nonparametric Methods for Correlation`: `Spearman's rank correlation` for ordinal 
