@@ -16,17 +16,19 @@ ceh
 - linux cli
 - how to open a ticket what/when/how/examples/output snippet
 
-## review
+# todo
 - Mr robot
-- Ip and subnets
-- Icmp
-- owasp top 10 A2 threats
-- docs  3 4 5 6 7 8 9
 - flashcard
 - qizes
 - quiz review
 - la practice exams
 - Udemy exam
+
+## review
+- Ip and subnets
+- Icmp
+- owasp top 10 A2 threats
+- docs  3 4 5 6 7 8 9
 - NMAP
 - Metasploit
 - IOT Hacking
@@ -111,13 +113,33 @@ https://nvd.nist.gov/
 https://www.shodan.io/
 https://netcraft.com
 geoiptool
-nmap ~ nmap -v -p 1-2000 -O -sV ip
+
 traceroute
 HTTrack = download a site
 exiftool = look at a files metadata
 snort ~IDS
 Hping
 StegAlyzerSS
+
+# Kali Tools
+Wireshark
+burp Suite: Web App Sec Tool: https://portswigger.net/burp 
+SQLMap - SQL injection tool
+Aircrack-ng - Wireless Aditing tool
+OWASSP ZAP: pentest tool for web sites
+NMap
+metasploit.com ~ msfconsole. ms framwork console
+
+# pentest suites
+nessus - https://www.tenable.com/products/nessus
+Acunetix
+burp Suite: Web App Sec Tool: https://portswigger.net/burp 
+http://www.tenable.com/products/nessus
+Owasp zap (zed attack proxy)
+
+# NMAP
+nmap and scripts in lua.. for vulns
+nmap ~ nmap -v -p 1-2000 -O -sV ip
 
 # tools
 Bro(Zeek) is both a network IDS and a network IPS.
@@ -129,15 +151,12 @@ Qualys
 Sourcefire is a proprietary IPS.
 Tctrace shell tool 
 Www.paterva.com
-burp Suite: https://portswigger.net/burp
 hping
 hubspot for email tracking ~yesware
 mcafee foundstone
-metasploit.com ~ msfconsole. ms framwork console
 ncat ip port
 netcat
 netstat -a is used to list out both the listening ports and active connections on a system.
-nmap and scripts in lua.. for vulns
 nslookup vs dig
 openVAS
 superscan
@@ -149,8 +168,10 @@ nslookup
 dig
 wifi cracking = aircrack-ng, airodump-ng, aireplay-ng
 wireshark
-zaproxy
+
 zenmap ~nmap and is vuln scripts
+torproject.com
+John the ripper password cracker
 
 # recon
 https://corp.owler.com/
