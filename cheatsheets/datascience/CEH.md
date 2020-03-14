@@ -100,7 +100,6 @@ nist
 - DMCA/WIPO > copyright
 - FISMA= feds
 
-
 # images
 - https://www.kali.org/ - https://kali.training/ 
 - https://parrotlinux.org/
@@ -121,34 +120,37 @@ Hping
 StegAlyzerSS
 
 # tools
-burp Suite: https://portswigger.net/burp
-vmap nexus
-openVAS
-wifi cracking = aircrack-ng, airodump-ng, aireplay-ng
-mcafee foundstone
-zenmap ~nmap and is vuln scripts
-ncat ip port
-superscan
-burp suite
-zaproxy
-wireshark
-telnet
-hubspot for email tracking ~yesware
-traceroute -l
-nslookup vs dig
-whois
-Maltego
-Www.paterva.com
-Tctrace shell tool 
-metasploit.com ~ msfconsole. ms framwork console
+Bro(Zeek) is both a network IDS and a network IPS.
 Cobal Strike
+Imperva is a proprietary WAF.
+Maltego
 PowerShell Empire
-kali
-nmap and scripts in lua.. for vulns
+Qualys
+Sourcefire is a proprietary IPS.
+Tctrace shell tool 
+Www.paterva.com
+burp Suite: https://portswigger.net/burp
 hping
+hubspot for email tracking ~yesware
+mcafee foundstone
+metasploit.com ~ msfconsole. ms framwork console
+ncat ip port
 netcat
-whois / nslookup / dig
-
+netstat -a is used to list out both the listening ports and active connections on a system.
+nmap and scripts in lua.. for vulns
+nslookup vs dig
+openVAS
+superscan
+telnet
+traceroute -l
+vmap nexus
+whois
+nslookup
+dig
+wifi cracking = aircrack-ng, airodump-ng, aireplay-ng
+wireshark
+zaproxy
+zenmap ~nmap and is vuln scripts
 
 # recon
 https://corp.owler.com/
