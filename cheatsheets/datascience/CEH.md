@@ -22,7 +22,27 @@ ceh
 - qizes
 - quiz review
 - la practice exams
-- Udemy exam
+- Udemy examPorts & protocols
+Botnets
+SQLi
+MAC flooding
+ARP spoofing
+Outsider/insider affiliates/associates
+Multi-factor authentication
+MAC spoofing
+Snort rules
+Wireshark filters (based off hex, what tcp flags are they looking at?)
+Three-step handshake
+TCP/UDP per protocol
+SQLi
+Buffer overflows
+Malware encoding
+Steganography
+Encryption and its relation to wireless
+XSS
+SQLi
+NMAP Cookbook
+And a bunch of other ad hoc reading on Wireshark, TCP/IP, tcpdump, etc.
 
 ## review
 - Ip and subnets
@@ -121,6 +141,11 @@ snort ~IDS
 Hping
 StegAlyzerSS
 
+# kali laptop
+- intel based and itel gpu.
+- wireless need moitoring mode
+- support for virtulization
+
 # Kali Tools
 Wireshark
 burp Suite: Web App Sec Tool: https://portswigger.net/burp 
@@ -168,6 +193,10 @@ nslookup
 dig
 wifi cracking = aircrack-ng, airodump-ng, aireplay-ng
 wireshark
+Auditpol
+DroidSheep
+Hyena the winows enumeration tool
+
 
 zenmap ~nmap and is vuln scripts
 torproject.com
