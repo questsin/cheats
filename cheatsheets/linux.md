@@ -8,6 +8,7 @@ dpkg -i file.deb
 htop
 jobs ~fg %1
 ps aux | gre -i apache
+ps -ef | grep root
 kill pid
 visudo
 
@@ -30,6 +31,8 @@ ufw enable/disable/reset
 history
 
 # commands
+ssh
+ssh-keygen
 ls -lah
 wget
 rm -rf file
@@ -38,7 +41,8 @@ locate ~ find
 vim
 chmod +x file
 apache2
-tail -f file #montor live
+tail -f file #montor livelinux
+locate $filename 	#faster than find, updatedb
 
 # files
 /etc/group
@@ -56,6 +60,7 @@ opt/ manulally istalled
 /usr ~ local libraries
 /var ~log files
 
+# logs
 /var/log/
 /var/log/messages
 /var/log/secure
