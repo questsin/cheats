@@ -1,4 +1,5 @@
 # linux
+password # change your password 
 
 # systemctl
 apt-cache search htop
