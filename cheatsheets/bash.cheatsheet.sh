@@ -124,3 +124,14 @@ jic=$1.$ext
 cp $1 $jic
 chmod -x $jic
 echo "SAVED: $jic"
+
+//cut example
+cat file.txt | grep "string" | cut -d " " -f 4
+
+//tr
+tr?
+
+//
+for num in `seq 1 254`; do
+    echo num
+done
