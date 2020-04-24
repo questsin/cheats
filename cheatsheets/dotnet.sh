@@ -9,4 +9,5 @@ dotnet add package WindowsAzure.Storage
 dotnet restore
 dotnet build
 dotnet run
+dotnet publish -r linux-arm
 dotnet publish -c Release -o out

@@ -27,3 +27,4 @@ gnu parallel
 | parallel -j400 --timeout 160 'bash ./1.sh {}'
 
 find . -type f -exec grep 'needle' {} \;
+grep -ir $keyword | head

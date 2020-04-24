@@ -38,3 +38,5 @@ sudo mount -t cifs //FILESHARE_URL_WITHOUT_HTTPS /mnt/fileshare1 -o vers=3.0,use
 sudo mount -t cifs //FILESHARE_URL_WITHOUT_HTTPS /mnt/fileshare1 -o vers=3.0,username=STORAGE_ACCOUNT_NAME,password=STORAGE_ACCOUNT_KEY,dir_mode=0777,file_mode=0777,serverino
 df -h
 . sudo nano /etc/passwd
+
+curl -sSL https://get.docker.com | sh
