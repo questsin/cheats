@@ -1,0 +1,12 @@
+videos:
+    -
+        title: testing this amazing script!
+        file:  output.mkv
+        description: sdf
+        category: Music
+        privacy: private
+        tags:
+            - chess
+
+secrets_path: client_secrets.json      # path for your google secrets
+credentials_path:  ./credentials.json  # where to store credentials
