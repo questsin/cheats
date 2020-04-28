@@ -3,7 +3,11 @@ whoami
 ip addr show 
 ip addr show eth0
 hostname -i
-
+ping $ip -sP $Subnet # skip port scan
+masscan $Subnet  ‐‐top-ports 100 # skip port scan
+masscan $Subnet  ‐‐ports 0-65535 
+hydra -l student -P /usr/share/wordlists/rockyou.txt $ip ssh
+nmap -p 22 --script ssh-brute --script-args userdb=users,passdb=pass 192.40.231.3
 #port forwarding  witn netcat
 nc -lp 45678 | nc -lp 45679
 nc $ip $port
