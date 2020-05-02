@@ -24,6 +24,10 @@ torify curl ...
 htop --better ps 
 sudo apt update
 sudo apt upgrade
+apt-get install ntp
+sntp --version
+sudo nano /etc/ntp.conf
+timedatectl set-ntp 1
 sudo apt install xrdp
 sudo apt install remmina
 ssh-keygen -t rsa -b 4096
