@@ -3,7 +3,7 @@ var http = require('http');
 var url = require('url');
 
 var server = {};
-var metrics = {requests:0, bodies:0, errors:0, ends:0};
+var metrics = {requests:0, connect:0, information:0, timeout:0, socket:0, aborted:0, upgrade:0, body:0, error:0, end:0};
 var clients = {};
 var requests = {};
 var responses = {};
@@ -42,11 +42,24 @@ http.createServer(function (request, response) {
   request.on('error', (err) => {
     metrics.errors +=1;
     console.error(err);
+  }).on('connect', (res, socket, head) => {
+    metrics.connect+=1;
+  }).on('information', (info) => {
+    metrics.information +=1;
+  }).on('timeout', () => {
+    metrics.timeout +=1;
+  }).on('socket', () => {
+    metrics.socket +=1;
+  }).on('aborted', () => {
+    metrics.aborted +=1;
+  }).on('upgrade', (res, socket, upgradeHead) => {
+      metrics.upgrades +=1;
   }).on('data', (chunk) => {
-    metrics.bodies+=1;
+    metrics.body+=1;
     body.push(chunk);
   }).on('end', () => {
-    metrics.ends +=1;
+    metrics.uptime = os.uptime();
+    metrics.end +=1;
     body = Buffer.concat(body).toString();
     requests.body = body;
     object = {};
