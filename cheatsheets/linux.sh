@@ -3,6 +3,7 @@ export AZURE_REGION=centralus
 export AZURE_APP_PLAN=popupappplan-$RANDOM
 export AZURE_WEB_APP=popupwebapp-$RANDOM
 sudo apt update && sudo apt upgrade -y
+sudo apt update && sudo apt dist-upgrade -y
 mongod --version
 sudo systemctl status mongodb
 sudo apt-get install -y mongodb
@@ -43,4 +44,10 @@ sudo mount -t cifs //FILESHARE_URL_WITHOUT_HTTPS /mnt/fileshare1 -o vers=3.0,use
 df -h
 . sudo nano /etc/passwd
 
+systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
+systemctl enable openvpn
+systemctl enable xrdp
+service xrdp start
+shutdown -r
+openvpn $file.ovpn
 curl -sSL https://get.docker.com | sh
