@@ -51,3 +51,7 @@ service xrdp start
 shutdown -r
 openvpn $file.ovpn
 curl -sSL https://get.docker.com | sh
+wget -O - ifconfig.me 
+mkdir /mnt/$share
+mount -t vboxsf $sharename /mnt/$share
+usermod -aG vboxsf $username

