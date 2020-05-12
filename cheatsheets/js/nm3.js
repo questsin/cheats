@@ -1,4 +1,5 @@
 //npm install crypto-js
+const fs = require('fs')
 CryptoJS = {};
 CryptoJS.MD5 = function () {
     return ''
@@ -8,57 +9,68 @@ CryptoJS.SHA256 = function () {
 };
 
 var empty = null;
+var cwd = process.cwd();
+console.log(cwd);
+fs.access('tmp', function(err) {
+    if (err && err.code === 'ENOENT') {
+      fs.mkdir('tmp',function(){}); //Create dir in case not found
+    }
+});
 
 class Sequence {
     constructor() {
-        this.obj = {};
+        this.value = {};
     }
     print() {
         console.log('print');
-        return console.log(JSON.stringify(this.obj,null," "));
-    }    
+        return console.log(JSON.stringify(this.value, null, " "));
+    }
 }
 
 class Computable {
     constructor() {
-        this.obj = {};
+        this.value = {};
     }
     uri(uriSting) {
-        this.obj.uriSting = uriSting;
+        this.value.uriSting = uriSting;
+        return this;
+    }
+    createOrUpdate(idSting) {
+        this.value.id = idSting;
         return this;
     }
     print() {
         console.log('print');
-        return console.log(JSON.stringify(this.obj,null," "));
+        return console.log(JSON.stringify(this.value, null, " "));
     }
 }
 Computable.Notes = class extends Computable {
     tags(tagsArray, operator) {
-        this.obj.tags = tagsArray;
+        this.value.tags = tagsArray;
         return this;
     }
     groups(groupsArray, operator) {
-        this.obj.groups = groupsArray;
+        this.value.groups = groupsArray;
         return this;
     }
     categories(categoriesArray, operator) {
-        this.obj.categories = categoriesArray;
+        this.value.categories = categoriesArray;
         return this;
     }
     headings(headingsArray, levelNum) {
-        this.obj.headings = headingsArray;
+        this.value.headings = headingsArray;
         return this;
     }
     location(locationSting) {
-        this.obj.location = locationSting;
+        this.value.location = locationSting;
         return this;
     }
     title(titleSting) {
-        this.obj.title = titleSting;
+        this.value.title = titleSting;
         return this;
     }
     description(descriptionSting) {
-        this.obj.description = descriptionSting;
+        this.value.description = descriptionSting;
         return this;
     }
 }
@@ -67,57 +79,57 @@ Computable.Code = class extends Computable.Notes {
         super();
     }
     code(codeSting) {
-        this.obj.code = codeSting;
+        this.value.code = codeSting;
         return this;
     }
     examples(exampleArray) {
-        this.obj.examples = exampleArray;
+        this.value.examples = exampleArray;
         return this;
     }
 }
 Computable.Markdown = class extends Sequence {
     paragraph(tmpSting) {
-        this.obj.paragraph = tmpSting;
+        this.value.paragraph = tmpSting;
         return this;
     }
     lineBreak(tmpSting) {
-        this.obj.lineBreak = tmpSting;
+        this.value.lineBreak = tmpSting;
         return this;
     }
     header(tmpSting) {
-        this.obj.header = tmpSting;
+        this.value.header = tmpSting;
         return this;
     }
     blockQuote(tmpSting) {
-        this.obj.blockQuote = tmpSting;
+        this.value.blockQuote = tmpSting;
         return this;
     }
     list(tmpSting) {
-        this.obj.list = tmpSting;
+        this.value.list = tmpSting;
         return this;
     }
     ordered(tmpSting) {
-        this.obj.ordered = tmpSting;
+        this.value.ordered = tmpSting;
         return this;
     }
     unordered(tmpSting) {
-        this.obj.unordered = tmpSting;
+        this.value.unordered = tmpSting;
         return this;
     }
     codeBlock(tmpSting) {
-        this.obj.codeBlock = tmpSting;
+        this.value.codeBlock = tmpSting;
         return this;
     }
     horizontalRule(tmpSting) {
-        this.obj.horizontalRule = tmpSting;
+        this.value.horizontalRule = tmpSting;
         return this;
     }
     emphasis(tmpSting) {
-        this.obj.emphasis = tmpSting;
+        this.value.emphasis = tmpSting;
         return this;
     }
     code(tmpSting) {
-        this.obj.code = tmpSting;
+        this.value.code = tmpSting;
         return this;
     }
 
@@ -127,8 +139,17 @@ Computable.CC = class extends Computable {
     constructor() {
         super();
     }
-    method(methodSting, aliasArray) {
-        this.obj[methodSting] = empty;
+    method(methodSting, aliasArray, doc, snippet, code) {
+        this.value[methodSting] = this.value[methodSting] || {};
+        if (doc) {
+            this.value[methodSting].doc = doc
+        };
+        if (snippet) {
+            this.value[methodSting].snippet = snippet
+        };
+        if (code) {
+            this.value[methodSting].code = code
+        };
         return this;
     }
 }
@@ -147,6 +168,23 @@ Computable.Command = class extends Computable {
     param(paramArray) {
         this.obj.param = paramArray;
         return this;
+    }
+}
+
+const storeData = (data, path) => {
+    try {
+        fs.writeFileSync(path, JSON.stringify(data))
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+const loadData = (path) => {
+    try {
+        return fs.readFileSync(path, 'utf8')
+    } catch (err) {
+        console.error(err)
+        return false
     }
 }
 

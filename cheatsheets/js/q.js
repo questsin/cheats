@@ -7,7 +7,7 @@ const killChain = new nm3.Computable.CC
 docs
     .header("header")
     .paragraph('paragraph')
-    .print();
+    //.print();
 snippet
     .tags(['1','2','3'])
     .groups(['ok'])
@@ -16,11 +16,13 @@ snippet
     .code('2 + 3')
     .examples(['t'])
     .description('simple description2')
-    .print()
+    .description(docs.value) //erases the old descriptions
+    //.print()
 killChain
-    .method('Reconnaissance',['Recon'])
-    .method('Scanning',['Scan'])
-    .method('GainingAccess')
-    .method('MaintainingAccess')
-    .method('ClearingTracks')
+    .createOrUpdate('killChain')
+    .method('Reconnaissance',['recon'],docs,snippet,null)
+    .method('Scanning',['scan'])
+    .method('GainingAccess',['exploit'])
+    .method('MaintainingAccess',['rat','trojan'])
+    .method('ClearingTracks',['tidy','clean'])
     .print();
