@@ -1,16 +1,12 @@
 //npm install crypto-js
 const fs = require('fs')
-CryptoJS = {};
-CryptoJS.MD5 = function () {
-    return ''
-};
-CryptoJS.SHA256 = function () {
-    return ''
-};
+var CryptoJS = require("crypto-js");
 
 var empty = null;
 var cwd = process.cwd();
 console.log(cwd);
+console.log(CryptoJS.MD5("this is a test").toString());
+
 fs.access('tmp', function(err) {
     if (err && err.code === 'ENOENT') {
       fs.mkdir('tmp',function(){}); //Create dir in case not found
