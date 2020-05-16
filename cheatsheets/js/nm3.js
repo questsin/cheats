@@ -3,9 +3,6 @@ const fs = require('fs')
 var CryptoJS = require("crypto-js");
 
 var empty = null;
-var cwd = process.cwd();
-console.log(cwd);
-console.log(CryptoJS.MD5("this is a test").toString());
 
 fs.access('tmp', function(err) {
     if (err && err.code === 'ENOENT') {
@@ -25,22 +22,93 @@ class Sequence {
 
 class Computable {
     constructor() {
-        this.value = {};
+        this.value = {}
+        this.value.meta = {
+            guid: uuidv4(),
+            hash: empty,
+            version: (this.version || 1) + 1,
+            versions: [],
+            created: Date.now(),
+            deleted: false,
+            updated: false,
+            type: empty,
+            author: empty,
+            owner: empty,
+            groups: [],
+            roles: [],
+            permissions: []
+        };
     }
-    uri(uriSting) {
-        this.value.uriSting = uriSting;
+    id(idSting) {
+        this.value.id = idSting;
+        var cwd = process.cwd();
+        this.value.path = process.cwd() + '\\tmp';
+        this.value.filename = CryptoJS.MD5(idSting).toString();
+        this.value.fileExt = '.js';
         return this;
     }
     createOrUpdate(idSting) {
-        this.value.id = idSting;
+        //this.value.id = idSting;
+        return this;
+    }
+    createOrReplace(idSting) {
+        //this.value.id = idSting;
+        return this;
+    }
+    load(){
+        var iobj = loadData(
+            this.value.path + '\\' +
+            this.value.filename +
+            this.value.fileExt)  
+        if (iobj) {
+            //console.log(iobj);
+            this.value = iobj;
+        } 
+        return this;
+    }
+    save() {
+        //console.log('save');
+        storeData(this.value,
+            this.value.path + '\\' +
+            this.value.filename +
+            this.value.fileExt);
         return this;
     }
     print() {
         console.log('print');
         return console.log(JSON.stringify(this.value, null, " "));
     }
-}
-Computable.Notes = class extends Computable {
+    context(contextString) {
+        if (this.value.contexts ) {
+            if (this.value.contexts.indexOf(contextString) === -1 ) {
+                this.value.contexts.push(contextString);
+            }
+        } else {
+            this.value.contexts = [contextString];
+        }
+        return this;
+    }
+    method(methodSting, aliasArray, doc, snippet, code) {
+        this.value[methodSting] = this.value[methodSting] || {};
+        if (doc) {
+            this.value[methodSting].doc = doc
+        };
+        if (snippet) {
+            this.value[methodSting].snippet = snippet
+        };
+        if (code) {
+            this.value[methodSting].code = code
+        };
+        return this;
+    }
+    superset(supersetArray, operator) {
+        this.value.superset = supersetArray;
+        return this;
+    }
+    subset(subsetArray, operator) {
+        this.value.subset = subsetArray;
+        return this;
+    }
     tags(tagsArray, operator) {
         this.value.tags = tagsArray;
         return this;
@@ -65,14 +133,17 @@ Computable.Notes = class extends Computable {
         this.value.title = titleSting;
         return this;
     }
+    entity(entitySting) {
+        this.value.entity = entitySting;
+        return this;
+    }
     description(descriptionSting) {
         this.value.description = descriptionSting;
         return this;
     }
-}
-Computable.Code = class extends Computable.Notes {
-    constructor() {
-        super();
+    cli(cliSting) {
+        this.value.cli = cliSting;
+        return this;
     }
     code(codeSting) {
         this.value.code = codeSting;
@@ -82,7 +153,16 @@ Computable.Code = class extends Computable.Notes {
         this.value.examples = exampleArray;
         return this;
     }
+    args(argsSting) {
+        this.value.args = argsSting;
+        return this;
+    }
+    params(paramArray) {
+        this.value.param = paramArray;
+        return this;
+    }
 }
+
 Computable.Markdown = class extends Sequence {
     paragraph(tmpSting) {
         this.value.paragraph = tmpSting;
@@ -128,48 +208,11 @@ Computable.Markdown = class extends Sequence {
         this.value.code = tmpSting;
         return this;
     }
-
-
-}
-Computable.CC = class extends Computable {
-    constructor() {
-        super();
-    }
-    method(methodSting, aliasArray, doc, snippet, code) {
-        this.value[methodSting] = this.value[methodSting] || {};
-        if (doc) {
-            this.value[methodSting].doc = doc
-        };
-        if (snippet) {
-            this.value[methodSting].snippet = snippet
-        };
-        if (code) {
-            this.value[methodSting].code = code
-        };
-        return this;
-    }
-}
-Computable.Command = class extends Computable {
-    constructor() {
-        super();
-    }
-    name(nameSting, aliasArray) {
-        this.obj.name = nameSting;
-        return this;
-    }
-    args(argsSting) {
-        this.obj.args = argsSting;
-        return this;
-    }
-    param(paramArray) {
-        this.obj.param = paramArray;
-        return this;
-    }
 }
 
 const storeData = (data, path) => {
     try {
-        fs.writeFileSync(path, JSON.stringify(data))
+        fs.writeFileSync(path, JSON.stringify(data, null, " "))
     } catch (err) {
         console.error(err)
     }
@@ -177,7 +220,7 @@ const storeData = (data, path) => {
 
 const loadData = (path) => {
     try {
-        return fs.readFileSync(path, 'utf8')
+        return JSON.parse(fs.readFileSync(path, 'utf8'))
     } catch (err) {
         console.error(err)
         return false
@@ -200,39 +243,4 @@ function sha256Hash(text) {
     return CryptoJS.SHA256(text).toString();
 }
 
-var computableObject = {
-    guid: uuidv4(),
-    hash: sha256Hash(JSON.stringify(this)),
-    version: (this.version || 1) + 1,
-    versions: [],
-    created: Date.now(),
-    deleted: false,
-    updated: false,
-    type: empty,
-    name: empty,
-    author: empty,
-    owner: empty,
-    description: empty,
-    groups: [],
-    roles: [],
-    permissions: [],
-    tags: [],
-    url: function () {
-        return this.guid;
-    },
-    create: function () {
-        return this.guid;
-    },
-    read: function () {
-        return this.guid;
-    },
-    update: function () {
-        this.updated = Date.now();
-    },
-    delete: function () {
-        this.deleted = Date.now();
-    }
-};
-
-exports.computableObject = computableObject;
 exports.Computable = Computable;
