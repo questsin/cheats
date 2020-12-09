@@ -15,16 +15,21 @@ https://www.redhat.com/en/services/training/ex294-red-hat-certified-engineer-rhc
 Ansible for RPA glue to Traditional automation via APIs
 Consumer based provisioning like IoT and GZTP, KDE
 Control-M vs Ansible
-no
-Alternatives
-Terraform
-Chef, 
-Puppet, 
-Ansible, 
-SaltStack
-Powershell DSC
+
+infrastructure as code. describe your
+infrastructure as code.
+=======================
+Red Hat Ansible 
+HashiCorp Terraform 
+Chef 
+Puppet 
 Jenkins
 Azure DevOps
+Azure Fluent SDK/API
+Powershell DSC
+Pulumi: A new project where you can use TypeScript, Go, or Python to write
+scripts that describe your infrastructure.
+SaltStack
 
 # History
 OpenShift
@@ -58,3 +63,11 @@ secrets.yml
 silo diy vs ansible
 yaml
 vagarnt?
+
+# Uses
+Provisioning
+Configuration Management
+Application Deployment
+Application Delivery
+Security Automation
+Orchistration

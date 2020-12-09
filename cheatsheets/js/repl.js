@@ -1,19 +1,22 @@
 #!/usr/bin/env node
+const repl = require('repl');
 
-var child = require('child_process');
+function completer(line) {
+  const completions = '.help .error .exit .quit .q'.split(' ');
+  const hits = completions.filter((c) => c.startsWith(line));
+  // Show all completions if none found
+  return [hits.length ? hits : completions, line];
+}
 
-var myREPL = child.spawn('node');
+water = 'cold';
 
-myREPL.stdout.pipe(process.stdout, { end: false });
+global.log = function(tmp) {
+   console.log(tmp.toUpperCase());
+  }
 
-process.stdin.resume();
-
-process.stdin.pipe(myREPL.stdin, { end: false });
-
-myREPL.stdin.on('end', function() {
-  process.stdout.write('REPL stream ended.');
-});
-
-myREPL.on('exit', function (code) {
-  process.exit(code);
+repl.start({
+  prompt: '# ',
+  input: process.stdin,
+  output: process.stdout,
+  completer: completer
 });
