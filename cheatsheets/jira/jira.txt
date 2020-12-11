@@ -1,0 +1,5 @@
+JIRA Cheat Sheet
+
+summary ~ "\\[Amdoc\\]"
+assignee = currentUser()
+Reporter

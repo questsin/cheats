@@ -1,0 +1,19 @@
+dataweave 
+~ scala and java 
+~to xslt
+
+data weave cookbook
+https://docs.qax.mulesoft.com/mule-runtime/4.1/dataweave-cookbook
+https://docs.mulesoft.com/mule-runtime/4.2/dw-core-functions-maxby
+https://help.mulesoft.com/
+
+http://dwlang.fun 
+//ctrl space in expressions
+if(attributes.queryParams.inputValue == "code1" ) 
+	vars.code1 else vars.code2
+mule 
+app
+lookup
+
+flow
+.
