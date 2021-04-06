@@ -1,0 +1,126 @@
+Mulesoft
+
+https://www.apisero.com/blog/
+The licenses can be capitalized.    
+With the current ULA, each Mule core cost 15K per year.  Each core can handle up to 700 TPS. 
+
+
+----------
+
+ (MULE 4)
+mcd LEVEL 1 
+DEVELOPER API DESIGN ASSOCIATE RAML
+API DESIGN CERT  SELF PRACTICE QUIZ
+https://training.mulesoft.com/course/development-fundamentals-mule4/quiz-diy
+MCPA
+MCIA. 10 MULE. 90% GENERAL INTEGRATION
+
+https://training.mulesoft.com/course/architecture-integration-solutions/quiz-diy
+https://drive.google.com/drive/u/0/shared-with-me
+
+SWAGGER/RAML/OAS3
+build > test
+Design > Simulate > Feedback > Validate
+Logical View > Process View > Dev View Phy View
+Trigger = event
+
+Catalyst : Business Outcomes > Tech Delivery > Org Enablement
+FR, NFR, SLA
+Epic > Story
+C4B:
+Anypoint Platform components and capabilities:
+Mule event transformation:
+routing patterns:
+deloyment models:
+
+
+
+classes
+=======
+mulesoft getting started
+mulesoft fundamentals
+Data Weave: Nov 12 – Nov 13
+Ops: On-prem: Oct 29 – Oct 30
+Application Networks: Oct 26 – Oct 28
+Ops: RTF: Nov 26 – Nov 27
+Integration Solutions: Nov 2 – Nov 6
+Production ready practices: 
+customer runtime - jan 13
+API Management: Oct 23
+
+Notes
+=====
+no support for RPC or gRPC
+MuleSoft manages its own mesh and does not need Istio.  
+To manage the application microservices, we could use Istio though.     
+MuleSoft provides an agent that gets deployed to the Istio mesh to manage the APIs exposed by the Microservices without using the proxy pattern (without needing to install MuleSoft on top of the microservices).  You can look at it as, eliminating the need for the MuleSoft “System layer” in case of the microservices and having Istio manage the mesh at system layer with MuleSoft agent inside it.  So basically it compliments Istio and let us manage the microservice APIs with less complexity.   Also reduces the latency since we will have one less layer in the integration tier. 
+MuleSoft does for its own microservices what Istio does for other microservices.   Basically managing the horizontal traffic between microservices.  It is like a horizontal proxy.   
+When we deploy MuleSoft agent inside the Istio mesh, then we can use MuleSoft as the single pane of glass.   
+Istio by itself => Manage the traffic between application microservices.  Example, the Amdocs one microservices.
+MuleSoft by itself => Manage the traffic between integration microservices.  Proxy services we call systems APIs, integration services we call process APIs, and client services we call experience APIs.
+Together: you get end to end traffic management at application and integration tiers.  MuleSoft also gives us visibility to non-microservice application since it is deployed as a proxy on top of all applications and not just the microservice apps that are managed by Istio.
+
+links
+=====
+https://trailhead.salesforce.com/en/search?keywords=mulesoft
+https://github.com/mulesoft-labs
+https://www.mulesoft.com/resources/api/what-is-graphql
+https://blogs.mulesoft.com/digital-transformation/it-management/what-is-a-center-for-enablement-c4e/
+https://catalyst.mulesoft.com/ (need real lic to access)
+https://training.mulesoft.com/certification
+https://blogs.mulesoft.com/learn-apis/integration-training/preparing-for-your-certification-exam/
+https://silverlinecrm.com/blog/mulesoft/tips-and-tricks-to-ace-the-mulesoft-certified-developer-test/
+https://asha24.net/blog/mulesoft-certification/
+https://training.mulesoft.com/course/operations-runtime-fabric
+
+exam prep
+https://blogs.mulesoft.com/learn-apis/integration-training/preparing-for-your-certification-exam/
+
+
+questions
+=========
+How does Aplications  management and control processes like 
+Mules's Catalyst  
+Center of Excellence (CoE) vs Center for Enablements (C4E) 
+-Business Outcomes playbook
+-Tech Delivery: Platform and Projects Playbook
+-Org Enablement : C4E Internal and Training Runbook like roles
+bounded context?
+
+Module 1: Introducing Runtime Fabric
+   Describe the development lifecycle of Mule applications
+   Describe and navigate Anypoint Runtime Fabric
+   Distinguish between Anypoint Platform deployment options
+   List features and limitations of Runtime Fabric
+   Explain relevant concepts and underlying technologies
+Module 2: Installing Runtime Fabric
+    Basic Info as this will be done by Apisero team
+Module 3: Enabling inbound traffic
+     Basic Info as this will be done by Apisero team  
+Module 4: Deploying applications
+    Explain relevant concepts and underlying technologies
+    List deployment options
+    Deploy and undeploy applications
+    Update and redeploy applications with zero downtime
+Module 5: Configuring Runtime Fabric
+     Install a license to Runtime Fabric
+     Enable alerting
+     Use OpsCenter for monitoring and management
+Module 6: Scaling for high availability and performance
+     Explain relevant concepts and underlying technologies
+     Distinguish between horizontal and vertical scaling
+     Scale application runtime environments for high availability
+     Scale application runtime environments for performance
+Module 7: Logging and monitoring
+    Identify logging options for Mule applications and Runtime Fabric
+    Set up audit logging
+    Retrieve, view, and filter applications logs
+    Set up log forwarding to a logging server
+    Monitor Runtime Fabric using OpsCenterv
+Module 8: Securing Runtime Fabric and Mule applications
+    Describe security options in Anypoint Platform
+    Secure applications and data
+    Secure access to OpsCenter 
+
+
+ 
