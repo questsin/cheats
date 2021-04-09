@@ -37,3 +37,42 @@ ls -l /usr/bin | grep kafka
 kafka-topics --bootstrap-server localhost:9092 --list
 confluent help
 confluent version
+
+sudo systemctl start confluent-schema-registry confluent-kafka-rest
+sudo systemctl enable confluent-schema-registry confluent-kafka-rest
+
+
+
+curl -X POST -H "Content-Type: application/vnd.kafka.json.v2+json" \
+  -H "Accept: application/vnd.kafka.v2+json" \
+  --data '{"records":[{"key":"message","value":"Hello"},{"key":"message","value":"World"}]}' "http://localhost:8082/topics/rest-test-topic"
+
+#Create a consumer and a consumer instance that will start from the beginning of the topic log.
+
+curl -X POST -H "Content-Type: application/vnd.kafka.v2+json" \
+  --data '{"name": "my_consumer_instance", "format": "json", "auto.offset.reset": "earliest"}' \
+  http://localhost:8082/consumers/my_json_consumer
+
+#Subscribe the consumer to the topic.
+
+curl -X POST -H "Content-Type: application/vnd.kafka.v2+json" \
+  --data '{"topics":["rest-test-topic"]}' \
+  http://localhost:8082/consumers/my_json_consumer/instances/my_consumer_instance/subscription
+
+#Consume the messages.
+
+curl -X GET -H "Accept: application/vnd.kafka.json.v2+json" \
+  http://localhost:8082/consumers/my_json_consumer/instances/my_consumer_instance/records
+
+#When you are finished using the consumer, close it to clean up.
+
+curl -X DELETE -H "Content-Type: application/vnd.kafka.v2+json" \
+  http://localhost:8082/consumers/my_json_consumer/instances/my_consumer_instance
+
+sudo systemctl start confluent-kafka-connect
+sudo systemctl enable confluent-kafka-connect
+sudo systemctl status confluent-kafka-connect  
+
+sudo vi /etc/ksql/ksql-server.properties
+
+
