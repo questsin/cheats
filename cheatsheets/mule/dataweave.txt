@@ -17,3 +17,27 @@ lookup
 
 flow
 .
+
+%dw 2.0
+output application/dw
+
+var sample = {test:"value"}
+var InputValue = readUrl("classpath://example/flightWithAirport.xml","application/xml")
+//maxPrice = InputValue.flights.*flight maxBy ($.price)
+---
+//readUrl("https://en.wikipedia.org/wiki/Main_Page","text/plain")
+//readUrl("classpath://example/flightWithAirport.xml","application/xml")
+//InputValue.flights.flight
+//multiline
+//InputValue.flights.*flight[0]
+//InputValue.flights.*flight."airline-name"!
+//InputValue.flights.*flight."airline-name" distinctBy $
+//InputValue.flights.*flight filter ($."available-seats" > 0)
+//InputValue.flights.*flight minBy ($.price)
+//(InputValue.flights.*flight orderBy (-$.price)).price 
+(InputValue.flights.*flight maxBy $.price).price
+
+//maxPrice
+//InputValue.flights.*flight orderBy ( -$.price ) 
+//	map (record) -> 
+//		{price: record.price, name: record."airline-name"}
