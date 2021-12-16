@@ -1,0 +1,67 @@
+@startuml
+box "Client Side" #LightBlue
+  participant Client as C
+  'participant "Client\n Certificate" as C
+  'participant "Client\n Certificate: Public-key" as C
+end box
+
+box "Browser Side" #LightBlue
+  participant Browser as B
+  participant "Browser\n Certificate" as B
+  participant "Browser\n Certificate: Public-key" as B
+end box
+
+box "ISP Side" #LightBlue
+  participant ISP as ISP
+end box
+
+
+box "DNS Side" #LightBlue
+  participant "DNS " as DNS
+end box
+
+box "Server Side" #LightBlue
+  participant Server as S
+  participant "Server\n Certificate" as S
+  participant "Server\n Certificate: Public-key" as S
+  participant HTML as HTML
+end box
+
+box "CA Side" #LightBlue
+  participant "CA Authority" as CA
+  participant "CA Authority\n Certificate" as CA
+  participant "CA Authority\n Certificate: Public-key" as CA
+  participant "CA Authority\n Certificate: Private-key" as CA
+end box
+
+group Browser [Defaults]
+    B <- DNS: Primary/Secondary DNS IPs
+    B <- CA: CAs + Top level Signed Certificates
+end
+
+group DNS [DNS Resolution]
+    C-> DNS: Request
+    DNS-> C: Reply
+end
+
+group HTTP [ unsecured ]
+    C-> S: Request
+    S-> C: Reply
+end
+
+group SSL/TLS [Handshake]
+    'public/private key
+    'ca
+    'protocol and version
+    'alogorithm
+    'hash
+    'hmac
+    C-> S: Request
+    S-> C: Reply
+end
+
+group HTTPS [ Secured ]
+    C-> S: Request
+    S-> C: Reply
+end
+@enduml
