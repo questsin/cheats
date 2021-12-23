@@ -1,0 +1,49 @@
+{
+    "_id": {
+        "$oid": "572bb8222b288919b68abf5b"
+    },
+    "tripduration": {
+        "$numberInt": "889"
+    },
+    "start station id": {
+        "$numberInt": "268"
+    },
+    "start station name": "Howard St & Centre St",
+    "end station id": {
+        "$numberInt": "3002"
+    },
+    "end station name": "South End Ave & Liberty St",
+    "bikeid": {
+        "$numberInt": "22794"
+    },
+    "usertype": "Subscriber",
+    "birth year": {
+        "$numberInt": "1961"
+    },
+    "start station location": {
+        "type": "Point",
+        "coordinates": [{
+            "$numberDouble": "-73.99973337"
+        }, {
+            "$numberDouble": "40.71910537"
+        }]
+    },
+    "end station location": {
+        "type": "Point",
+        "coordinates": [{
+            "$numberDouble": "-74.015756"
+        }, {
+            "$numberDouble": "40.711512"
+        }]
+    },
+    "start time": {
+        "$date": {
+            "$numberLong": "1451606466000"
+        }
+    },
+    "stop time": {
+        "$date": {
+            "$numberLong": "1451607356000"
+        }
+    }
+}

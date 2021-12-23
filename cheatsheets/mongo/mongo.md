@@ -1,4 +1,7 @@
 # MongoDB Cheat Sheet
+https://docs.mongodb.com/manual/reference/
+
+Topics: Indexing, MongoDB CLI, MongoDB Shell, MongoDB Structure, Replica Set
 
 ## Show All Databases
 
@@ -160,6 +163,34 @@ db.posts.update({ title: 'Post Two' },
 })
 ```
 
+### commands
+
+find, aggregate
+
+### cursor methods
+pretty, limit, sort, count
+
+## MQL commands
+*One, *Many
+$eq, $ne, $gt, $lt, $gte, $lte
+$and $or $nor $not $expr
+all size
+$regex
+
+find*
+insert*
+replace*
+update*
+delete*
+upsert
+
+
+## Operators
+$inc
+$set
+$unset
+
+
 ## Update Specific Field
 
 ```
@@ -259,3 +290,74 @@ db.posts.find({ views: { $gte: 7 } })
 db.posts.find({ views: { $lt: 7 } })
 db.posts.find({ views: { $lte: 7 } })
 ```
+
+db.listingsAndReviews.aggregate([
+          { "$match": { "amenities": "Wifi" } },
+          { "$project": { "price": 1,
+                          "address": 1,
+                          "_id": 0 }}]).pretty()
+
+db.listingsAndReviews.aggregate([ { "$project": { "address": 1, "_id": 0 }},
+        { "$group": { "_id": "$address.country" }}])
+
+db.listingsAndReviews.aggregate([
+      { "$project": { "address": 1, "_id": 0 }},
+      { "$group": { "_id": "$address.country",
+                    "count": { "$sum": 1 } } }
+    ])        
+
+
+### Indexs
+db.trips.createIndex({ "birth year": 1 })
+
+db.trips.createIndex({ "start station id": 1, "birth year": 1 })
+
+{
+  $and: [
+  { "address.suburb": { $exists: true, $nin: [""] } },
+    { "review_scores.review_scores_rating": { $exists: true, $nin: [""] } },
+  ]
+}
+
+### Joins
+
+$lookup
+$graphLookup
+
+validate_m320 example --file answer_schema.json
+#### patterns
+
+Approximation
+Attribute
+Bucket
+Computed
+Extended Reference
+Outlier
+Preallocated
+Polymorphic
+Schema Versioning
+Subset
+Tree and Graph
+
+### Model Tree Structures
+### Parent References
+`
+// all ancestors
+db.categories.aggregate( [
+  $graphLookup: {
+    from: 'categories',
+    startWith: '$name
+    connectFromField: 'parent',
+    connectToField : 'name',
+    as: 'ancestors',
+}])
+`
+### Child References
+### Array of Ancestors
+### Materialized Paths
+
+### hybrid
+{
+  "parent": "",
+  "ancestors":["",""]
+}

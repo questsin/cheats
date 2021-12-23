@@ -40,8 +40,8 @@ group Browser [Defaults]
 end
 
 group DNS [DNS Resolution]
-    C-> DNS: Request
-    DNS-> C: Reply
+    C-> DNS : request: IP from Domain name 
+    DNS-> C : reply: IP
 end
 
 group HTTP [ unsecured ]
