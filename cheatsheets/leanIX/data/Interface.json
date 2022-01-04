@@ -1,0 +1,2799 @@
+{
+    "data": {
+      "allFactSheets": {
+        "edges": [
+          {
+            "node": {
+              "id": "688f3195-3634-418a-8ad9-a3555bb358a9",
+              "name": "AC Management to HR Admin",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "AC Management to HR Admin",
+              "fullName": "AC Management to HR Admin",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2019-04-11T20:19:34.223Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "03099932-3af3-4c3c-abba-7a150d4e9ac9",
+              "name": "IF AutoCAD (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF AutoCAD (1)",
+              "fullName": "IF AutoCAD (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.649Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "f2833c09-fadc-4fd6-abf0-7f536d5ff7d1",
+              "name": "IF Bonus Card Americas (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Bonus Card Americas (1)",
+              "fullName": "IF Bonus Card Americas (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.653Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "f22415a3-fb4b-4788-8cf2-74ce699cea00",
+              "name": "IF Bonus Card Asia/Pacific (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Bonus Card Asia/Pacific (1)",
+              "fullName": "IF Bonus Card Asia/Pacific (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.657Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "12d7a83b-3532-445b-86e5-a877e0376f30",
+              "name": "IF Bonus Card Europe (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Bonus Card Europe (1)",
+              "fullName": "IF Bonus Card Europe (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.661Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "e1ab96e3-5b40-4f68-bab1-96f4ece537ab",
+              "name": "IF BYOD Directory (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF BYOD Directory (1)",
+              "fullName": "IF BYOD Directory (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.665Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "43e0a059-dfbb-4337-9f7b-6a9aa764a7f3",
+              "name": "IF Capacity (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Capacity (1)",
+              "fullName": "IF Capacity (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.669Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "4dfc7b7f-b155-41d9-9f8a-79265c529b8e",
+              "name": "IF CIS (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF CIS (1)",
+              "fullName": "IF CIS (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.673Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "296699f8-0109-4824-a6ab-179a686c2cc3",
+              "name": "IF CIS (2)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF CIS (2)",
+              "fullName": "IF CIS (2)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.678Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "f6224854-f6b1-4ac1-9dd1-f45c677271a7",
+              "name": "IF Cost Modelling (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Cost Modelling (1)",
+              "fullName": "IF Cost Modelling (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.685Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "083edb24-240f-4e75-b023-730d8fd47746",
+              "name": "IF CustEchoe Americas (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF CustEchoe Americas (1)",
+              "fullName": "IF CustEchoe Americas (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.689Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "ebac2ff5-9991-41f4-a8d8-18d409fd90a1",
+              "name": "IF CustEchoe Asia/Pacific (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF CustEchoe Asia/Pacific (1)",
+              "fullName": "IF CustEchoe Asia/Pacific (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.691Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "e08cf6e0-b776-4df6-82f9-ab475e44caed",
+              "name": "IF CustEchoe Europe (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF CustEchoe Europe (1)",
+              "fullName": "IF CustEchoe Europe (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.694Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "a7c242de-5ce1-41be-9df7-52cbe0ee9b9e",
+              "name": "IF ExecuTrack (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF ExecuTrack (1)",
+              "fullName": "IF ExecuTrack (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.698Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "6678703c-bbfc-437a-86a6-0a8a46d73c3f",
+              "name": "IF HR Admin (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF HR Admin (1)",
+              "fullName": "IF HR Admin (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.701Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "2c10d8ab-e5b5-4fbd-87cc-caf2e0f207d5",
+              "name": "IF HR Admin (2)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF HR Admin (2)",
+              "fullName": "IF HR Admin (2)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.705Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "c97cd28d-9eb2-44e5-8b04-c4709460f71f",
+              "name": "IF HR Admin (3)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF HR Admin (3)",
+              "fullName": "IF HR Admin (3)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.709Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "dee180ec-f4af-40bb-988b-431d7ab53fdf",
+              "name": "IF HR Admin (4)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF HR Admin (4)",
+              "fullName": "IF HR Admin (4)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.712Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "58212d36-9d42-408e-9203-94f75b6ae8b4",
+              "name": "IF HR Admin (5)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF HR Admin (5)",
+              "fullName": "IF HR Admin (5)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.714Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "52f94539-0b70-4c34-819c-5cba9d4a0946",
+              "name": "IF HR Admin (6)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF HR Admin (6)",
+              "fullName": "IF HR Admin (6)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.717Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "a0197ca7-e614-4e93-9c70-82dd28ef819a",
+              "name": "IF HR Admin (7)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF HR Admin (7)",
+              "fullName": "IF HR Admin (7)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.720Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "01bbc7ba-6122-4919-b50b-1daf1492df72",
+              "name": "IF HR Plan (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF HR Plan (1)",
+              "fullName": "IF HR Plan (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.725Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "d2025bc6-fb3f-4245-b10f-36a6fba3b130",
+              "name": "IF issueTrack (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF issueTrack (1)",
+              "fullName": "IF issueTrack (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.731Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "3ff98767-5b28-467b-ba93-87b509bbfa69",
+              "name": "IF Jobwatch (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Jobwatch (1)",
+              "fullName": "IF Jobwatch (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.736Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "6499ace0-5ee6-49b8-98ef-a6b72baa0396",
+              "name": "IF LDAP (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF LDAP (1)",
+              "fullName": "IF LDAP (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.740Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "1ce3dfde-6d9b-4637-9097-c6b24042f1e7",
+              "name": "IF LDAP (2)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF LDAP (2)",
+              "fullName": "IF LDAP (2)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.744Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "3caffe0f-12d6-46b0-b3b8-f3159afaf6d2",
+              "name": "IF LDAP (3)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF LDAP (3)",
+              "fullName": "IF LDAP (3)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.747Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "68c5c5c9-a932-46ab-a3f4-51839d381e5d",
+              "name": "IF OMS (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF OMS (1)",
+              "fullName": "IF OMS (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.750Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "36352893-bb90-4e29-80fe-074d0473cd1c",
+              "name": "IF Orgaplan Americas (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Orgaplan Americas (1)",
+              "fullName": "IF Orgaplan Americas (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.755Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "043658de-eeb8-462c-81ee-8fa54806abf0",
+              "name": "IF Orgaplan Asia/Pacific (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Orgaplan Asia/Pacific (1)",
+              "fullName": "IF Orgaplan Asia/Pacific (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.761Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "ef0ccfc8-69be-4e5b-ba7e-f53a24437211",
+              "name": "IF Orgaplan Europe (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Orgaplan Europe (1)",
+              "fullName": "IF Orgaplan Europe (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.766Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "24720ccc-c304-4903-adf9-0800c18707d0",
+              "name": "IF PartsList (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF PartsList (1)",
+              "fullName": "IF PartsList (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.770Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "acbb541d-ac02-4299-8c1d-ef73fdff5bcb",
+              "name": "IF Payroll Europe (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Payroll Europe (1)",
+              "fullName": "IF Payroll Europe (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.773Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "c269027a-955f-4d56-a033-3569569f2349",
+              "name": "IF Payroll Germany (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Payroll Germany (1)",
+              "fullName": "IF Payroll Germany (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.777Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "31b122d9-26cc-4c34-a154-0359a5144461",
+              "name": "IF Payroll RoW (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Payroll RoW (1)",
+              "fullName": "IF Payroll RoW (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.782Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "73fb94d2-8894-4977-ae1e-e18480f12360",
+              "name": "IF Revenue Collector (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Revenue Collector (1)",
+              "fullName": "IF Revenue Collector (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.786Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "75ba37ff-0228-46b0-9ab7-a3446be4e306",
+              "name": "IF Revenue Collector (2)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Revenue Collector (2)",
+              "fullName": "IF Revenue Collector (2)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.789Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "d10cc5d1-5b09-4ebf-8ebf-69af65931d36",
+              "name": "IF salesforce Light (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF salesforce Light (1)",
+              "fullName": "IF salesforce Light (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.793Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "43032a6c-054b-4081-9ea8-a8292ae0ef22",
+              "name": "IF SAP BI (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SAP BI (1)",
+              "fullName": "IF SAP BI (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.798Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "434e205b-eec8-4ec7-9777-7a2552c889a6",
+              "name": "IF SAP BI (2)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SAP BI (2)",
+              "fullName": "IF SAP BI (2)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.801Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "bb42958d-bc3c-48c8-aac7-7a9542232bf7",
+              "name": "IF SAP CO (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SAP CO (1)",
+              "fullName": "IF SAP CO (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.803Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "dc624c40-5bb1-4543-ab15-e9820fe5fcb8",
+              "name": "IF SAP FI (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SAP FI (1)",
+              "fullName": "IF SAP FI (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.805Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "db34ddc7-2199-4d83-8313-ee83d2e99976",
+              "name": "IF SAP FI (2)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SAP FI (2)",
+              "fullName": "IF SAP FI (2)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.808Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "fa00e3a2-950c-4e89-98eb-29234f6775e8",
+              "name": "IF SAP FI (3)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SAP FI (3)",
+              "fullName": "IF SAP FI (3)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.811Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "c4027c70-72d6-48df-b5e7-18d6852dc69a",
+              "name": "IF SAP FI (4)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SAP FI (4)",
+              "fullName": "IF SAP FI (4)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.814Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "ab15c1d8-07d3-4fac-b68d-6630fd0ffdd6",
+              "name": "IF SAP FI (5)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SAP FI (5)",
+              "fullName": "IF SAP FI (5)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.817Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "8905077d-8667-4359-960a-099f24171611",
+              "name": "IF SAP FI (6)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SAP FI (6)",
+              "fullName": "IF SAP FI (6)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.820Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "b7bd38cc-db9b-4472-b29b-cd2f5d659b4c",
+              "name": "IF Schedule & Track (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Schedule & Track (1)",
+              "fullName": "IF Schedule & Track (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.823Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "8533ba35-9b09-4586-901c-6656dbbf9384",
+              "name": "IF serviceEngage (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF serviceEngage (1)",
+              "fullName": "IF serviceEngage (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.826Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "aa449853-a49b-45b1-a3d9-9d5111da8ec7",
+              "name": "IF SPSS (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SPSS (1)",
+              "fullName": "IF SPSS (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.829Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "23a90cd7-001e-48fd-bd6b-e18c4542edaa",
+              "name": "IF Stocky (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Stocky (1)",
+              "fullName": "IF Stocky (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.833Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "05253553-1658-4344-b969-30444eb46da4",
+              "name": "IF Stocky (2)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Stocky (2)",
+              "fullName": "IF Stocky (2)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.836Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "2bb1e2df-e9ca-4694-9da0-eb5d5eb0367c",
+              "name": "IF Stocky (3)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Stocky (3)",
+              "fullName": "IF Stocky (3)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.839Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "083d5a5d-67f6-4829-a96e-cf7ab2b433d0",
+              "name": "IF Stocky (4)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Stocky (4)",
+              "fullName": "IF Stocky (4)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.841Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "4060c9be-d445-43c9-b207-72469b1b6f6a",
+              "name": "IF Stocky (5)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Stocky (5)",
+              "fullName": "IF Stocky (5)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.844Z",
+              "completion": {
+                "completion": 0.4375,
+                "percentage": 44
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "be965973-25d0-4e45-a0fe-9067acf1a2fb",
+              "name": "IF Supplier Tracking Germany (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Supplier Tracking Germany (1)",
+              "fullName": "IF Supplier Tracking Germany (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.846Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "74fa89c1-893d-464f-8516-8aabd8c0deeb",
+              "name": "IF Supplier Tracking Poland (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Supplier Tracking Poland (1)",
+              "fullName": "IF Supplier Tracking Poland (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.848Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "a293f83d-f514-475f-b5ca-0af360354e5d",
+              "name": "IF Supplier Tracking USA (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Supplier Tracking USA (1)",
+              "fullName": "IF Supplier Tracking USA (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.419Z",
+              "updatedAt": "2018-09-25T09:40:19.850Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "6911b93d-982e-4c81-b86d-2840db8da51f",
+              "name": "IF SuppList (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF SuppList (1)",
+              "fullName": "IF SuppList (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.420Z",
+              "updatedAt": "2018-09-25T09:40:19.853Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "c2a7a85b-f7e2-4922-845f-1362ecf5fcd8",
+              "name": "IF Training Management (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Training Management (1)",
+              "fullName": "IF Training Management (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.420Z",
+              "updatedAt": "2018-09-25T09:40:19.855Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "75438aa3-02f5-43ea-9d6b-a38e58d87453",
+              "name": "IF Training Plan (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF Training Plan (1)",
+              "fullName": "IF Training Plan (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.420Z",
+              "updatedAt": "2018-09-25T09:40:19.857Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "21900ab7-1981-4923-929a-57ac34a9e4ee",
+              "name": "IF WebTime (1)",
+              "description": null,
+              "category": null,
+              "type": "Interface",
+              "displayName": "IF WebTime (1)",
+              "fullName": "IF WebTime (1)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.420Z",
+              "updatedAt": "2018-09-25T09:40:19.859Z",
+              "completion": {
+                "completion": 0.5208333333333333,
+                "percentage": 52
+              },
+              "__typename": "Interface",
+              "lxState": "APPROVED"
+            }
+          }
+        ]
+      }
+    },
+    "errors": null
+  }

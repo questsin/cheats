@@ -1,0 +1,294 @@
+{
+	"title": "Business Application Criticality",
+	"questions": [
+		{
+			"id": "537f51bb-0763-f027-44cd-0749768ea0d2",
+			"label": "How would you rate the Application with regard to its business criticality and functional fit?",
+			"type": "factsheet",
+			"powerfeature": true,
+			"settings": {
+				"version": 1,
+				"fsSections": {
+					"section.information": {
+						"section": false,
+						"subsection.nameDescription": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.acl": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.lifecycle": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.successors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.predecessors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.dependencies": {
+						"section": false,
+						"subsection.parents": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.children": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requires": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requiredBy": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.projects": {
+						"section": false,
+						"subsection.factSheetsAffecting": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.businessSupport": {
+						"section": true,
+						"subsection.businessCriticalityFunctionalSuitability": {
+							"selected": true,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.factSheetsSupported": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsSupported_": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.userGroups": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.dataManagement": {
+						"section": false,
+						"subsection.factSheetsCreatedModifiedRequiredBy": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsProvided": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsConsumed": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.sourcing": {
+						"section": false,
+						"subsection.technicalSuitability": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.itComponentsUsing": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": "a6425b08-a73c-9e37-16ff-c42765d23a8a",
+			"label": "Which Business Capabilities make use of this Application?",
+			"type": "factsheet",
+			"powerfeature": true,
+			"settings": {
+				"version": 1,
+				"fsSections": {
+					"section.information": {
+						"section": false,
+						"subsection.nameDescription": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.acl": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.lifecycle": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.successors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.predecessors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.dependencies": {
+						"section": false,
+						"subsection.parents": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.children": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requires": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requiredBy": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.projects": {
+						"section": false,
+						"subsection.factSheetsAffecting": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.businessSupport": {
+						"section": true,
+						"subsection.businessCriticalityFunctionalSuitability": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.factSheetsSupported": {
+							"selected": true,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsSupported_": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.userGroups": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.dataManagement": {
+						"section": false,
+						"subsection.factSheetsCreatedModifiedRequiredBy": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsProvided": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsConsumed": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.sourcing": {
+						"section": false,
+						"subsection.technicalSuitability": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.itComponentsUsing": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": "2e6da1ec-bb07-d19c-e1da-5c3e73f65223",
+			"label": "How many users currently use the Application?",
+			"type": "number",
+			"powerfeature": false
+		},
+		{
+			"id": "f872899f-5792-d6ed-f6de-865281deb2e9",
+			"label": "How often is the Application used by an average user?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "c046bf04-f676-3fc2-eb6f-41d8e1a4d80a",
+					"label": "Multiple times a day"
+				},
+				{
+					"id": "83705a09-a277-aecb-325f-200753de6622",
+					"label": "Once a day"
+				},
+				{
+					"id": "4fa3f80a-6d07-45a6-d88a-d85144e141fa",
+					"label": "Few times a week"
+				},
+				{
+					"id": "3ae66056-ea73-7553-63be-6a9303c7431b",
+					"label": "Once a week"
+				},
+				{
+					"id": "355adca8-de73-b90d-4222-c19b08c2bfd7",
+					"label": "Few times a month"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "f65b3a30-37ba-5776-651e-772027b5e7f2",
+			"label": "Please list the top five substitute Applications in the market and score them on Value/Investment? (low, medium, high)",
+			"type": "textarea",
+			"powerfeature": false
+		}
+	],
+	"factSheetType": "Application"
+}

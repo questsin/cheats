@@ -1,0 +1,707 @@
+{
+    "data": {
+      "allFactSheets": {
+        "edges": [
+          {
+            "node": {
+              "id": "71651127-ae53-474f-a8b1-e146aaf818f7",
+              "name": "Consolidate customer platform",
+              "description": "All Customer applications are migrated to a central customer platform",
+              "category": null,
+              "type": "Project",
+              "displayName": "Consolidate customer platform",
+              "fullName": "Consolidate customer platform",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "fd3d57f2-f887-4972-ae01-fe54d9181205",
+                  "name": "Business Applications",
+                  "description": null,
+                  "color": "#DAA520",
+                  "tagGroup": {
+                    "id": "0d9dda90-9267-42c9-a22d-c23f6484bea6",
+                    "name": "Project Type",
+                    "shortName": null,
+                    "description": ""
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 6,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.954Z",
+              "updatedAt": "2019-03-24T14:37:59.692Z",
+              "completion": {
+                "completion": 0.27361111111111114,
+                "percentage": 27
+              },
+              "__typename": "Project",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "b4f741b5-1cde-4e2c-8909-66155ec5e0f1",
+              "name": "Exchange to Office 365",
+              "description": null,
+              "category": null,
+              "type": "Project",
+              "displayName": "Exchange to Office 365",
+              "fullName": "Exchange to Office 365",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "6a5caa0f-99ff-4d6d-ae84-a22f904a0bae",
+                  "name": "Infrastructure",
+                  "description": null,
+                  "color": "#CD5C5C",
+                  "tagGroup": {
+                    "id": "0d9dda90-9267-42c9-a22d-c23f6484bea6",
+                    "name": "Project Type",
+                    "shortName": null,
+                    "description": ""
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 3,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.954Z",
+              "updatedAt": "2019-03-24T14:37:59.705Z",
+              "completion": {
+                "completion": 0.28888888888888886,
+                "percentage": 29
+              },
+              "__typename": "Project",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "dfaf6ee0-cf31-42fe-abc3-2a55e3833054",
+              "name": "Integration of Customer Loyalty Information",
+              "description": "Integration of Customer Loyalty Information aims to consolidate and integrate all regional customer loyalty data into one core app",
+              "category": null,
+              "type": "Project",
+              "displayName": "Integration of Customer Loyalty Information",
+              "fullName": "Integration of Customer Loyalty Information",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "fd3d57f2-f887-4972-ae01-fe54d9181205",
+                  "name": "Business Applications",
+                  "description": null,
+                  "color": "#DAA520",
+                  "tagGroup": {
+                    "id": "0d9dda90-9267-42c9-a22d-c23f6484bea6",
+                    "name": "Project Type",
+                    "shortName": null,
+                    "description": ""
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 6,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "dc7848d1-acd6-4559-bbd4-e267fe2c9fc2",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "message": "We are looking for a J2EE Expert for an architecture workshop! Please contact me directly."
+                    }
+                  }
+                ]
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "dc234bd1-b28e-4fa2-80aa-ada112956213",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "8ebf24af-c931-4f1a-8ff2-c8357ab221ff",
+                      "user": {
+                        "id": "57827889-5e8c-4b98-8d39-46778da3885e"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "c1134655-0a23-4d9c-ab64-e3e646cbc7ed",
+                      "user": {
+                        "id": "b135bfef-6b1b-4abd-8e22-b2426c543edc"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.954Z",
+              "updatedAt": "2019-03-24T14:37:59.720Z",
+              "completion": {
+                "completion": 0.21805555555555556,
+                "percentage": 22
+              },
+              "__typename": "Project",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "e6b68ed4-eb3e-44c9-aa41-ab592ac72b7a",
+              "name": "Mobile Access for User",
+              "description": null,
+              "category": null,
+              "type": "Project",
+              "displayName": "Mobile Access for User",
+              "fullName": "Mobile Access for User",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "6a5caa0f-99ff-4d6d-ae84-a22f904a0bae",
+                  "name": "Infrastructure",
+                  "description": null,
+                  "color": "#CD5C5C",
+                  "tagGroup": {
+                    "id": "0d9dda90-9267-42c9-a22d-c23f6484bea6",
+                    "name": "Project Type",
+                    "shortName": null,
+                    "description": ""
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 3,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.954Z",
+              "updatedAt": "2019-03-24T14:37:59.732Z",
+              "completion": {
+                "completion": 0.3027777777777778,
+                "percentage": 30
+              },
+              "__typename": "Project",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "0944cbf9-550c-4f64-9666-1ed42f30ae9c",
+              "name": "New Operating Environment",
+              "description": "NOE shall better support some business processes by migrating to a new technology",
+              "category": null,
+              "type": "Project",
+              "displayName": "New Operating Environment",
+              "fullName": "New Operating Environment",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "fd3d57f2-f887-4972-ae01-fe54d9181205",
+                  "name": "Business Applications",
+                  "description": null,
+                  "color": "#DAA520",
+                  "tagGroup": {
+                    "id": "0d9dda90-9267-42c9-a22d-c23f6484bea6",
+                    "name": "Project Type",
+                    "shortName": null,
+                    "description": ""
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 6,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "59008524-25fa-4f10-87dc-b3f3a58375e7",
+                      "user": {
+                        "id": "b135bfef-6b1b-4abd-8e22-b2426c543edc"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "c43960d2-fba9-4cdc-90fb-b659604c3219",
+                      "user": {
+                        "id": "c727fb5d-05dc-4e6f-964f-4401b0701cf0"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "3b19f938-cb3d-4de4-90f0-ce5e3d7441ef",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.955Z",
+              "updatedAt": "2019-03-24T14:37:59.747Z",
+              "completion": {
+                "completion": 0.31527777777777777,
+                "percentage": 32
+              },
+              "__typename": "Project",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "5aed96b9-fa87-479e-bb42-e9334ea068f9",
+              "name": "Realtime BI visibility",
+              "description": null,
+              "category": null,
+              "type": "Project",
+              "displayName": "Realtime BI visibility",
+              "fullName": "Realtime BI visibility",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "fd3d57f2-f887-4972-ae01-fe54d9181205",
+                  "name": "Business Applications",
+                  "description": null,
+                  "color": "#DAA520",
+                  "tagGroup": {
+                    "id": "0d9dda90-9267-42c9-a22d-c23f6484bea6",
+                    "name": "Project Type",
+                    "shortName": null,
+                    "description": ""
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 6,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.955Z",
+              "updatedAt": "2019-03-24T14:37:59.758Z",
+              "completion": {
+                "completion": 0.28888888888888886,
+                "percentage": 29
+              },
+              "__typename": "Project",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "183a25f4-3800-4f3a-9632-54953a3aeef6",
+              "name": "Reorganization",
+              "description": "Reorganisation of the central IT organization with new governance processes",
+              "category": null,
+              "type": "Project",
+              "displayName": "Reorganization",
+              "fullName": "Reorganization",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.955Z",
+              "updatedAt": "2019-05-14T21:08:09.938Z",
+              "completion": {
+                "completion": 0.15555555555555556,
+                "percentage": 16
+              },
+              "__typename": "Project",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "92db2630-ee80-4bf6-a943-802cac2ebdf5",
+              "name": "Security improvement",
+              "description": "BYOD and mobile access to company resources",
+              "category": null,
+              "type": "Project",
+              "displayName": "Security improvement",
+              "fullName": "Security improvement",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "6a5caa0f-99ff-4d6d-ae84-a22f904a0bae",
+                  "name": "Infrastructure",
+                  "description": null,
+                  "color": "#CD5C5C",
+                  "tagGroup": {
+                    "id": "0d9dda90-9267-42c9-a22d-c23f6484bea6",
+                    "name": "Project Type",
+                    "shortName": null,
+                    "description": ""
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 3,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.955Z",
+              "updatedAt": "2018-09-25T09:40:43.672Z",
+              "completion": {
+                "completion": 0.25277777777777777,
+                "percentage": 25
+              },
+              "__typename": "Project",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "09ba25b0-dcaf-442d-af21-078686a695d7",
+              "name": "Social Media Roll-Out",
+              "description": null,
+              "category": null,
+              "type": "Project",
+              "displayName": "Social Media Roll-Out",
+              "fullName": "Social Media Roll-Out",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "fd3d57f2-f887-4972-ae01-fe54d9181205",
+                  "name": "Business Applications",
+                  "description": null,
+                  "color": "#DAA520",
+                  "tagGroup": {
+                    "id": "0d9dda90-9267-42c9-a22d-c23f6484bea6",
+                    "name": "Project Type",
+                    "shortName": null,
+                    "description": ""
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 6,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.955Z",
+              "updatedAt": "2019-03-26T08:05:21.474Z",
+              "completion": {
+                "completion": 0.30972222222222223,
+                "percentage": 31
+              },
+              "__typename": "Project",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "eaac80e3-f8b5-4159-9ce3-b6c41e18ec0b",
+              "name": "Update Chart of Account Structure",
+              "description": "Due to some mergers and other acquisitions it is necessary to restructure the chart of account and update this model in all related applications",
+              "category": null,
+              "type": "Project",
+              "displayName": "Update Chart of Account Structure",
+              "fullName": "Update Chart of Account Structure",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "fd3d57f2-f887-4972-ae01-fe54d9181205",
+                  "name": "Business Applications",
+                  "description": null,
+                  "color": "#DAA520",
+                  "tagGroup": {
+                    "id": "0d9dda90-9267-42c9-a22d-c23f6484bea6",
+                    "name": "Project Type",
+                    "shortName": null,
+                    "description": ""
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 6,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "4efca029-90f6-40cf-9af6-59f913461d8d",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "message": "Is this the initiative already reflecting the latest merger?"
+                    }
+                  }
+                ]
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "5e9df098-bf9e-4cb5-9a5e-10fbd86d649d",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "054d175b-e9a3-4967-9645-306f004026c2",
+                      "user": {
+                        "id": "57827889-5e8c-4b98-8d39-46778da3885e"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "ceab50bc-e481-4e56-9fa4-bcccdeaa238c",
+                      "user": {
+                        "id": "f4f6cbe3-1b13-47b0-b0d7-07a83508b184"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:31.955Z",
+              "updatedAt": "2019-03-24T14:37:59.801Z",
+              "completion": {
+                "completion": 0.31527777777777777,
+                "percentage": 32
+              },
+              "__typename": "Project",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          }
+        ]
+      }
+    },
+    "errors": null
+  }

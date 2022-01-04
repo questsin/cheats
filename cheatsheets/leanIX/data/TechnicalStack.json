@@ -1,0 +1,1224 @@
+{
+    "data": {
+      "allFactSheets": {
+        "edges": [
+          {
+            "node": {
+              "id": "0e70ea5b-a191-4d46-97c3-7e5802bf3cdf",
+              "name": "Computers",
+              "description": "An electronic device that is used for storing and processing data",
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Computers",
+              "fullName": "Computers",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2019-04-28T23:45:20.551Z",
+              "updatedAt": "2021-04-01T12:33:55.442638Z",
+              "completion": {
+                "completion": 0.20666666666666667,
+                "percentage": 21
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "7903b9dc-111c-462f-aa65-4624d16cb9a9",
+              "name": "Mainframes",
+              "description": "A very large and expensive computer capable of supporting hundreds, or even thousands, of users simultaneously",
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Computers / Mainframes",
+              "fullName": "Mainframes",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2019-04-28T23:46:35.456Z",
+              "updatedAt": "2021-04-01T12:33:55.535785Z",
+              "completion": {
+                "completion": 0.37333333333333335,
+                "percentage": 37
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "d3653bef-228b-4cf1-bcc1-2fe42b189c0b",
+              "name": "Servers",
+              "description": "A computer or device on a network that manages network resource",
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Computers / Servers",
+              "fullName": "Servers",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2019-04-28T23:45:20.584Z",
+              "updatedAt": "2021-04-01T12:33:55.609636Z",
+              "completion": {
+                "completion": 0.37333333333333335,
+                "percentage": 37
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "4a7fcf35-9546-4161-98a2-2dfa20608cf4",
+              "name": "Database",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Database",
+              "fullName": "Database",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.139Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "55069402-d80b-4bdf-94b2-cee5975b9709",
+              "name": "Non-relational Database",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Database / Non-relational Database",
+              "fullName": "Non-relational Database",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.143Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "a485074e-2b0f-4a6a-b92b-455c709d9ab6",
+              "name": "Relational Database",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Database / Relational Database",
+              "fullName": "Relational Database",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2019-04-24T02:50:40.110Z",
+              "completion": {
+                "completion": 0.5266666666666667,
+                "percentage": 53
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "da58272b-e4c6-4527-8283-a34db744e782",
+              "name": "Database Management Systems (DBMS)",
+              "description": "Softwares that allow users to create, view, update, and delete data in a database",
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Database Management Systems (DBMS)",
+              "fullName": "Database Management Systems (DBMS)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2019-04-24T02:49:03.006Z",
+              "updatedAt": "2021-04-01T12:33:55.865283Z",
+              "completion": {
+                "completion": 0.20666666666666667,
+                "percentage": 21
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "82577c9a-8c00-4193-8b3d-32c4a9cdf1a1",
+              "name": "Enterprise",
+              "description": "A system intended to organize, store, and retrieve large amounts of data that is shared by many users throughout the organization easily. Includes IBM DB2, non-personal Oracle, non-mobile Sybase, Informix, MS SQL Server, RDB, Time 10, Teradata, etc.",
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Database Management Systems (DBMS) / Enterprise",
+              "fullName": "Enterprise",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2019-04-24T02:49:02.977Z",
+              "updatedAt": "2021-04-01T12:33:55.952452Z",
+              "completion": {
+                "completion": 0.4566666666666667,
+                "percentage": 46
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "9cb5997d-24f5-4095-95f3-e26c0fa9ca53",
+              "name": "Development",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Development",
+              "fullName": "Development",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.153Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "e03d1900-9194-4107-8f94-f513914ff089",
+              "name": "Consulting",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Development / Consulting",
+              "fullName": "Consulting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.156Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "c07a2588-84a8-478e-a2ee-04370a077a16",
+              "name": "Software Development",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Development / Software Development",
+              "fullName": "Software Development",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.162Z",
+              "completion": {
+                "completion": 0.44333333333333336,
+                "percentage": 44
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "9ae6c057-b793-433a-9563-f25838609f10",
+              "name": "Devices",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Devices",
+              "fullName": "Devices",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.166Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "9f7b6daf-e84d-4586-92a7-dcf5296bd7b1",
+              "name": "Desktop",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Devices / Desktop",
+              "fullName": "Desktop",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.168Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "8cc807d0-84a3-4346-8a64-825ee971e13d",
+              "name": "Mobile Device",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Devices / Mobile Device",
+              "fullName": "Mobile Device",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.171Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "c56de97e-251a-4476-a344-cbeb4928b9d5",
+              "name": "Middleware",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Middleware",
+              "fullName": "Middleware",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.173Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "3833b6cc-d68a-4670-a3e0-f8f0aa080cf3",
+              "name": "Application Server",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Middleware / Application Server",
+              "fullName": "Application Server",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.176Z",
+              "completion": {
+                "completion": 0.44333333333333336,
+                "percentage": 44
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "7fce9b8c-bde5-4068-b596-beb17480cadb",
+              "name": "Messaging",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Middleware / Messaging",
+              "fullName": "Messaging",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.179Z",
+              "completion": {
+                "completion": 0.44333333333333336,
+                "percentage": 44
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "c3b931c8-a206-4614-98e3-50a94e016a7b",
+              "name": "Operations",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Operations",
+              "fullName": "Operations",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.182Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "4f7ed1f6-30df-47cd-ad0c-5c397b95b53a",
+              "name": "Hosting",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Operations / Hosting",
+              "fullName": "Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.185Z",
+              "completion": {
+                "completion": 0.44333333333333336,
+                "percentage": 44
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "54ae9e16-9db3-471f-bc48-8ae435ecf7a6",
+              "name": "Service Desk",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Operations / Service Desk",
+              "fullName": "Service Desk",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.188Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "ee19c036-c3a4-4187-b441-2ae675b73c02",
+              "name": "Server Platform",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Server Platform",
+              "fullName": "Server Platform",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.190Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "7f13f970-d6c0-40e3-902f-f4ad273029a1",
+              "name": "LINUX",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Server Platform / LINUX",
+              "fullName": "LINUX",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.192Z",
+              "completion": {
+                "completion": 0.44333333333333336,
+                "percentage": 44
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "cffed238-bf8a-42b1-928a-df12e6bac533",
+              "name": "Mainframe",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Server Platform / Mainframe",
+              "fullName": "Mainframe",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.195Z",
+              "completion": {
+                "completion": 0.44333333333333336,
+                "percentage": 44
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "b37fc6b8-00e4-40b0-8cf6-1ceb70b3984b",
+              "name": "UNIX",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Server Platform / UNIX",
+              "fullName": "UNIX",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.818Z",
+              "updatedAt": "2018-09-25T09:41:06.197Z",
+              "completion": {
+                "completion": 0.44333333333333336,
+                "percentage": 44
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "90f902d0-ae74-43ef-a163-7d22bd8247ef",
+              "name": "Windows",
+              "description": null,
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Server Platform / Windows",
+              "fullName": "Windows",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:29.819Z",
+              "updatedAt": "2018-09-25T09:41:06.199Z",
+              "completion": {
+                "completion": 0.44333333333333336,
+                "percentage": 44
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "53fa34d2-0883-4fa9-a1c3-745eded6693b",
+              "name": "Virtualization",
+              "description": "The act of creating a virtual (rather than actual) version of something, including virtual computer hardware platforms, operating systems, storage devices, and computer network resources.",
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Virtualization",
+              "fullName": "Virtualization",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2019-04-24T02:47:37.415Z",
+              "updatedAt": "2021-04-01T12:33:56.158349Z",
+              "completion": {
+                "completion": 0.20666666666666667,
+                "percentage": 21
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "00b6d172-d292-4400-9046-86aa4ff18482",
+              "name": "Hardware Virtualization",
+              "description": "Hosted hypervisor which needs an extra layer of traditional host OS on the server/machine. Hypervisor is installed on a ‘host OS’ and acts as a platform to host various other guest OS’es",
+              "category": null,
+              "type": "TechnicalStack",
+              "displayName": "Virtualization / Hardware Virtualization",
+              "fullName": "Hardware Virtualization",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2019-04-24T02:47:37.443Z",
+              "updatedAt": "2021-04-01T12:33:56.236777Z",
+              "completion": {
+                "completion": 0.37333333333333335,
+                "percentage": 37
+              },
+              "__typename": "TechnicalStack",
+              "lxState": "APPROVED"
+            }
+          }
+        ]
+      }
+    },
+    "errors": null
+  }

@@ -1,0 +1,176 @@
+{
+	"title": "Technology Risks of Vendor Lifecycle",
+	"questions": [
+		{
+			"id": "b0bc0f1f-98dc-ea2b-2406-a1db3b3f28f8",
+			"label": "What are the planned, phase in, active, phase out and end of lifecycle dates for the Application?",
+			"type": "factsheet",
+			"powerfeature": true,
+			"settings": {
+				"version": 1,
+				"fsSections": {
+					"section.information": {
+						"section": true,
+						"subsection.nameDescription": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.acl": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.lifecycle": {
+							"selected": true,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.successors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.predecessors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.dependencies": {
+						"section": false,
+						"subsection.parents": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.children": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requires": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requiredBy": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.projects": {
+						"section": false,
+						"subsection.factSheetsAffecting": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.businessSupport": {
+						"section": false,
+						"subsection.businessCriticalityFunctionalSuitability": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.factSheetsSupported": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsSupported_": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.userGroups": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.dataManagement": {
+						"section": false,
+						"subsection.factSheetsCreatedModifiedRequiredBy": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsProvided": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsConsumed": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.sourcing": {
+						"section": false,
+						"subsection.technicalSuitability": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.itComponentsUsing": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": "73fe33fc-8809-b1aa-5473-fd953538f935",
+			"label": "What are the various product and process related certifications doing the vendor provide during procurement?",
+			"type": "textarea",
+			"powerfeature": false
+		},
+		{
+			"id": "4c8127b8-e386-ca1a-2dec-c676a4e7e1cc",
+			"label": "What is the average and highest time taken by vendor to respond to the inquiries?",
+			"type": "textarea",
+			"powerfeature": false
+		},
+		{
+			"id": "f13074a6-a8a3-bb88-2bbd-cb080008cc37",
+			"label": "How would you assess the overall business/market performance of the vendor?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "976ace98-a5e1-48b8-ec69-15545a38a44f",
+					"label": "Very low"
+				},
+				{
+					"id": "932775e7-48f4-ef18-6e2f-e8a996a1d82d",
+					"label": "Low"
+				},
+				{
+					"id": "e0cdbf8c-e982-61f1-1d0f-5a09adfacbca",
+					"label": "Medium"
+				},
+				{
+					"id": "829fadc8-73e6-e61b-bc2c-7fce02d84610",
+					"label": "High"
+				},
+				{
+					"id": "7b163ab8-c6d9-28e3-fe24-a9c31a0d08f2",
+					"label": "Very high"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "0a249dac-85a0-8a9e-d201-b00f1e4c7b2d",
+			"label": "Please list the third-party vendors who support the Application and rate them on their expected commitment to the Application. (5-Highest, 1-Lowest)",
+			"type": "textarea",
+			"powerfeature": false
+		}
+	],
+	"factSheetType": "Application"
+}

@@ -1,0 +1,2844 @@
+{
+    "data": {
+      "allFactSheets": {
+        "edges": [
+          {
+            "node": {
+              "id": "3c86fe91-df46-4fde-8191-6c67253ca91a",
+              "name": "Corporate Services",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Corporate Services",
+              "fullName": "Corporate Services",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:00.986Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "b5e0fc18-bef0-414d-a38a-3409a2f8c01f",
+              "name": "Fleet Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Corporate Services / Fleet Management",
+              "fullName": "Fleet Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:01.937Z",
+              "completion": {
+                "completion": 0.5333333333333333,
+                "percentage": 53
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "35a3f19e-850c-47aa-b3ea-e77680be13eb",
+              "name": "Route Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Corporate Services / Fleet Management / Route Management",
+              "fullName": "Route Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 3,
+              "createdAt": "2019-04-11T20:00:09.149Z",
+              "updatedAt": "2021-04-01T12:33:55.761119Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "bcb62a37-e503-4888-bb06-57745d6f5a56",
+              "name": "Legal",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Corporate Services / Legal",
+              "fullName": "Legal",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:03.752Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "7b2c4358-3245-4648-8b98-fc0caa6b990b",
+              "name": "Purchasing",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Corporate Services / Purchasing",
+              "fullName": "Purchasing",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:04.649Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "8d90ddf7-ea87-4722-85bb-9ee8466aa057",
+              "name": "Real Estate Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Corporate Services / Real Estate Management",
+              "fullName": "Real Estate Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:05.516Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "5634544d-4cd3-4533-b190-3f947a99e752",
+              "name": "Customer Relationship",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Customer Relationship",
+              "fullName": "Customer Relationship",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:06.657Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "0fa743af-e684-4b7f-8bbf-490ab9fe9060",
+              "name": "After Sales Service",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Customer Relationship / After Sales Service",
+              "fullName": "After Sales Service",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d8018477-92f9-407c-af59-55f9c51626fd",
+                  "name": "Advantage",
+                  "description": null,
+                  "color": "#6ECAC7",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 8,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:07.709Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "0b8af9fd-75db-4227-835e-264b2068bcae",
+              "name": "Customer Service",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Customer Relationship / Customer Service",
+              "fullName": "Customer Service",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d8018477-92f9-407c-af59-55f9c51626fd",
+                  "name": "Advantage",
+                  "description": null,
+                  "color": "#6ECAC7",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 8,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:08.669Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "f967b340-43ba-4b0e-8a6e-0d5297594c20",
+              "name": "Opportunity, Order & Sales Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Customer Relationship / Opportunity, Order & Sales Management",
+              "fullName": "Opportunity, Order & Sales Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:09.526Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "1304cef6-ebb2-44ab-9021-d2e405d79274",
+              "name": "Retention & Loyalty Programs",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Customer Relationship / Retention & Loyalty Programs",
+              "fullName": "Retention & Loyalty Programs",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:10.485Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "a7f00b08-c6fe-4b7e-9b63-5ac24558c858",
+              "name": "Finance",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Finance",
+              "fullName": "Finance",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-05-14T21:08:09.936Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "79476f43-bde8-49f4-99f5-a7af50aaa5d7",
+              "name": "Accounting & Billing",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Finance / Accounting & Billing",
+              "fullName": "Accounting & Billing",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:17.373Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "ddbc21bf-ddb1-4639-b3fa-5df841e8cd35",
+              "name": "Audit/Assurance/Legal",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Finance / Audit/Assurance/Legal",
+              "fullName": "Audit/Assurance/Legal",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:17.544Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "7a32ec08-786b-4fd2-b7b5-f5a0b912dcd0",
+              "name": "Financial Planning & Forecasting",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Finance / Financial Planning & Forecasting",
+              "fullName": "Financial Planning & Forecasting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:18.486Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "833016fa-3401-4089-96e6-f8b08fa142e5",
+              "name": "Management Reporting",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Finance / Management Reporting",
+              "fullName": "Management Reporting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:19.701Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "a7a021c3-796a-4ac6-a4c9-6b4de589d393",
+              "name": "Treasury",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Finance / Treasury",
+              "fullName": "Treasury",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:20.573Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "9aa297ff-4177-47f5-8ccf-b3b67a73d63b",
+              "name": "HR",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "HR",
+              "fullName": "HR",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:21.489Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "0a2a8510-40de-450b-b4ad-ee6efa6dbefc",
+              "name": "Attendance Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "HR / Attendance Management",
+              "fullName": "Attendance Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:22.409Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "977b2f4b-ff5b-46c2-b848-2d2aee596211",
+              "name": "Employee lifecycle Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "HR / Employee lifecycle Management",
+              "fullName": "Employee lifecycle Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:23.284Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "0df86061-5aef-4d8e-8ff1-ddcdd469f1af",
+              "name": "Recruiting",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "HR / Recruiting",
+              "fullName": "Recruiting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.662Z",
+              "updatedAt": "2019-04-11T20:08:24.359Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "ef6a07b8-c252-4054-acb3-a710ec82c637",
+              "name": "Training & Skills Enhancements",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "HR / Training & Skills Enhancements",
+              "fullName": "Training & Skills Enhancements",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:25.432Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "3615c0bf-d16a-41b0-89f6-076936af8acd",
+              "name": "Workforce Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "HR / Workforce Management",
+              "fullName": "Workforce Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:26.422Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "332fd2b2-5043-4943-aa91-4ab8c17e81c2",
+              "name": "Information Technology",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Information Technology",
+              "fullName": "Information Technology",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:27.284Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "269846e0-262b-4ff6-8bc2-acc3f1aabbd7",
+              "name": "Access Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Information Technology / Access Management",
+              "fullName": "Access Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:28.265Z",
+              "completion": {
+                "completion": 0.4777777777777778,
+                "percentage": 48
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "203876be-6ac0-4461-a14c-e2058433fc84",
+              "name": "Collaboration",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Information Technology / Collaboration",
+              "fullName": "Collaboration",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:29.167Z",
+              "completion": {
+                "completion": 0.4777777777777778,
+                "percentage": 48
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "9842fb15-9db0-4da0-8ed9-310a75c8cb48",
+              "name": "Desktop services & Help desk",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Information Technology / Desktop services & Help desk",
+              "fullName": "Desktop services & Help desk",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:30.380Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "e5ccc510-28cd-4e7e-9eae-666de3d8fbb3",
+              "name": "Information Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Information Technology / Information Management",
+              "fullName": "Information Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d8018477-92f9-407c-af59-55f9c51626fd",
+                  "name": "Advantage",
+                  "description": null,
+                  "color": "#6ECAC7",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 8,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:31.259Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "96289f53-c82a-40d8-b76f-02a3616f2cb3",
+              "name": "Mobile Device Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Information Technology / Mobile Device Management",
+              "fullName": "Mobile Device Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d9939e0b-c505-4930-a843-b8c0077ed46f",
+                  "name": "Strategic Support",
+                  "description": null,
+                  "color": "#016483",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 4,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:32.097Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "cc64325e-9e64-4bf1-bd2b-352e8070eade",
+              "name": "Innovation",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Innovation",
+              "fullName": "Innovation",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:32.929Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "58aaff75-1649-447c-bdec-01860db7026f",
+              "name": "Idea Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Innovation / Idea Management",
+              "fullName": "Idea Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d8018477-92f9-407c-af59-55f9c51626fd",
+                  "name": "Advantage",
+                  "description": null,
+                  "color": "#6ECAC7",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 8,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:33.874Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "1f0064a5-c947-4040-9e40-c27a807536cb",
+              "name": "Innovation Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Innovation / Innovation Management",
+              "fullName": "Innovation Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d9939e0b-c505-4930-a843-b8c0077ed46f",
+                  "name": "Strategic Support",
+                  "description": null,
+                  "color": "#016483",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 4,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:34.855Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "fdb82369-578c-4cc8-a3df-525fd935eaba",
+              "name": "Inventory",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Inventory",
+              "fullName": "Inventory",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:35.823Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "f4120e92-4517-4f2f-8b75-cf3efddf7b82",
+              "name": "Distribution Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Inventory / Distribution Management",
+              "fullName": "Distribution Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:36.753Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "a89797a2-1561-42f5-9358-3bebdc3614a7",
+              "name": "Inventory Planning & Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Inventory / Inventory Planning & Management",
+              "fullName": "Inventory Planning & Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:37.750Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "3aa61ccf-636c-4409-b240-4ba774aae456",
+              "name": "Warehouse Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Inventory / Warehouse Management",
+              "fullName": "Warehouse Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:38.661Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "0c53c875-feab-4a87-9006-c0b3191aa65f",
+              "name": "Manufacturing",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Manufacturing",
+              "fullName": "Manufacturing",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:39.679Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "ff55f251-afce-4ddd-80d2-49e4c44b1f86",
+              "name": "Product Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Manufacturing / Product Management",
+              "fullName": "Product Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d9939e0b-c505-4930-a843-b8c0077ed46f",
+                  "name": "Strategic Support",
+                  "description": null,
+                  "color": "#016483",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 4,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:40.573Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "645c1d2e-e5a7-45be-b62c-b2e2c2f227da",
+              "name": "Production Costing",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Manufacturing / Production Costing",
+              "fullName": "Production Costing",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d8018477-92f9-407c-af59-55f9c51626fd",
+                  "name": "Advantage",
+                  "description": null,
+                  "color": "#6ECAC7",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 8,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:41.439Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "ca869a5b-6c2e-4887-94df-6eb33138d490",
+              "name": "Production Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Manufacturing / Production Management",
+              "fullName": "Production Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:42.292Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "8c85f3d4-0e44-4e97-b202-824dff6b9e38",
+              "name": "Marketing",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Marketing",
+              "fullName": "Marketing",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:43.160Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "b8e2bad7-d128-459d-90fa-ee70f191f851",
+              "name": "Campaign Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Marketing / Campaign Management",
+              "fullName": "Campaign Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d8018477-92f9-407c-af59-55f9c51626fd",
+                  "name": "Advantage",
+                  "description": null,
+                  "color": "#6ECAC7",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 8,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:44.076Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "258fa168-43b2-49e6-a5c7-f17b4f05fad9",
+              "name": "Corporate Communications",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Marketing / Corporate Communications",
+              "fullName": "Corporate Communications",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:44.953Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "582da78b-ee52-4cd6-91fa-05a311d9ce06",
+              "name": "Event Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Marketing / Event Management",
+              "fullName": "Event Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:45.866Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "88bd0f41-187b-44d3-a885-fc58fc54cd2c",
+              "name": "Research",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Marketing / Research",
+              "fullName": "Research",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d8018477-92f9-407c-af59-55f9c51626fd",
+                  "name": "Advantage",
+                  "description": null,
+                  "color": "#6ECAC7",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 8,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:46.737Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "9f1d3352-e2d2-4a81-ac3e-b2bcbd253a37",
+              "name": "Social Media Marketing",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Marketing / Social Media Marketing",
+              "fullName": "Social Media Marketing",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d9939e0b-c505-4930-a843-b8c0077ed46f",
+                  "name": "Strategic Support",
+                  "description": null,
+                  "color": "#016483",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 4,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:47.672Z",
+              "completion": {
+                "completion": 0.4777777777777778,
+                "percentage": 48
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "2aa38caf-7ecc-4bb2-9f5b-39e91be7fa8d",
+              "name": "Strategy Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Strategy Management",
+              "fullName": "Strategy Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:48.576Z",
+              "completion": {
+                "completion": 0.2833333333333333,
+                "percentage": 28
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "3282630b-0c78-48ab-b02a-9307ccf8ff49",
+              "name": "Corporate Governance",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Strategy Management / Corporate Governance",
+              "fullName": "Corporate Governance",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:49.393Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "61083836-ddb8-430c-80d4-abfd0d03747b",
+              "name": "Organisational Management",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Strategy Management / Organisational Management",
+              "fullName": "Organisational Management",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "f2dc6e23-fc42-4b91-a6ca-a14fdd004d37",
+                  "name": "Essential",
+                  "description": null,
+                  "color": "#FFD700",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 27,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:50.230Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "31fc846a-9708-48b7-bcc2-6b4d5e79ae57",
+              "name": "Strategic Planning",
+              "description": null,
+              "category": null,
+              "type": "BusinessCapability",
+              "displayName": "Strategy Management / Strategic Planning",
+              "fullName": "Strategic Planning",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "d8018477-92f9-407c-af59-55f9c51626fd",
+                  "name": "Advantage",
+                  "description": null,
+                  "color": "#6ECAC7",
+                  "tagGroup": {
+                    "id": "3c844d2a-b5ac-4deb-a8b7-9ce36a3e871d",
+                    "name": "Differentiation",
+                    "shortName": null,
+                    "description": "The level how a business capability adds value to the company's strategy"
+                  },
+                  "status": "ACTIVE",
+                  "factSheetCount": 8,
+                  "deletable": false
+                },
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:28.663Z",
+              "updatedAt": "2019-04-11T20:08:51.120Z",
+              "completion": {
+                "completion": 0.3666666666666667,
+                "percentage": 37
+              },
+              "__typename": "BusinessCapability",
+              "lxState": "APPROVED"
+            }
+          }
+        ]
+      }
+    },
+    "errors": null
+  }

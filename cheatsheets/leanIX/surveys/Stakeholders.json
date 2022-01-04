@@ -1,0 +1,99 @@
+{
+	"title": "Stakeholders Assessment",
+	"questions": [
+		{
+			"id": "8756d0ae-cfc3-65ea-f05d-4cf4da5b7a0d",
+			"label": "How satisfied are you with the overall Enterprise Architecture services and its recommendations?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "dabba840-a60f-09c0-a65d-60d30bedc1a9",
+					"label": "Extremely satisfied"
+				},
+				{
+					"id": "23cb95ae-7cd5-ab1b-bb6b-d23400c42c1d",
+					"label": "Very satisfied"
+				},
+				{
+					"id": "a5eecb79-f1e9-dae6-7c5e-fd92e49a571c",
+					"label": "Moderately satisfied"
+				},
+				{
+					"id": "91d8776a-6740-8a75-9916-623fce6fea21",
+					"label": "Slightly satisfied"
+				},
+				{
+					"id": "84de7403-bbe1-0249-9c92-d45a3525cd33",
+					"label": "Not satisfied"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "523f2184-bd39-7768-0841-396fa6fa8608",
+			"label": "How much influence do you have on the strategic direction of business and IT?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "d7b02204-ba94-72a5-91e9-ae8e5caee87f",
+					"label": "High influence"
+				},
+				{
+					"id": "f7b32ca2-ee03-266f-14fc-8c76b42a3a70",
+					"label": "Moderate influence"
+				},
+				{
+					"id": "ffcfda75-3edf-2440-c4f4-db0fd60ba607",
+					"label": "Low influence"
+				},
+				{
+					"id": "5f17497d-d74e-8158-eb85-323e4d7042e4",
+					"label": "No influence"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "ea9ad5fd-2ed5-ba0d-f8cf-3d1385f119a2",
+			"label": "How would you describe the understanding of Enterprise Architecture for the success of the organizational goals?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "4667a9a6-fbf0-aab3-6984-beee74513930",
+					"label": "Poor"
+				},
+				{
+					"id": "439ed7c8-dab8-b547-c1f5-403092f3e561",
+					"label": "Good"
+				},
+				{
+					"id": "15f19553-6903-04c4-9697-de3db8dfba6f",
+					"label": "Moderate"
+				},
+				{
+					"id": "5a6e0837-1a40-4f56-63e1-1028930ada22",
+					"label": "Very good"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "996f426a-da1a-1831-4c04-aec4b7fd1201",
+			"label": "How many Enterprise Architecture related initiatives are you aware of? Please list all.",
+			"type": "textarea",
+			"powerfeature": false
+		},
+		{
+			"id": "68c462b7-5ef7-6c6c-b957-23a1d94d6848",
+			"label": "Can you give an example when Enterprise Architecture helped to navigate challenges in your work?",
+			"type": "textarea",
+			"powerfeature": false
+		},
+		{
+			"id": "f04d2ac7-fbe9-e380-edbe-7b6b4290dc8a",
+			"label": "How have you contributed to Enterprise Architecture and strategic direction of the business and IT in the last year?",
+			"type": "textarea",
+			"powerfeature": false
+		}
+	]
+}

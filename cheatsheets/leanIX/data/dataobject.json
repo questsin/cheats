@@ -1,0 +1,729 @@
+{
+    "data": {
+      "allFactSheets": {
+        "edges": [
+          {
+            "node": {
+              "id": "85a244d3-f7de-40d4-9d50-8f0d43588024",
+              "name": "Account",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Account",
+              "fullName": "Account",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.291Z",
+              "completion": {
+                "completion": 0.3111111111111111,
+                "percentage": 31
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "559fdd02-0ac6-49c0-a762-7dc75c46ad96",
+              "name": "Contract",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Contract",
+              "fullName": "Contract",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.296Z",
+              "completion": {
+                "completion": 0.3111111111111111,
+                "percentage": 31
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "481c8370-0e4d-4bd5-bae4-bfa61b99142d",
+              "name": "Cost",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Cost",
+              "fullName": "Cost",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.301Z",
+              "completion": {
+                "completion": 0.19999999999999998,
+                "percentage": 20
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "7bb67a50-1d73-425c-9760-3aff85ef2eb0",
+              "name": "Currency",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Currency",
+              "fullName": "Currency",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.305Z",
+              "completion": {
+                "completion": 0.19999999999999998,
+                "percentage": 20
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "84bc00a1-580d-4022-9cea-253b1f7a08b7",
+              "name": "Customer",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Customer",
+              "fullName": "Customer",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.310Z",
+              "completion": {
+                "completion": 0.3111111111111111,
+                "percentage": 31
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "2ffc43eb-ff7e-4987-a4d7-bab0a622b039",
+              "name": "Document",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Document",
+              "fullName": "Document",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.314Z",
+              "completion": {
+                "completion": 0.19999999999999998,
+                "percentage": 20
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "cc66387d-3636-488e-9371-09717d94d1a9",
+              "name": "Employee",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Employee",
+              "fullName": "Employee",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2019-04-26T15:16:16.039Z",
+              "completion": {
+                "completion": 0.3055555555555556,
+                "percentage": 31
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "abc672f9-519e-4ebb-9106-bc01795748d4",
+              "name": "Employee Time",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Employee Time",
+              "fullName": "Employee Time",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.321Z",
+              "completion": {
+                "completion": 0.19999999999999998,
+                "percentage": 20
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "6118ab98-acfd-4111-8f79-d4bba15b8552",
+              "name": "Invoice",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Invoice",
+              "fullName": "Invoice",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.323Z",
+              "completion": {
+                "completion": 0.08888888888888889,
+                "percentage": 9
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "372229e5-32d6-4b16-8798-d805c96af847",
+              "name": "Material",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Material",
+              "fullName": "Material",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.326Z",
+              "completion": {
+                "completion": 0.19999999999999998,
+                "percentage": 20
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "c76a7d98-e1c6-4977-bfbc-e0e8e75d6dc3",
+              "name": "Order",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Order",
+              "fullName": "Order",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.328Z",
+              "completion": {
+                "completion": 0.19999999999999998,
+                "percentage": 20
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "f190a51c-f52e-4715-a3fb-c62e1ce287be",
+              "name": "Organisation",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Organisation",
+              "fullName": "Organisation",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.331Z",
+              "completion": {
+                "completion": 0.3111111111111111,
+                "percentage": 31
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "0fd94482-b1ca-4467-ba92-be59cb7a9c7e",
+              "name": "Parts",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Parts",
+              "fullName": "Parts",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.333Z",
+              "completion": {
+                "completion": 0.3111111111111111,
+                "percentage": 31
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "0a167f78-80e8-458d-8eb5-4db4fea0e30e",
+              "name": "Product",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Product",
+              "fullName": "Product",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.336Z",
+              "completion": {
+                "completion": 0.3111111111111111,
+                "percentage": 31
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "cc19a3e7-09d5-40bd-ab88-a6a30b32d067",
+              "name": "Supplier",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "Supplier",
+              "fullName": "Supplier",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.338Z",
+              "completion": {
+                "completion": 0.3111111111111111,
+                "percentage": 31
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          },
+          {
+            "node": {
+              "id": "90dade6d-19a9-47ef-a597-6ced5263ae6e",
+              "name": "User",
+              "description": null,
+              "category": null,
+              "type": "DataObject",
+              "displayName": "User",
+              "fullName": "User",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:30.438Z",
+              "updatedAt": "2018-09-25T09:40:12.341Z",
+              "completion": {
+                "completion": 0.3111111111111111,
+                "percentage": 31
+              },
+              "__typename": "DataObject",
+              "lxState": "APPROVED"
+            }
+          }
+        ]
+      }
+    },
+    "errors": null
+  }

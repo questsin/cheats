@@ -1,0 +1,131 @@
+{
+    "title": "Assessment of application security according to IT-Grundschutz",
+    "questions": [
+        {
+            "id": "aa720674-fbf6-fde3-e6b6-e9ea67828e4f",
+            "type": "radio",
+            "label": "Provide an assessment of application confidentiality requirements",
+            "options": [
+                {
+                    "id": "659d49d6-9234-8327-d4be-bf094735bd9b",
+                    "label": "public"
+                },
+                {
+                    "id": "2f15535a-fb29-2ddd-b44f-44efd7a2e30e",
+                    "label": "internal"
+                },
+                {
+                    "label": "confidential",
+                    "id": "6a92fc5c-e50f-da77-643b-d887138a1c53"
+                },
+                {
+                    "label": "strictly confidental",
+                    "id": "c3a9fb43-affc-d1b6-9f0d-5dec7a3a0587"
+                }
+            ]
+        },
+        {
+            "id": "7a28baa2-34f1-2326-85d4-e4c3ec5efc7a",
+            "type": "radio",
+            "label": "Provide an assessment of application integrity requirements",
+            "options": [
+                {
+                    "id": "5e9a40ba-a6cc-d59e-4bd4-bed7a6e38540",
+                    "label": "high"
+                },
+                {
+                    "id": "087c59b5-b235-728d-834a-be9d4039723c",
+                    "label": "medium"
+                },
+                {
+                    "id": "f6883f26-a54b-9f1e-33e2-5b713a3ad8c9",
+                    "label": "low"
+                }
+            ]
+        },
+        {
+            "id": "5a27277d-cd73-d744-6753-aa24f726b149",
+            "type": "radio",
+            "label": "Provide an assessment of application availability requirements",
+            "options": [
+                {
+                    "id": "71831d4d-d0b4-7fda-26d1-87ddaf14714f",
+                    "label": "high"
+                },
+                {
+                    "id": "555eefa2-9db1-e542-dfd2-310dda86a3fc",
+                    "label": "medium"
+                },
+                {
+                    "id": "c930d4c6-437f-e781-9776-72c43fa592f9",
+                    "label": "low"
+                }
+            ]
+        },
+        {
+            "id": "e0402eb2-696e-3441-4a9b-f123505d2eea",
+            "type": "radio",
+            "label": "Does the application process personal data?",
+            "options": [
+                {
+                    "id": "63c86e21-8e49-50f1-7ec6-1606410152a5",
+                    "label": "yes"
+                },
+                {
+                    "id": "4df4fc9b-fa65-0624-6fad-66b95002872e",
+                    "label": "no"
+                }
+            ]
+        },
+        {
+            "id": "7df6130c-7785-b362-40b1-72fc6e5bf5ea",
+            "type": "radio",
+            "label": "Is an application specific password policy in place?",
+            "options": [
+                {
+                    "id": "6c84b559-2942-c5e1-b30f-944cbbd073b0",
+                    "label": "yes"
+                },
+                {
+                    "id": "7f527caf-5ba2-945d-f758-d52a2c8e5344",
+                    "label": "no"
+                }
+            ]
+        },
+        {
+            "id": "9eba5350-c41c-4270-a196-768b33edeada",
+            "type": "textarea",
+            "label": "If yes, please provide details"
+        },
+        {
+            "id": "47383531-1164-96bd-6224-4fe1471a9cf0",
+            "type": "radio",
+            "label": "Is data stored encrypted only?",
+            "options": [
+                {
+                    "id": "b1d40873-1599-5e46-b290-4602c6999692",
+                    "label": "yes"
+                },
+                {
+                    "id": "c2e4f586-c0db-6f7f-5b18-38fc92a4db2c",
+                    "label": "no"
+                }
+            ]
+        },
+        {
+            "id": "7a4ccfcf-f244-c166-8b29-8991036f150f",
+            "type": "radio",
+            "label": "Is data transferred encrypted only?",
+            "options": [
+                {
+                    "id": "779233ea-f8b5-11a7-d6c9-7a0dafaa711d",
+                    "label": "yes"
+                },
+                {
+                    "id": "e3266ae4-931a-29b4-56dc-3e24359b18ba",
+                    "label": "no"
+                }
+            ]
+        }
+    ]
+}

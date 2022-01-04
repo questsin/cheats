@@ -1,0 +1,42 @@
+{
+    "u_computer_fqdn": "computer2-fqdn",
+    "u_computer_id": 2,
+    "u_computer_ip": "computer2-ip",
+    "u_computer_location": "PDX",
+    "u_computer_mac": "computer2-mac",
+    "u_computer_name": "nested-payload-computer2",
+    "u_computer_os": "computer2-os",
+    "interfaces": [
+        {
+            "u_interface_ip": "computer2-eth1-ip",
+            "u_interface_mac": "computer2-eth1-mac",
+            "u_interface_name": "computer2-eth1",
+            "ip": ""
+        },
+        {
+            "u_interface_ip": "computer2-eth2-ip",
+            "u_interface_mac": "computer2-eth2-mac",
+            "u_interface_name": "computer2-eth2",
+            "ip": {
+                "u_ip_address": "computer2-eth2-ip",
+                "u_mac_address": "computer2-eth2-mac"
+            }
+        }
+    ],
+    "software": [
+        {
+            "u_software_name": "computer2-software2",
+            "u_software_version": "computer2-software2-1.0",
+            "instance": {
+                "u_software_instance_name": "computer2-software1-instance"
+            }
+        },
+        {
+            "u_software_name": "computer2-software2",
+            "u_software_version": "computer2-software2-2.0",
+            "instance": {
+                "u_software_instance_name": "computer2-software2-instance"
+            }
+        }
+    ]
+},

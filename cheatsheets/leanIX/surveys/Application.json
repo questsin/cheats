@@ -1,0 +1,717 @@
+{
+    "title": "Initial Application Assessment",
+    "questions": [
+        {
+            "id": "e4cdde41-c675-17c0-bd3e-f87db93e5a2d",
+            "label": "Are you the responsible business partner for this application?",
+            "type": "radio",
+            "options": [
+                {
+                    "id": "a08f3ab0-950e-74e6-6d1c-5270bbf35323",
+                    "label": "Yes"
+                },
+                {
+                    "id": "fe08b74d-302a-91f7-9c13-edb7dc1993b5",
+                    "label": "No"
+                }
+            ],
+            "powerfeature": false
+        },
+        {
+            "id": "45507a01-e2bc-94c8-a634-3e18b28b26d0",
+            "label": "Are you the responsible technical architect for this application?",
+            "type": "radio",
+            "options": [
+                {
+                    "id": "e50ce5f3-6750-0a73-5e6c-cca94495bb3e",
+                    "label": "Yes"
+                },
+                {
+                    "id": "1ef98e8a-5579-8954-b519-fdc044558637",
+                    "label": "No"
+                }
+            ],
+            "powerfeature": false
+        },
+        {
+            "id": "3c69c89c-fab4-4e00-dada-78e18c5fc5bf",
+            "label": "Application Functional Fit",
+            "type": "group",
+            "children": [
+                {
+                    "id": "708c79f7-8d70-b63d-a5f2-4dc5de2dc09e",
+                    "label": "How often do you use this application in your daily work? (1 - lowest / 5 - highest)",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "id": "9f248602-90b8-fac5-162d-1677a53d5bdf",
+                            "label": "1"
+                        },
+                        {
+                            "id": "eac1aeff-d352-c807-fb95-c84ff2148d5b",
+                            "label": "2"
+                        },
+                        {
+                            "id": "dfd5fab6-1e27-26f3-382e-dbc59e59310c",
+                            "label": "3"
+                        },
+                        {
+                            "id": "b5bab25d-c40e-c9d7-bd81-3d41027e0bfa",
+                            "label": "4"
+                        },
+                        {
+                            "id": "1458d2ce-589e-9c9e-2f6a-3ccb847b70d5",
+                            "label": "5"
+                        }
+                    ],
+                    "powerfeature": false
+                },
+                {
+                    "id": "b0b4c70a-93b5-b67f-aedb-a6af2c8f0e25",
+                    "label": "How well does this application cover its purpose? (1 - lowest / 5 - highest)",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "id": "87e828ab-b5c7-3715-96d4-4cf10eba9cb4",
+                            "label": "1"
+                        },
+                        {
+                            "id": "7e001af7-89f5-11fd-4d0c-325cb6eac907",
+                            "label": "2"
+                        },
+                        {
+                            "id": "e5ca5a68-789e-5637-c292-6d64ba4bb764",
+                            "label": "3"
+                        },
+                        {
+                            "id": "f184d228-afaa-4814-396d-e12f3c45786f",
+                            "label": "4"
+                        },
+                        {
+                            "id": "6b442d9b-5fa8-58e5-35d4-d6359ccf4e42",
+                            "label": "5"
+                        }
+                    ],
+                    "powerfeature": false
+                },
+                {
+                    "id": "ac803aef-f535-722f-1eff-012b1eb71996",
+                    "label": "What is the main purpose of this application? (describe briefly)",
+                    "type": "text",
+                    "powerfeature": false
+                },
+                {
+                    "id": "59a3acb8-ead2-51b8-2817-ae306b1f7627",
+                    "label": "What other applications do you know that could fullfil this purpose in a better way?",
+                    "type": "text",
+                    "powerfeature": false
+                },
+                {
+                    "id": "9037f2e7-0452-ad19-3a3c-6af1daab8b94",
+                    "label": "Based on the answers above, please rate the FUNCTIONAL FIT of this application.",
+                    "type": "factsheet",
+                    "powerfeature": true,
+                    "settings": {
+                        "fsSections": {
+                            "section.information": {
+                                "section": false,
+                                "subsection.nameDescription": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.lifecycle": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.successors": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.predecessors": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.dependencies": {
+                                "section": false,
+                                "subsection.parents": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.children": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.requires": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.requiredBy": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.projects": {
+                                "section": false,
+                                "subsection.factSheetsAffecting": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.businessSupport": {
+                                "section": true,
+                                "subsection.businessCriticalityFunctionalSuitability": {
+                                    "selected": true,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsSupported": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsSupported_": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.userGroups": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.gdpr": {
+                                "section": false,
+                                "subsection.gdpr": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                }
+                            },
+                            "section.dataManagement": {
+                                "section": false,
+                                "subsection.factSheetsCreatedModifiedRequiredBy": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsProvided": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsConsumed": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.sourcing": {
+                                "section": false,
+                                "subsection.technicalSuitability": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.itComponentsUsing": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            }
+                        }
+                    }
+                }
+            ],
+            "powerfeature": true,
+            "settings": {
+                "version": 1,
+                "isConditional": true,
+                "dependency": {
+                    "parentId": "e4cdde41-c675-17c0-bd3e-f87db93e5a2d",
+                    "condition": {
+                        "op": "||",
+                        "args": [
+                            {
+                                "op": "==",
+                                "args": [
+                                    [
+                                        0
+                                    ],
+                                    "Yes"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "c08e5e65-0893-806d-b6bd-2b9f0a0baf44",
+            "label": "Application Criticality",
+            "type": "group",
+            "children": [
+                {
+                    "id": "96d8446d-6466-a506-59df-2cc61aa064f8",
+                    "label": "How important is this application for your company to realize your business models in a proper way? (1 - lowest / 5 - highest)",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "id": "be936b4f-8264-59c3-b7a8-305c77289f59",
+                            "label": "1"
+                        },
+                        {
+                            "id": "2305b940-0eda-1d32-0c22-6e72bed065a8",
+                            "label": "2"
+                        },
+                        {
+                            "id": "5f2eea36-f246-bad8-840b-6492d1c269d8",
+                            "label": "3"
+                        },
+                        {
+                            "id": "82d1823d-6b85-8685-6e98-3438281f4cbd",
+                            "label": "4"
+                        },
+                        {
+                            "id": "7700e697-bc89-00e2-b0be-23a9ab45c93d",
+                            "label": "5"
+                        }
+                    ],
+                    "powerfeature": false
+                },
+                {
+                    "id": "ccf63310-e52a-a37d-8291-ca306c7c3a99",
+                    "label": "How big is the negative impact, if this application is not available when needed? (1 - lowest / 5 - highest)",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "id": "61f2d400-62fa-97d8-2a87-f70146804e2f",
+                            "label": "1"
+                        },
+                        {
+                            "id": "7ec68f5a-5375-3b43-8bcd-29ea77275a01",
+                            "label": "2"
+                        },
+                        {
+                            "id": "e1545abe-8d84-9f59-6661-5da8e1caa588",
+                            "label": "3"
+                        },
+                        {
+                            "id": "99e18774-905c-62d1-7b75-9e9b8e670417",
+                            "label": "4"
+                        },
+                        {
+                            "id": "257cf9b6-f5e4-a9b2-ca1a-16f32802b4a7",
+                            "label": "5"
+                        }
+                    ],
+                    "powerfeature": false
+                },
+                {
+                    "id": "0763de80-d37c-0459-3c11-8aadd010e084",
+                    "label": "Please briefly describe the impact, in case the application is not available when needed.",
+                    "type": "text",
+                    "powerfeature": false
+                },
+                {
+                    "id": "98b30001-2c3a-f822-6a8b-1dd304842350",
+                    "label": "Based on the answers above, please rate the BUSINESS CRITICALITY of this application.",
+                    "type": "factsheet",
+                    "powerfeature": true,
+                    "settings": {
+                        "fsSections": {
+                            "section.information": {
+                                "section": false,
+                                "subsection.nameDescription": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.lifecycle": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.successors": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.predecessors": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.dependencies": {
+                                "section": false,
+                                "subsection.parents": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.children": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.requires": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.requiredBy": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.projects": {
+                                "section": false,
+                                "subsection.factSheetsAffecting": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.businessSupport": {
+                                "section": true,
+                                "subsection.businessCriticalityFunctionalSuitability": {
+                                    "selected": true,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsSupported": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsSupported_": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.userGroups": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.gdpr": {
+                                "section": false,
+                                "subsection.gdpr": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                }
+                            },
+                            "section.dataManagement": {
+                                "section": false,
+                                "subsection.factSheetsCreatedModifiedRequiredBy": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsProvided": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsConsumed": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.sourcing": {
+                                "section": false,
+                                "subsection.technicalSuitability": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.itComponentsUsing": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            }
+                        }
+                    }
+                }
+            ],
+            "powerfeature": true,
+            "settings": {
+                "version": 1,
+                "isConditional": true,
+                "dependency": {
+                    "parentId": "e4cdde41-c675-17c0-bd3e-f87db93e5a2d",
+                    "condition": {
+                        "op": "||",
+                        "args": [
+                            {
+                                "op": "==",
+                                "args": [
+                                    [
+                                        0
+                                    ],
+                                    "Yes"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "id": "03e082a9-0b92-589a-f623-d824d9e5c41f",
+            "label": "Technical Fit",
+            "type": "group",
+            "children": [
+                {
+                    "id": "b3abc3e9-48c0-2a7e-bb0f-520d997a40f8",
+                    "label": "How do you rate the general availability of this application? (1 - lowest / 5 - highest)",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "id": "02f526c5-f5af-fea0-f645-f58b08f982d4",
+                            "label": "1"
+                        },
+                        {
+                            "id": "22a9006d-a390-cf61-e33c-d076babcc3c9",
+                            "label": "2"
+                        },
+                        {
+                            "id": "3792fd31-6c17-e00e-3dba-aa3e321e2a4a",
+                            "label": "3"
+                        },
+                        {
+                            "id": "a18ba8b7-6b96-236e-8919-8aea11a54ee2",
+                            "label": "4"
+                        },
+                        {
+                            "id": "3bbd9714-f82b-48fe-dab6-53debf51bf92",
+                            "label": "5"
+                        }
+                    ],
+                    "powerfeature": false
+                },
+                {
+                    "id": "5b639b0d-5293-7e6a-eeba-a60786f0ab7b",
+                    "label": "How do you / would like to raise tickets towards this application? (1 - lowest / 5 - highest)",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "id": "e2547243-dd37-661e-1d85-6b6d68a2b8a3",
+                            "label": "1"
+                        },
+                        {
+                            "id": "7e88c9a0-7859-8f9f-009d-22501fd50f28",
+                            "label": "2"
+                        },
+                        {
+                            "id": "6203e781-dd70-e87e-7692-87100de0d7fb",
+                            "label": "3"
+                        },
+                        {
+                            "id": "119e533a-a7e8-53cc-d3b7-4eb05e4524d8",
+                            "label": "4"
+                        },
+                        {
+                            "id": "123fe7a3-34fc-98fe-df7a-3f8ea576a15e",
+                            "label": "5"
+                        }
+                    ],
+                    "powerfeature": false
+                },
+                {
+                    "id": "79ef730f-e490-fad7-7faf-b6e2f540fb93",
+                    "label": "How easy is it to integrate this application with other solutions? (1 - lowest / 5 - highest)",
+                    "type": "radio",
+                    "options": [
+                        {
+                            "id": "303a7b91-e7e6-a408-a3d3-a2ea7648e52c",
+                            "label": "1"
+                        },
+                        {
+                            "id": "4cb0d54b-a07a-090b-111b-feea7c84bd58",
+                            "label": "2"
+                        },
+                        {
+                            "id": "140b852d-c2fe-5a3d-daf2-145cfe05e44f",
+                            "label": "3"
+                        },
+                        {
+                            "id": "d21a0e3e-a20f-cd21-877f-678629de6725",
+                            "label": "4"
+                        },
+                        {
+                            "id": "646aeca4-5883-15cf-a4fe-6ca51e9f4ef6",
+                            "label": "5"
+                        }
+                    ],
+                    "powerfeature": false
+                },
+                {
+                    "id": "50909aed-8c7b-478e-3524-5133fe3d124f",
+                    "label": "Based on the answers above, please rate the TECHNICAL FIT of this application.",
+                    "type": "factsheet",
+                    "powerfeature": true,
+                    "settings": {
+                        "fsSections": {
+                            "section.information": {
+                                "section": false,
+                                "subsection.nameDescription": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.lifecycle": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.successors": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.predecessors": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.dependencies": {
+                                "section": false,
+                                "subsection.parents": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.children": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.requires": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.requiredBy": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.projects": {
+                                "section": false,
+                                "subsection.factSheetsAffecting": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.businessSupport": {
+                                "section": false,
+                                "subsection.businessCriticalityFunctionalSuitability": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsSupported": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsSupported_": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.userGroups": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.gdpr": {
+                                "section": false,
+                                "subsection.gdpr": {
+                                    "selected": false,
+                                    "isRelation": false,
+                                    "tags": []
+                                }
+                            },
+                            "section.dataManagement": {
+                                "section": false,
+                                "subsection.factSheetsCreatedModifiedRequiredBy": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsProvided": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                },
+                                "subsection.factSheetsConsumed": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            },
+                            "section.sourcing": {
+                                "section": true,
+                                "subsection.technicalSuitability": {
+                                    "selected": true,
+                                    "isRelation": false,
+                                    "tags": []
+                                },
+                                "subsection.itComponentsUsing": {
+                                    "selected": false,
+                                    "isRelation": true,
+                                    "tags": []
+                                }
+                            }
+                        }
+                    }
+                }
+            ],
+            "powerfeature": true,
+            "settings": {
+                "version": 1,
+                "isConditional": true,
+                "dependency": {
+                    "parentId": "45507a01-e2bc-94c8-a634-3e18b28b26d0",
+                    "condition": {
+                        "op": "||",
+                        "args": [
+                            {
+                                "op": "==",
+                                "args": [
+                                    [
+                                        0
+                                    ],
+                                    "Yes"
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "factSheetType": "Application"
+}

@@ -1,0 +1,1984 @@
+{
+    "data": {
+      "allFactSheets": {
+        "edges": [
+          {
+            "node": {
+              "id": "b01f0ca9-f39a-401c-a310-64bf2ebf9335",
+              "name": "accenture",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "accenture",
+              "fullName": "accenture",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.278Z",
+              "updatedAt": "2018-09-25T09:40:58.575Z",
+              "completion": {
+                "completion": 0.2866666666666667,
+                "percentage": 29
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "beb56daa-7f6b-46a7-a38f-e81849579de7",
+              "name": "acctur",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "acctur",
+              "fullName": "acctur",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.278Z",
+              "updatedAt": "2018-09-25T09:40:58.579Z",
+              "completion": {
+                "completion": 0.2866666666666667,
+                "percentage": 29
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "59208e96-aae1-4aaf-b420-eec71e8a8c05",
+              "name": "Acoce",
+              "description": "Acoce is a provider for graphical design tools",
+              "category": null,
+              "type": "Provider",
+              "displayName": "Acoce",
+              "fullName": "Acoce",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "0b3bcebe-cfc0-4f3f-8dec-ffff9da4d7ea",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "message": "Who is responsible for the procurement of products from this provider?"
+                    }
+                  }
+                ]
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "19017f98-9e47-42ec-aea0-e343f99adefd",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "41abc5ec-8a09-4859-8fdb-bc90d31eea05",
+                      "user": {
+                        "id": "57827889-5e8c-4b98-8d39-46778da3885e"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.278Z",
+              "updatedAt": "2018-09-25T09:40:58.582Z",
+              "completion": {
+                "completion": 0.32999999999999996,
+                "percentage": 33
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "ea2d88a2-db19-4369-96d8-141b4b069edb",
+              "name": "AutoCAD",
+              "description": "AutoCAD is the company who is providing Services around CAD products",
+              "category": null,
+              "type": "Provider",
+              "displayName": "AutoCAD",
+              "fullName": "AutoCAD",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "9551ac0f-e637-4956-bb04-b45347093382",
+                      "user": {
+                        "id": "c727fb5d-05dc-4e6f-964f-4401b0701cf0"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "63970abe-2891-4db0-a86b-d7b4c6e0b94a",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2018-09-25T09:40:58.585Z",
+              "completion": {
+                "completion": 0.32999999999999996,
+                "percentage": 33
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "e2d807a1-bb76-4eab-8d30-b619f65f9999",
+              "name": "birdie",
+              "description": "with birdie you can broadcast messages and pictures",
+              "category": null,
+              "type": "Provider",
+              "displayName": "birdie",
+              "fullName": "birdie",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "d3da3f4f-25a6-4b52-977e-16e6b25dbdbf",
+                      "user": {
+                        "id": "a254a7f7-654c-4bc2-a461-818a0459f1a4"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "d9bb75a9-e564-421b-be93-bbcff2b0a9aa",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2018-09-25T09:40:58.590Z",
+              "completion": {
+                "completion": 0.4966666666666667,
+                "percentage": 50
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "7d50f55f-54de-4277-a887-46b47b603d94",
+              "name": "bluchip",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "bluchip",
+              "fullName": "bluchip",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2018-09-25T09:40:58.594Z",
+              "completion": {
+                "completion": 0.2866666666666667,
+                "percentage": 29
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "da864942-568f-4bd9-a2da-fd76a7a2c5ee",
+              "name": "CoCo Professional",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "CoCo Professional",
+              "fullName": "CoCo Professional",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "45cb0a02-c41c-40cf-a096-2a443c64aecf",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "caa545bf-b314-472d-91b6-babad51410e5",
+                      "user": {
+                        "id": "c727fb5d-05dc-4e6f-964f-4401b0701cf0"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2018-09-25T09:40:58.597Z",
+              "completion": {
+                "completion": 0.12,
+                "percentage": 12
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "cfbfe35c-69ee-4777-8f58-b365efc5fb91",
+              "name": "Customer King",
+              "description": "Customer King is a company providing excellent service models and tools for customer service management",
+              "category": null,
+              "type": "Provider",
+              "displayName": "Customer King",
+              "fullName": "Customer King",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "d4bf8815-4b28-4ec3-a9d3-cfa453b437c1",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "ffd767bb-09c3-47c0-baae-73bca3a5258e",
+                      "user": {
+                        "id": "f4f6cbe3-1b13-47b0-b0d7-07a83508b184"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2018-09-25T09:40:58.600Z",
+              "completion": {
+                "completion": 0.4966666666666667,
+                "percentage": 50
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "c015e6c1-25d8-485c-b3f5-52b7f9bc6020",
+              "name": "Dell",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "Dell",
+              "fullName": "Dell",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2019-04-28T23:45:20.404Z",
+              "completion": {
+                "completion": 0.32,
+                "percentage": 32
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "d7af0b45-987e-4836-a8e4-860a7ba0f743",
+              "name": "Hewlett Packard Enterprise",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "Hewlett Packard Enterprise",
+              "fullName": "Hewlett Packard Enterprise",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2019-04-28T23:46:10.982Z",
+              "updatedAt": "2021-04-01T12:33:56.073815Z",
+              "completion": {
+                "completion": 0.03,
+                "percentage": 3
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "871a35f1-17d4-4ce9-900a-c2930035f383",
+              "name": "HP",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "HP",
+              "fullName": "HP",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "76d13f92-18c5-43d6-8fb6-e30421920ddb",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "a9a0d2ec-2285-446e-bc66-3df910a84262",
+                      "user": {
+                        "id": "c727fb5d-05dc-4e6f-964f-4401b0701cf0"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2018-09-25T09:40:58.608Z",
+              "completion": {
+                "completion": 0.4866666666666667,
+                "percentage": 49
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "9c955a94-7b75-40aa-8e08-a277f996fdd7",
+              "name": "HQ",
+              "description": "meshlab headquarter is providing some special services to the different organizations",
+              "category": null,
+              "type": "Provider",
+              "displayName": "HQ",
+              "fullName": "HQ",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "4024b7bc-934e-49ba-80cf-8339fa77cb2a",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "73140dd4-0946-47df-9461-45b5cc1c7503",
+                      "user": {
+                        "id": "a254a7f7-654c-4bc2-a461-818a0459f1a4"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2018-09-25T09:40:58.610Z",
+              "completion": {
+                "completion": 0.13,
+                "percentage": 13
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "3b07be3f-235a-4545-83b0-5547ada20ead",
+              "name": "HutSut",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "HutSut",
+              "fullName": "HutSut",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "0596358d-73c4-4974-98a4-0eb17ea455d6",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2018-09-25T09:40:58.613Z",
+              "completion": {
+                "completion": 0.32,
+                "percentage": 32
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "6c4fe2f6-dbbb-4ef2-ad83-52ce1bfbf2b9",
+              "name": "IBM",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "IBM",
+              "fullName": "IBM",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2019-04-28T23:46:28.349Z",
+              "completion": {
+                "completion": 0.32999999999999996,
+                "percentage": 33
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "99ea5e5d-ff03-4456-b727-e491d13c46e4",
+              "name": "jobaware",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "jobaware",
+              "fullName": "jobaware",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "088e398a-0cab-4505-938b-302878923d38",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "ed65b4b9-c2c9-4654-b9fe-9435a43fa598",
+                      "user": {
+                        "id": "c727fb5d-05dc-4e6f-964f-4401b0701cf0"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.279Z",
+              "updatedAt": "2018-09-25T09:40:58.619Z",
+              "completion": {
+                "completion": 0.32,
+                "percentage": 32
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "d20f94aa-dcd8-4bbb-9434-1cb2837918b2",
+              "name": "LeanIX GmbH",
+              "description": "LeanIX GmbH is offering excellent management tools and services especially for IT organizations",
+              "category": null,
+              "type": "Provider",
+              "displayName": "LeanIX GmbH",
+              "fullName": "LeanIX GmbH",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "bcf16650-772b-4fdc-930a-a9c034b8a7cd",
+                      "name": "Website",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "596c04d7-098e-4252-835c-5946c85099eb",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "message": "I am very satisfied with services from LeanIX GmbH. How can I give some credits for this?"
+                    }
+                  }
+                ]
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "a06af42e-7fd6-47bf-b823-49b33a6ba3ce",
+                      "user": {
+                        "id": "a254a7f7-654c-4bc2-a461-818a0459f1a4"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "4bb55261-5a86-4874-8cdd-dc51b9c6c038",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.621Z",
+              "completion": {
+                "completion": 0.32999999999999996,
+                "percentage": 33
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "744ee8e5-da09-4a23-91f6-06955907ec3d",
+              "name": "Loyalty Apps",
+              "description": "Loyalty apps is since 2006 specialized in applications, processes and consulting for the improvement of the customer loyalty",
+              "category": null,
+              "type": "Provider",
+              "displayName": "Loyalty Apps",
+              "fullName": "Loyalty Apps",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "3b76b1ea-1a4b-418a-93f1-b9addd5fcae0",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "63380132-17a8-4daf-8b41-fa466add4a1a",
+                      "user": {
+                        "id": "f4f6cbe3-1b13-47b0-b0d7-07a83508b184"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.623Z",
+              "completion": {
+                "completion": 0.32999999999999996,
+                "percentage": 33
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "8dfde93b-53a1-493d-826c-e3c05bfe661f",
+              "name": "MailSnake",
+              "description": "mailsnake is a SaaS provider for automated newsletter marketing",
+              "category": null,
+              "type": "Provider",
+              "displayName": "MailSnake",
+              "fullName": "MailSnake",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "50bee8a3-96d9-4ae7-b810-0ecf57422f44",
+                      "user": {
+                        "id": "2a85b462-b138-4a96-9fa3-2cf40a201b3b"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "a2538cc9-47d7-449c-aa98-359fd61e03b5",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.626Z",
+              "completion": {
+                "completion": 0.32999999999999996,
+                "percentage": 33
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "fedcbb55-0477-4d08-9fa4-db095c5c0fad",
+              "name": "Media Pool Management Ltd.",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "Media Pool Management Ltd.",
+              "fullName": "Media Pool Management Ltd.",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1618ffa2-4b40-4275-89c6-b5278074f243",
+                      "user": {
+                        "id": "57827889-5e8c-4b98-8d39-46778da3885e"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "48a16fe5-bb17-4630-a3cc-f1b2b2d99e7e",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.628Z",
+              "completion": {
+                "completion": 0.2866666666666667,
+                "percentage": 29
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "27164bc6-3711-4a4b-b80b-6cfc6b6ec53e",
+              "name": "meshlab IT",
+              "description": "This is the central IT organization of meshlab",
+              "category": null,
+              "type": "Provider",
+              "displayName": "meshlab IT",
+              "fullName": "meshlab IT",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "a2536927-a02b-4523-9533-3476d535bc60",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "message": "Are there globally defined processes for IT Services? "
+                    }
+                  }
+                ]
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "707896de-3ce4-488d-88a9-801761ee5058",
+                      "user": {
+                        "id": "5051d218-0329-47ca-98c5-1d1cc4abc660"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "c7b9a70a-2cd9-48e7-95ce-eb24539886a8",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.631Z",
+              "completion": {
+                "completion": 0.4966666666666667,
+                "percentage": 50
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "1f0d0af2-8deb-4f0f-9ef8-ef41d10bc148",
+              "name": "meshlab IT Germany",
+              "description": "meshlab internal IT for production in Germany",
+              "category": null,
+              "type": "Provider",
+              "displayName": "meshlab IT Germany",
+              "fullName": "meshlab IT Germany",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "bfc5e92f-f340-4df5-8f8f-1f27e2c6c50a",
+                      "user": {
+                        "id": "2a85b462-b138-4a96-9fa3-2cf40a201b3b"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "a400cb37-a226-4eba-b783-79e9b5c7c410",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.646Z",
+              "completion": {
+                "completion": 0.4966666666666667,
+                "percentage": 50
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "ed2d9790-6b87-4cfe-a695-b933808dee47",
+              "name": "meshlab IT Poland",
+              "description": "meshlab internal IT for production in Poland",
+              "category": null,
+              "type": "Provider",
+              "displayName": "meshlab IT Poland",
+              "fullName": "meshlab IT Poland",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "16e4b398-b868-4228-acd7-27d65205b6dc",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "acdeff80-3dbf-453f-80e8-35374e0166e3",
+                      "user": {
+                        "id": "5051d218-0329-47ca-98c5-1d1cc4abc660"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.649Z",
+              "completion": {
+                "completion": 0.4966666666666667,
+                "percentage": 50
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "ccf4fee7-5137-4140-a66b-baf5cc669ec0",
+              "name": "meshlab IT Singapore",
+              "description": "meshlab internal IT for the Asia/Pacific region",
+              "category": null,
+              "type": "Provider",
+              "displayName": "meshlab IT Singapore",
+              "fullName": "meshlab IT Singapore",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "3b4d8e89-eb8e-4461-bc57-eb933e4d2ab3",
+                      "user": {
+                        "id": "f4f6cbe3-1b13-47b0-b0d7-07a83508b184"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "10b038c9-2846-4d93-99bb-8736a74b7d84",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.650Z",
+              "completion": {
+                "completion": 0.13,
+                "percentage": 13
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "61c06f04-dfd8-49b3-bc98-ecb88aad8313",
+              "name": "meshlab IT USA",
+              "description": "meshlab internal IT for production in USA as well as for the region",
+              "category": null,
+              "type": "Provider",
+              "displayName": "meshlab IT USA",
+              "fullName": "meshlab IT USA",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1952604e-f248-4084-9f5d-8b14056460e3",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "f812485c-3605-47a1-845c-2c0ca8acbd43",
+                      "user": {
+                        "id": "f4f6cbe3-1b13-47b0-b0d7-07a83508b184"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.652Z",
+              "completion": {
+                "completion": 0.32999999999999996,
+                "percentage": 33
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "7e8f1d54-7748-4367-8eb0-fb30af43625e",
+              "name": "Microsoft",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "Microsoft",
+              "fullName": "Microsoft",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "bfe98172-4db0-486e-af07-7ed463bc9f2b",
+                      "name": "Website",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2019-04-24T02:49:02.777Z",
+              "completion": {
+                "completion": 0.4866666666666667,
+                "percentage": 49
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "b0ff3b41-ab2c-4a06-ab89-fe59c25f64ea",
+              "name": "Oracle",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "Oracle",
+              "fullName": "Oracle",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "c14734e4-129e-44e6-9499-c8311c7f90cf",
+                      "name": "Website",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2019-04-24T02:50:28.415Z",
+              "completion": {
+                "completion": 0.4866666666666667,
+                "percentage": 49
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "4c287ffa-6e24-49b4-b342-c7753182df7c",
+              "name": "OrgaCrowd",
+              "description": "OrgaCrowd is specialized provider of tools for HR and organizational topics",
+              "category": null,
+              "type": "Provider",
+              "displayName": "OrgaCrowd",
+              "fullName": "OrgaCrowd",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "e2acc9ec-06a5-4982-b8e1-dfb297ef08ec",
+                      "user": {
+                        "id": "b135bfef-6b1b-4abd-8e22-b2426c543edc"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "1f994ea2-6e91-4ff7-befe-7335b625f54c",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.700Z",
+              "completion": {
+                "completion": 0.32999999999999996,
+                "percentage": 33
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "e2922d26-3524-4e1f-8c3b-e6e63cd3be51",
+              "name": "PiplSW",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "PiplSW",
+              "fullName": "PiplSW",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "393a29e1-8339-47fb-93c7-34392b2a54db",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "471f1959-d812-4842-bea9-9cab99928150",
+                      "user": {
+                        "id": "a254a7f7-654c-4bc2-a461-818a0459f1a4"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.703Z",
+              "completion": {
+                "completion": 0.32,
+                "percentage": 32
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "3501fa67-9442-4c5b-b146-1faf45d57f57",
+              "name": "salesbeep",
+              "description": "salesbeep is providing salesbeep as a SaaS tool but also provides with beep.com a development platform",
+              "category": null,
+              "type": "Provider",
+              "displayName": "salesbeep",
+              "fullName": "salesbeep",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "ed6eced1-595a-4760-9c1e-44f1b1bbf938",
+                      "user": {
+                        "id": "5051d218-0329-47ca-98c5-1d1cc4abc660"
+                      },
+                      "type": "RESPONSIBLE",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "5f373548-a151-497c-afdf-ffe0c2c5c095",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.705Z",
+              "completion": {
+                "completion": 0.32999999999999996,
+                "percentage": 33
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "ae3c2578-ed32-4c68-8c67-575c00e1a3d1",
+              "name": "SAP",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "SAP",
+              "fullName": "SAP",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1b1471c2-a1d8-4d30-9cb9-a7d956179f63",
+                      "name": "Website",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "daee436d-07c5-4a18-8d7e-1774f3a33372",
+                      "user": {
+                        "id": "a8e31ec1-b819-412d-b4df-3899abf5908f"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "40848f7b-4813-46c1-b43a-e1510b41febf",
+                      "user": {
+                        "id": "a254a7f7-654c-4bc2-a461-818a0459f1a4"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.280Z",
+              "updatedAt": "2018-09-25T09:40:58.708Z",
+              "completion": {
+                "completion": 0.32,
+                "percentage": 32
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "89775cf3-1bec-4a0d-a6a2-b789365e13f2",
+              "name": "toopas",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "toopas",
+              "fullName": "toopas",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "7d25cbce-e208-4e2a-8a2a-ddcdb7dbb8ca",
+                      "user": {
+                        "id": "1aafaa29-0c60-43d5-acb9-57e5d998a277"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  },
+                  {
+                    "node": {
+                      "id": "dbd92d45-5829-47f9-bafa-96a0a313827a",
+                      "user": {
+                        "id": "a254a7f7-654c-4bc2-a461-818a0459f1a4"
+                      },
+                      "type": "OBSERVER",
+                      "roles": []
+                    }
+                  }
+                ]
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:29.281Z",
+              "updatedAt": "2018-09-25T09:40:58.710Z",
+              "completion": {
+                "completion": 0.32,
+                "percentage": 32
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "5bf1d924-4ab7-4bad-8606-bd62c0c11465",
+              "name": "VMware",
+              "description": null,
+              "category": null,
+              "type": "Provider",
+              "displayName": "VMware",
+              "fullName": "VMware",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2019-04-24T02:47:36.926Z",
+              "updatedAt": "2021-04-01T12:33:56.337846Z",
+              "completion": {
+                "completion": 0.22000000000000003,
+                "percentage": 22
+              },
+              "__typename": "Provider",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          }
+        ]
+      }
+    },
+    "errors": null
+  }

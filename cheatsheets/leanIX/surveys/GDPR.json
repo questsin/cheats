@@ -1,0 +1,155 @@
+{
+	"title": "Application GDPR Assessment",
+	"questions": [
+		{
+			"id": "883acb56-bb56-fee7-42d6-439eb7c31eca",
+			"label": "How aware are the users of the Application about GDPR topics?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "77df74f2-5fe0-72b4-1f4f-a65a7e97ed83",
+					"label": "Low awareness"
+				},
+				{
+					"id": "6f20378e-826d-a666-3336-a93020cf40f6",
+					"label": "Moderate awareness"
+				},
+				{
+					"id": "3f80b2c4-d1e9-bdc1-2aa9-e3e8240ec3e1",
+					"label": "High awareness"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "90a5ad8d-5b3b-b43c-d155-b295ec53bf7d",
+			"label": "What personal data is being consumed/processed by the Application / IT Component / Interface? Select all that apply.",
+			"type": "checkbox",
+			"options": [
+				{
+					"id": "3325c223-e2d3-7d29-5a2d-e37f320660f6",
+					"label": "a name and surname"
+				},
+				{
+					"id": "c525d781-d3de-4445-f252-258fa8983418",
+					"label": "a home address"
+				},
+				{
+					"id": "b3ff80c8-558b-09e0-7c84-8381a5da107e",
+					"label": "an email address (such as name.surname@company.com)"
+				},
+				{
+					"id": "9b2bb8f2-94e7-6144-24b2-8d8aa2691dd3",
+					"label": "an identification card number"
+				},
+				{
+					"id": "bf1eb14c-7000-f737-4489-2f8f1c96e354",
+					"label": "location data (i.e. the location data function on a mobile phone)"
+				},
+				{
+					"id": "734ebc86-b6bc-31dc-9540-f32a9b7ac9d7",
+					"label": "an Internet Protocol (IP) address"
+				},
+				{
+					"id": "9df14c94-e5db-0a70-9c76-2a2bc9feb7ce",
+					"label": "a cookie ID"
+				},
+				{
+					"id": "2e2b0430-91b8-3a01-1377-5b0084d4acd8",
+					"label": "the advertising identifier of the used device"
+				},
+				{
+					"id": "4af1697e-70fb-9a78-f77c-ae8995b3b99b",
+					"label": "credit card information"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "42bb15c1-99e0-8bb4-f8c5-41842e58b498",
+			"label": "Which Applications / IT Components / Interfaces share the data with the Applications /IT Components / Interfaces?",
+			"type": "textarea",
+			"powerfeature": false
+		},
+		{
+			"id": "966af1d9-c55f-a97b-46d7-5a01f30caf5e",
+			"label": "Have your Applications / IT components / Interfaces been approved by the internal security team of the company?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "f394e24d-2364-353c-7c7f-615618dc80d0",
+					"label": "Yes"
+				},
+				{
+					"id": "c170dc18-b9fa-11e8-0386-6165b7f62a87",
+					"label": "No"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "9943c954-d97d-44fd-5d55-6c87e2e7b389",
+			"label": "Is there an awareness and training plan in place related to GDPR that can be used regulary by Application users?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "b236f7f9-226b-da65-794f-4f2a5a54594b",
+					"label": "Yes"
+				},
+				{
+					"id": "13971efc-41b7-4edd-c1c9-6c9617da6538",
+					"label": "No"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "7a2bd2d4-b651-0e23-8fbd-a3e29693b727",
+			"label": "Are the Application users compliant to the data encryption standards of the organization?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "8f248250-c551-a38a-3ebb-fc0454c80621",
+					"label": "Yes"
+				},
+				{
+					"id": "b22ea2c6-09a9-823f-c3ba-bdd8247b4582",
+					"label": "No"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "3c3cde96-4a56-0f8b-a04c-84c5d0f2e685",
+			"label": "Do we have an incident response plan in place for notifying all the concerned stakeholders in case of data breach?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "a2bdca44-75f2-101f-880b-d41c7f2f0ed7",
+					"label": "Yes"
+				},
+				{
+					"id": "9ca0c166-f403-9c76-9da0-599181c4a484",
+					"label": "No"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "857d23d0-92a3-0c56-94a4-9fb1d8f4b653",
+			"label": "Do you have an incident response plan in place for the Applications /IT Components / Interfaces users?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "e9a628be-1b76-b810-79c8-0ccd5727a9b6",
+					"label": "Yes"
+				},
+				{
+					"id": "11a66325-3e6e-4ecd-620b-4438377a772d",
+					"label": "No"
+				}
+			],
+			"powerfeature": false
+		}
+	]
+}

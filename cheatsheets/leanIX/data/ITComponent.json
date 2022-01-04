@@ -1,0 +1,3083 @@
+{
+    "data": {
+      "allFactSheets": {
+        "edges": [
+          {
+            "node": {
+              "id": "65e5f779-b7f0-4a1f-9c88-9f0e3ae9bed9",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "Acoce Application Hosting",
+              "fullName": "Acoce Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.827Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "c703a74b-481f-4342-a4ab-7fbbdc39bb8b",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "AutoCAD Application Hosting",
+              "fullName": "AutoCAD Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.834Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "b7d458b5-9bbf-45f9-903a-8d97f4a82cac",
+              "name": "Application Development",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "birdie Application Development",
+              "fullName": "birdie Application Development",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.841Z",
+              "completion": {
+                "completion": 0.18159722222222222,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "fbea2dc8-55c4-448a-9ffd-c5cab5aaebb1",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "Customer King Application Hosting",
+              "fullName": "Customer King Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.848Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "f4379844-ce73-4880-b7d3-c6059894369a",
+              "name": "PowerEdge T110",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "Dell PowerEdge T110 T110",
+              "fullName": "Dell PowerEdge T110 T110",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2019-04-28T23:45:49.032Z",
+              "completion": {
+                "completion": 0.18072916666666666,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "f62c169e-35cf-4f62-aabc-d21f764ec22b",
+              "name": "PowerEdge T620",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "Dell PowerEdge T620 T620",
+              "fullName": "Dell PowerEdge T620 T620",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2019-04-28T23:45:20.934Z",
+              "completion": {
+                "completion": 0.18072916666666666,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "516385d8-874a-4751-b74b-5ea68722e7e2",
+              "name": "ESB",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "ESB",
+              "fullName": "ESB",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.870Z",
+              "completion": {
+                "completion": 0.0763888888888889,
+                "percentage": 8
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "75dbe354-2b68-47a1-ae8d-a6cb6e56e457",
+              "name": "File/CSV",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "File/CSV",
+              "fullName": "File/CSV",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.876Z",
+              "completion": {
+                "completion": 0.0763888888888889,
+                "percentage": 8
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "8887ae05-ad49-49e9-998c-8bd18ae92e6d",
+              "name": "FTP",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "FTP",
+              "fullName": "FTP",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.880Z",
+              "completion": {
+                "completion": 0.0763888888888889,
+                "percentage": 8
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "d906105d-4034-4da2-b6c5-a5faeb0a633a",
+              "name": "Application Development",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "HP Application Development",
+              "fullName": "HP Application Development",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.884Z",
+              "completion": {
+                "completion": 0.18159722222222222,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "afd31c81-3fff-4367-9d90-458eecb3efa7",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "HP Application Hosting",
+              "fullName": "HP Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.887Z",
+              "completion": {
+                "completion": 0.18159722222222222,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "176927da-6348-4475-8ae1-24ae4f50f146",
+              "name": "ProLiant BL460c G8 Server Blade BL460c G8",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "HP ProLiant BL460c G8 Server Blade BL460c G8 BL460c G8",
+              "fullName": "HP ProLiant BL460c G8 Server Blade BL460c G8 BL460c G8",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2019-05-10T08:01:03.451Z",
+              "completion": {
+                "completion": 0.18072916666666666,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "79de2891-842b-418c-beb4-80735015274d",
+              "name": "ProLiant BL620c",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "HP ProLiant BL620c G7 Server Blade",
+              "fullName": "HP ProLiant BL620c G7 Server Blade",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.893Z",
+              "completion": {
+                "completion": 0.146875,
+                "percentage": 15
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "361b1940-c447-4985-8985-cf224827c9b0",
+              "name": "Application Development",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "HutSut Application Development",
+              "fullName": "HutSut Application Development",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.896Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "2a0c9816-0e4d-4d2f-a1af-5f85f6125e77",
+              "name": "BladeCenter HS23E 8038B3N",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "IBM BladeCenter HS23E 8038B3N 8038B3N",
+              "fullName": "IBM BladeCenter HS23E 8038B3N 8038B3N",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2019-05-04T08:03:03.831Z",
+              "completion": {
+                "completion": 0.18072916666666666,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "fbb31e6f-6960-42a1-89d2-20735ca16cb4",
+              "name": "zEnterprise EC12 2827-H43",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "IBM zEnterprise EC12 2827-H43 2827-H43",
+              "fullName": "IBM zEnterprise EC12 2827-H43 2827-H43",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2019-04-28T23:46:35.696Z",
+              "completion": {
+                "completion": 0.18072916666666666,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "aacc5653-6120-4eb6-a5a3-a5e83eb96308",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "jobaware Application Hosting",
+              "fullName": "jobaware Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.098Z",
+              "updatedAt": "2018-09-25T09:40:28.903Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "c38887e7-dd94-4bbf-b5f5-e9feac4446ab",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "LeanIX GmbH Application Hosting",
+              "fullName": "LeanIX GmbH Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.905Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "067f3f8b-8a7e-47d0-bbfb-0982fbc2871d",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "Loyalty Apps Application Hosting",
+              "fullName": "Loyalty Apps Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.909Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "0dcb0a58-3e35-4eaa-87f7-6cb098599b08",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "MailSnake Application Hosting",
+              "fullName": "MailSnake Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.912Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "e4517750-0edf-4bb4-9758-8a9df366cd13",
+              "name": "\\\\Server 3440",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "meshlab IT \\\\Server 3440 3440",
+              "fullName": "meshlab IT \\\\Server 3440 3440",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.914Z",
+              "completion": {
+                "completion": 0.10416666666666667,
+                "percentage": 10
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "1b851932-4715-4d62-a70c-d99f4ef648c6",
+              "name": "\\\\Server 4533",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "meshlab IT \\\\Server 4533 4533",
+              "fullName": "meshlab IT \\\\Server 4533 4533",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.916Z",
+              "completion": {
+                "completion": 0.10416666666666667,
+                "percentage": 10
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "36da5acf-b7bf-493f-b282-8eae8b518f78",
+              "name": "\\\\Server 6771",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "meshlab IT \\\\Server 6771 6771",
+              "fullName": "meshlab IT \\\\Server 6771 6771",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.917Z",
+              "completion": {
+                "completion": 0.10416666666666667,
+                "percentage": 10
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "dbdc206f-3484-4d38-a82d-c92f4538ee54",
+              "name": "\\\\Server 8495",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "meshlab IT \\\\Server 8495 8495",
+              "fullName": "meshlab IT \\\\Server 8495 8495",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.919Z",
+              "completion": {
+                "completion": 0.10416666666666667,
+                "percentage": 10
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "f334377f-b237-4feb-84d0-b630fad4a3a5",
+              "name": "\\\\Server 8707",
+              "description": null,
+              "category": "hardware",
+              "type": "ITComponent",
+              "displayName": "meshlab IT \\\\Server 8707 8707",
+              "fullName": "meshlab IT \\\\Server 8707 8707",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.921Z",
+              "completion": {
+                "completion": 0.10416666666666667,
+                "percentage": 10
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "5719d96b-4c45-497a-b006-c77e0d8e767b",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "meshlab IT Application Hosting",
+              "fullName": "meshlab IT Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.924Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "1d63d17f-46a9-463b-ba36-603aed40bbe6",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "meshlab IT Germany Application Hosting",
+              "fullName": "meshlab IT Germany Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.926Z",
+              "completion": {
+                "completion": 0.18159722222222222,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "290e33ea-81c9-4503-abbb-ca91b7e251e9",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "meshlab IT Poland Application Hosting",
+              "fullName": "meshlab IT Poland Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.928Z",
+              "completion": {
+                "completion": 0.18159722222222222,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "6d64eb49-2af7-4a15-8eeb-5fdc308b2a78",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "meshlab IT USA Application Hosting",
+              "fullName": "meshlab IT USA Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.930Z",
+              "completion": {
+                "completion": 0.18159722222222222,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "62bed4ae-e6d2-4978-91d9-96c8e451a379",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 1.0",
+              "fullName": "Microsoft .NET Framework 1.0",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "93dbd41a-9ed1-48cb-a7e5-979c1cc65368",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.932Z",
+              "completion": {
+                "completion": 0.15104166666666669,
+                "percentage": 15
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "94ff5905-54f5-49ac-a00b-5ab4a29e7de8",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 1.0 Service Pack 1",
+              "fullName": "Microsoft .NET Framework 1.0 Service Pack 1",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "14dd9165-9623-4812-8659-518d503a6562",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2019-03-20T17:16:32.592Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "ff71e446-8ade-4782-8052-2ff64984df45",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 1.0 Service Pack 2",
+              "fullName": "Microsoft .NET Framework 1.0 Service Pack 2",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "3930d2ce-7f9d-4d10-9fcf-46b27290209c",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2019-03-20T17:16:32.601Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "645a6128-6f47-45da-bd88-51ed548c6c44",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 1.0 Service Pack 3",
+              "fullName": "Microsoft .NET Framework 1.0 Service Pack 3",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "1e7a691b-5d18-45e6-a3c9-070db66060fd",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2019-03-20T17:16:32.609Z",
+              "completion": {
+                "completion": 0.15104166666666669,
+                "percentage": 15
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "5ca2c6e0-7414-4887-9dee-5d0f388cf89f",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 1.1",
+              "fullName": "Microsoft .NET Framework 1.1",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "ce80558d-2d10-4673-a056-f3c619e2b0cc",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.939Z",
+              "completion": {
+                "completion": 0.15104166666666669,
+                "percentage": 15
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "aaf85697-2654-4315-8a2a-486c071bffe6",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 1.1 Service Pack 1",
+              "fullName": "Microsoft .NET Framework 1.1 Service Pack 1",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "24a55e12-ced0-4c74-ae34-1421c0a52a55",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2019-03-20T17:16:32.617Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "f1cf8ece-3dca-4c52-8d76-72f777d302bf",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 2.0",
+              "fullName": "Microsoft .NET Framework 2.0",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "3d425bd8-72eb-435a-9e31-a5861f5522b6",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2018-09-25T09:40:28.943Z",
+              "completion": {
+                "completion": 0.15104166666666669,
+                "percentage": 15
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "dbcf60e8-f7d3-4d3b-92a6-4c7a6520b189",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 2.0 Service Pack 2",
+              "fullName": "Microsoft .NET Framework 2.0 Service Pack 2",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "f3c3e49e-1d1f-413c-b6e3-3b21a5a1dca0",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2019-03-20T17:16:32.625Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "45e20fc4-83d5-479c-a427-9683c23f7fa3",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 3.0",
+              "fullName": "Microsoft .NET Framework 3.0",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "0810ab7f-45c2-4fad-9e35-5ef7016e8340",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.099Z",
+              "updatedAt": "2019-03-20T17:16:32.635Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "3b660712-a953-43c7-8bd4-94c34876368d",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 3.0 Service Pack 1",
+              "fullName": "Microsoft .NET Framework 3.0 Service Pack 1",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "6b88b953-2cf1-4543-b476-2a1e031061c9",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-03-20T17:16:32.642Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "61f85814-2fb5-4867-90ed-804da81966ef",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 3.0 Service Pack 2",
+              "fullName": "Microsoft .NET Framework 3.0 Service Pack 2",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "ad08a787-25e6-429e-a7c9-987f12dfc285",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-03-20T17:16:32.648Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "b491dcc2-99d4-46de-9815-a709c340cbe7",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 3.5",
+              "fullName": "Microsoft .NET Framework 3.5",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "5fae9c63-7e14-48de-bc9a-c19f400cc883",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-03-20T17:16:32.658Z",
+              "completion": {
+                "completion": 0.15104166666666669,
+                "percentage": 15
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "111d2b5e-5443-41a6-8593-4387ad75fb5d",
+              "name": ".NET Framework",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft .NET Framework 3.5 Service Pack 1",
+              "fullName": "Microsoft .NET Framework 3.5 Service Pack 1",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": [
+                  {
+                    "node": {
+                      "id": "ab0fa2c4-be83-4f38-b296-cc6ad94c6de4",
+                      "name": "Support Lifecycle",
+                      "description": null
+                    }
+                  }
+                ]
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-03-20T17:16:32.667Z",
+              "completion": {
+                "completion": 0.15104166666666669,
+                "percentage": 15
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "b2bd4ec7-4dde-4db7-bd7a-5a1810dcefc8",
+              "name": "SQL Server",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft SQL Server 2000 Standard Edition",
+              "fullName": "Microsoft SQL Server 2000 Standard Edition",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-03-26T08:42:26.695Z",
+              "completion": {
+                "completion": 0.20416666666666666,
+                "percentage": 20
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "4097b9f4-1f1e-42ab-87da-a553cb923910",
+              "name": "SQL Server",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft SQL Server 2005 Express Edition",
+              "fullName": "Microsoft SQL Server 2005 Express Edition",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-03-26T08:42:26.696Z",
+              "completion": {
+                "completion": 0.20416666666666666,
+                "percentage": 20
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "cc5a6783-e4bb-4ff1-852d-ca60c53c2692",
+              "name": "SQL Server",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft SQL Server 2008 (10.0 RTM)",
+              "fullName": "Microsoft SQL Server 2008 (10.0 RTM)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-04-24T02:49:44.767Z",
+              "completion": {
+                "completion": 0.20416666666666666,
+                "percentage": 20
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "f129de0b-816b-4c39-980e-ac447ab98c1f",
+              "name": "SQL Server",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Microsoft SQL Server 2008 Web",
+              "fullName": "Microsoft SQL Server 2008 Web",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-03-26T08:42:50.290Z",
+              "completion": {
+                "completion": 0.20416666666666666,
+                "percentage": 20
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "12d93773-905d-459f-8b69-aae9f74ff2ef",
+              "name": "MQ",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "MQ",
+              "fullName": "MQ",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2018-09-25T09:40:28.965Z",
+              "completion": {
+                "completion": 0.0763888888888889,
+                "percentage": 8
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "c685a0fd-e8c3-4645-b5ff-672d0c1c6c7b",
+              "name": "Database",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle Database 10g 10.2",
+              "fullName": "Oracle Database 10g 10.2",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-03-26T08:42:26.695Z",
+              "completion": {
+                "completion": 0.20416666666666666,
+                "percentage": 20
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "1b3cfea5-669a-4e7b-8a5a-717f52abce30",
+              "name": "Database",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle Database 11g 11.1",
+              "fullName": "Oracle Database 11g 11.1",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-03-26T08:42:42.548Z",
+              "completion": {
+                "completion": 0.20416666666666666,
+                "percentage": 20
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "bc038a05-8700-4fa3-a454-58978bfe31e8",
+              "name": "Database",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle Database 11gR2 (11.2.0.3)",
+              "fullName": "Oracle Database 11gR2 (11.2.0.3)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-05-10T08:01:02.463Z",
+              "completion": {
+                "completion": 0.17291666666666666,
+                "percentage": 17
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "5c320432-baae-4a11-be1d-8414c80bad6f",
+              "name": "Fusion Middleware",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle Fusion Middleware 10g 9.0.4",
+              "fullName": "Oracle Fusion Middleware 10g 9.0.4",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2018-09-25T09:40:28.974Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "a08f38cd-4227-4039-8006-2f46475e9ece",
+              "name": "Fusion Middleware",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle Fusion Middleware 10g R2 10.1.2.x",
+              "fullName": "Oracle Fusion Middleware 10g R2 10.1.2.x",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2019-03-20T17:16:32.684Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "5aa742fb-82b2-4fef-89af-7bb4a250f267",
+              "name": "Fusion Middleware",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle Fusion Middleware 10g R3 10.1.3x",
+              "fullName": "Oracle Fusion Middleware 10g R3 10.1.3x",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2018-09-25T09:40:28.977Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "978f75d6-68ff-4799-9897-f686a9010435",
+              "name": "Fusion Middleware",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle Fusion Middleware 11g 11gR1 (11.1.1.x)",
+              "fullName": "Oracle Fusion Middleware 11g 11gR1 (11.1.1.x)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.100Z",
+              "updatedAt": "2018-09-25T09:40:28.979Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "1bf1d462-19bc-4b1e-9802-79f159cc8bcb",
+              "name": "Fusion Middleware",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle Fusion Middleware 9iAS R2 9.0.2",
+              "fullName": "Oracle Fusion Middleware 9iAS R2 9.0.2",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2019-03-20T17:16:32.691Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "fa49cd08-42b9-4d14-82ff-8e7adf75f285",
+              "name": "Fusion Middleware",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle Fusion Middleware 9iAS R2 9.0.3",
+              "fullName": "Oracle Fusion Middleware 9iAS R2 9.0.3",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2019-04-26T15:16:25.760Z",
+              "completion": {
+                "completion": 0.18740530303030303,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "2fb5005e-2b9c-4b3b-8714-228a48749612",
+              "name": "Fusion Middleware",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle Fusion Middleware Portal 11gR1",
+              "fullName": "Oracle Fusion Middleware Portal 11gR1",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2018-09-25T09:40:28.987Z",
+              "completion": {
+                "completion": 0.18854166666666666,
+                "percentage": 19
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "92881d67-217a-4700-acf3-c62223edb66a",
+              "name": "MySQL Database",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle MySQL Database 5.0",
+              "fullName": "Oracle MySQL Database 5.0",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2019-03-26T08:42:26.694Z",
+              "completion": {
+                "completion": 0.20416666666666666,
+                "percentage": 20
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "2ce89680-1c36-4306-b74c-e7cab8ea60dd",
+              "name": "MySQL Database",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle MySQL Database 5.1",
+              "fullName": "Oracle MySQL Database 5.1",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2019-03-26T08:42:55.303Z",
+              "completion": {
+                "completion": 0.20416666666666666,
+                "percentage": 20
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "e55d6bc5-0829-4a54-8ff1-fa18edce61e7",
+              "name": "MySQL Database",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "Oracle MySQL Database 5.5",
+              "fullName": "Oracle MySQL Database 5.5",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2019-03-26T08:42:07.630Z",
+              "completion": {
+                "completion": 0.20416666666666666,
+                "percentage": 20
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "77c8cc53-6453-4e16-b97b-91c34ea736de",
+              "name": "Application Development",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "OrgaCrowd Application Development",
+              "fullName": "OrgaCrowd Application Development",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2018-09-25T09:40:28.997Z",
+              "completion": {
+                "completion": 0.18159722222222222,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "769c89b9-70ea-4587-8b6e-e78a5145e582",
+              "name": "Application Development",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "PiplSW Application Development",
+              "fullName": "PiplSW Application Development",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2018-09-25T09:40:28.999Z",
+              "completion": {
+                "completion": 0.18159722222222222,
+                "percentage": 18
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "ca054ba6-893b-4e90-b241-1637ee62fcd6",
+              "name": "Application Hosting",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "salesbeep Application Hosting",
+              "fullName": "salesbeep Application Hosting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2018-09-25T09:40:29.001Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "161abc0d-7bed-4440-b756-5c14a741e1ad",
+              "name": "Application Development",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "SAP Application Development",
+              "fullName": "SAP Application Development",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2018-09-25T09:40:29.004Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "944ce063-53df-40d9-956a-daaf695e6461",
+              "name": "Application Development",
+              "description": null,
+              "category": "service",
+              "type": "ITComponent",
+              "displayName": "toopas Application Development",
+              "fullName": "toopas Application Development",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:28.101Z",
+              "updatedAt": "2018-09-25T09:40:29.006Z",
+              "completion": {
+                "completion": 0.13993055555555556,
+                "percentage": 14
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "568d4f88-319f-4a38-871c-3e2013a42ab7",
+              "name": "Server (VMware Server)",
+              "description": null,
+              "category": "software",
+              "type": "ITComponent",
+              "displayName": "VMware Server (VMware Server) 3.0 (3.2)",
+              "fullName": "VMware Server (VMware Server) 3.0 (3.2)",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2019-04-11T19:56:46.804Z",
+              "updatedAt": "2021-04-01T12:33:56.449447Z",
+              "completion": {
+                "completion": 0.1736111111111111,
+                "percentage": 17
+              },
+              "__typename": "ITComponent",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          }
+        ]
+      }
+    },
+    "errors": null
+  }

@@ -1,0 +1,322 @@
+{
+	"title": "Cloud Readiness Assessment",
+	"questions": [
+		{
+			"id": "47ca5312-3374-af28-8e48-7a0a28748952",
+			"label": "Please select the below for the application/IT components",
+			"type": "factsheet",
+			"powerfeature": true,
+			"settings": {
+				"version": 1,
+				"fsSections": {
+					"section.information": {
+						"section": false,
+						"subsection.nameDescription": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.acl": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.lifecycle": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.successors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.predecessors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.dependencies": {
+						"section": false,
+						"subsection.parents": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.children": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requires": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requiredBy": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.projects": {
+						"section": false,
+						"subsection.factSheetsAffecting": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.businessSupport": {
+						"section": true,
+						"subsection.businessCriticalityFunctionalSuitability": {
+							"selected": true,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.factSheetsSupported": {
+							"selected": true,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsSupported_": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.userGroups": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.dataManagement": {
+						"section": false,
+						"subsection.factSheetsCreatedModifiedRequiredBy": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsProvided": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsConsumed": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.sourcing": {
+						"section": true,
+						"subsection.technicalSuitability": {
+							"selected": true,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.itComponentsUsing": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": "5960342b-3fad-2b44-0206-2d3818480420",
+			"label": "How would you rate the performance sensitivity of the Application?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "97377199-0c47-d650-32ae-5bd594d4ff59",
+					"label": "very low"
+				},
+				{
+					"id": "c0efafeb-f068-8a8a-486c-1c16cb50d785",
+					"label": "low"
+				},
+				{
+					"id": "a588eaa0-fd35-994a-c336-08a5f7a4812b",
+					"label": "medium"
+				},
+				{
+					"id": "a808dda7-286a-9d42-931d-2631ef5fdd6f",
+					"label": "high"
+				},
+				{
+					"id": "8524c4ef-8310-108c-fd7f-40836a5dbb9c",
+					"label": "very high"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "9462cb80-997e-1404-7bd9-2e232b4eeac9",
+			"label": "How would you rate the sensitivity of the data being consumed by the application?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "268026fd-aaea-b411-7793-d5f38ab5a972",
+					"label": "very low"
+				},
+				{
+					"id": "b11ee4cb-d3d7-f703-d7bd-f00db218c36f",
+					"label": "low"
+				},
+				{
+					"id": "fa81bb72-8bc4-7495-9331-9497b40b75e8",
+					"label": "medium"
+				},
+				{
+					"id": "1c26e0be-3b28-fa28-d0b1-882dbf97ba42",
+					"label": "high"
+				},
+				{
+					"id": "05a30b1b-e8cb-6f7c-c681-dd577520622c",
+					"label": "very high"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "7e237479-2288-e5fd-77eb-1672515d051c",
+			"label": "Please list all the Application / IT Component, this Application / IT Component is integrated with?",
+			"type": "factsheet",
+			"powerfeature": true,
+			"settings": {
+				"version": 1,
+				"fsSections": {
+					"section.information": {
+						"section": false,
+						"subsection.nameDescription": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.acl": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.lifecycle": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.successors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.predecessors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.dependencies": {
+						"section": false,
+						"subsection.parents": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.children": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requires": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requiredBy": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.projects": {
+						"section": false,
+						"subsection.factSheetsAffecting": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.businessSupport": {
+						"section": false,
+						"subsection.businessCriticalityFunctionalSuitability": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.factSheetsSupported": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsSupported_": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.userGroups": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.dataManagement": {
+						"section": true,
+						"subsection.factSheetsCreatedModifiedRequiredBy": {
+							"selected": true,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsProvided": {
+							"selected": true,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsConsumed": {
+							"selected": true,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.sourcing": {
+						"section": false,
+						"subsection.technicalSuitability": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.itComponentsUsing": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": "1c0a81b1-0c41-c95e-d227-3f1d19a93da2",
+			"label": "What is the acceptable Service Level of the Application / IT Component?",
+			"type": "textarea",
+			"powerfeature": false
+		},
+		{
+			"id": "3e2866f7-6c1d-fa5c-cb71-e553759a413e",
+			"label": "Are there any regulations that may prevent the Application from moving to the cloud?",
+			"type": "textarea",
+			"powerfeature": false
+		}
+	],
+	"factSheetType": "Application"
+}

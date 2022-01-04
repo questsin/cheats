@@ -1,0 +1,427 @@
+{
+	"title": "Application Rationalization (TIME)",
+	"questions": [
+		{
+			"id": "f01ec0ea-5137-75e6-73b0-53d8fbf02e27",
+			"label": "Regarding the Application named above - Which knowledge do you have?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "c224120d-a771-ffb8-cb00-1bd0c96cfaa3",
+					"label": "Functional knowledge"
+				},
+				{
+					"id": "57d39808-566d-9397-4165-208e118152e4",
+					"label": "Technical knowledge"
+				},
+				{
+					"id": "04e78da6-161a-2162-1d9e-527deb5987de",
+					"label": "Both"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "558d74fa-e9ea-69a0-18fe-cd51a31072b1",
+			"label": "Functional Fit Evaluation",
+			"type": "group",
+			"children": [
+				{
+					"id": "61e5aed1-187d-ddd2-3177-1377eb5a5c95",
+					"label": "Business Fit:&nbsp; Does the application's functionality fit the needs of the business?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "10178f17-1428-e58e-9a8c-f13ee7c14097",
+							"label": "5 - (Best) Clearly meets all current requirements and business needs; easy to use"
+						},
+						{
+							"id": "650cf257-1aa4-5117-53dc-1c42fbf16521",
+							"label": "4 - (Above Average) Good fit and support of needs"
+						},
+						{
+							"id": "7b5fc461-edec-f9c1-fa0e-9e6fe357c002",
+							"label": "3 - (Average) Acceptable, some misalignment or gaps which can be addressed"
+						},
+						{
+							"id": "cb934a2b-9868-36b8-a0ed-b4dbcb3b601f",
+							"label": "2 - (Below Average) Numerous capabilities missing"
+						},
+						{
+							"id": "5ebae031-0ecb-2974-2ca7-c269131039ab",
+							"label": "1 - (Worst) Poor alignment, significant deficiencies"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "961f802c-2559-5976-b178-cf94d20dd8b6",
+					"label": "Data:&nbsp; Does the application meet information quality, availability, and privacy needs?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "efcda8cc-a2b4-a478-066e-4700b4eb8de3",
+							"label": "5 - (Best) Primary source of record; data seamlessly/securely shared across organization"
+						},
+						{
+							"id": "21f39f9c-cfee-2d7b-c163-dcdfe22002d0",
+							"label": "4 - (Above Average) Application is primary source of record; all policies easily enforced"
+						},
+						{
+							"id": "1ba3385a-241d-dace-b6f2-97c68494a5b5",
+							"label": "3 - (Average) Trusted source of record with minimal additional data reconciliation"
+						},
+						{
+							"id": "bc3ca785-d98a-25e9-ce40-14802da30f69",
+							"label": "2 - (Below Average) One of multiple data sources or difficult to extract/leverage data"
+						},
+						{
+							"id": "dbf9d542-5e66-c623-68d6-41715c5797c4",
+							"label": "1 - (Worst) Difficult to reconcile data accuracy or enforce privacy/retention policy"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "1ab5e6c9-274a-e80a-607b-b80f368df175",
+					"label": "Future Potential:&nbsp; Can the application continue to support our evolving business needs?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "93038f23-4b89-e147-4d49-9371d56624d3",
+							"label": "5 - (Best)  Strategic platform which clearly and easily supports 2-3 year business roadmap"
+						},
+						{
+							"id": "3dd0dbeb-be8d-bd59-bed4-4d24d85c9cda",
+							"label": "4 - (Above Average) Strategic platform; configurable to support 2-3 year roadmap"
+						},
+						{
+							"id": "864c073b-5d84-2911-7a18-c264e848e04c",
+							"label": "3 - (Average) Can be adapted with reasonable level of effort"
+						},
+						{
+							"id": "f1f825d3-4c83-41e0-37d2-15c76bd6127e",
+							"label": "2 - (Below Average) Unsure or significant effort required to meet new business needs"
+						},
+						{
+							"id": "d93c7f76-a734-d301-b1be-6d713d8808f0",
+							"label": "1 - (Worst) New/future business needs cannot be met"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "f3db2f94-469b-77c6-e3a7-1e0955896029",
+					"label": "Time to Market:&nbsp; Can new functionality be deployed in a timely manner?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "646a17c0-2c45-8c1f-17ca-8e568f327f64",
+							"label": "5 - (Best) Fast provisioning of new functionality as part of normal operations"
+						},
+						{
+							"id": "19e8d127-aa7f-71b1-b9f1-125a77519ca7",
+							"label": "4 - (Above Average) Quick provisioning of new functionality with minimal overhead"
+						},
+						{
+							"id": "7bc3f225-3e6a-359a-a304-30554a8bfc16",
+							"label": "3 - (Average) Regular, reliable provisioning of new functionality; meets expectations"
+						},
+						{
+							"id": "9ecb566f-bdda-0326-e34f-ab6949405814",
+							"label": "2 - (Below Average)  New deployments are an \"event\"; some frustration with timeliness"
+						},
+						{
+							"id": "963364f5-e90c-6ad9-b9f0-09de08467b49",
+							"label": "1 - (Worst) General frustration; new functionality requires significant time and effort"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "c722a19c-ebac-7619-add1-4c669758a2c7",
+					"label": "User Satisfaction:&nbsp; Are users of the application satisfied with it?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "6cc7efab-0bbe-187f-66c1-83dfcf8b81d9",
+							"label": "5 - (Best)&nbsp; Extremely satisfied with the solution"
+						},
+						{
+							"id": "1726b0ff-1b8e-8fbd-306c-fbacf6dc6281",
+							"label": "4 - (Above Average) Mostly satisfied with the solution"
+						},
+						{
+							"id": "cde2e068-8c9e-6632-7fda-fb0d40a839ed",
+							"label": "3 - (Average) Satisfied using the solution, but some room for improvement"
+						},
+						{
+							"id": "076f694a-d98f-61b3-3ecb-ac4fa421c508",
+							"label": "2 - (Below Average) Mixed satisfaction with the solution"
+						},
+						{
+							"id": "9a0fd0bb-255a-37d0-fff7-b8e996a14432",
+							"label": "1 - (Worst) General dissatisfaction with the solution"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "0381c085-8343-63fe-9e24-a6f0ebc02b1c",
+					"label": "Functional Fit Score",
+					"type": "calc",
+					"powerfeature": true,
+					"settings": {
+						"formula": "const wb1 = 0.40; \nconst wb2 = 0.25; \nconst wb3 = 0.15; \nconst wb4 = 0.10; \nconst wb5 = 0.10;\n\nvar scoreB = 0;\nscoreB += answers[1].substring(0,1) * wb1 \n+ answers[2].substring(0,1) * wb2 \n+ answers[3].substring(0,1) * wb3 \n+ answers[4].substring(0,1) * wb4 \n+ answers[5].substring(0,1) * wb5;\nreturn 'Overall score: ' + scoreB.toFixed(2);"
+					}
+				}
+			],
+			"powerfeature": true,
+			"settings": {
+				"version": 1,
+				"isConditional": true,
+				"dependency": {
+					"parentId": "f01ec0ea-5137-75e6-73b0-53d8fbf02e27",
+					"condition": {
+						"op": "||",
+						"args": [
+							{
+								"op": "==",
+								"args": [
+									[
+										0
+									],
+									"Functional knowledge"
+								]
+							},
+							{
+								"op": "==",
+								"args": [
+									[
+										0
+									],
+									"Both"
+								]
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"id": "ff521cfc-c268-bd54-91a7-f1e96a709e11",
+			"label": "Technical Fit Evaluation",
+			"type": "group",
+			"children": [
+				{
+					"id": "40853077-770b-65af-b390-5d9fa5ed06ab",
+					"label": "Production Stability:  Is the application stable, reliable and performant?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "defdc97f-0308-e132-d66d-7ad0ae483f76",
+							"label": "5 - (Best) No outages; great performance for all"
+						},
+						{
+							"id": "8efbc59e-1ea8-5154-9945-eb457848908b",
+							"label": "4 - (Above Average) No unplanned outages; good performance for all"
+						},
+						{
+							"id": "506b42fa-8122-536f-26b5-df68059b9b0a",
+							"label": "3 - (Average) Acceptable stability and reliability; acceptable performance for all"
+						},
+						{
+							"id": "4a868cb8-f7a4-99f2-d72b-50019a76d7b7",
+							"label": "2 - (Below Average) Intermittent reliability problems OR some performance concerns"
+						},
+						{
+							"id": "088900fe-6719-7958-8c9a-c5bfd7df7c7b",
+							"label": "1 - (Worst) Major reliability problems with severe impacts; general performance issues"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "d7121a99-f5a6-3727-b0ef-c5cf6f255476",
+					"label": "Maintainability:&nbsp; Are we able to easily maintain and update the application and related interfaces?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "c3c0726e-9543-0cad-a848-e971ddd0403d",
+							"label": "5 - (Best) Highly and easily configurable; can be maintained efficiently without risk"
+						},
+						{
+							"id": "23e2a7ff-46f0-89e1-0631-a0a0e0d75277",
+							"label": "4 - (Above Average) Highly configurable; maintainability good, low risk and cost"
+						},
+						{
+							"id": "3a63e732-5d25-b911-bea1-ac7d7ff1b045",
+							"label": "3 - (Average) Average maintainability with no or minimal customizations (if purchased)"
+						},
+						{
+							"id": "c183c733-80b2-ad72-fd86-2bc799ceb8d4",
+							"label": "2 - (Below Average) Many customizations; significant effort to maintain with varying risk"
+						},
+						{
+							"id": "b3072992-a618-a561-4bce-a67bab315684",
+							"label": "1 - (Worst) Heavily customized; impact of changes difficult to predict"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "c6e87e3a-87e2-6e74-922f-11b9fabe78aa",
+					"label": "Resources:  Do we have the skills, expertise and/or vendor commitment needed to support the application?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "fbb2a865-6ba7-5ef5-22d5-53e321de9706",
+							"label": "5 - (Best) Good pool of skilled staff and/or strong vendor commitment going forward"
+						},
+						{
+							"id": "89aaf49a-de20-de54-46ea-ce846429fa64",
+							"label": "4 - (Above Average) Staff and/or vendor support sufficient, external supply for restaffing"
+						},
+						{
+							"id": "1cda8a65-76a5-98f4-2785-ae085b168d3d",
+							"label": "3 - (Average) Staff and support adequate, restaffing not easy, unclear future"
+						},
+						{
+							"id": "bbb592ff-3e5d-c0b0-6661-2c4f350c0886",
+							"label": "2 - (Below Average)  Staff inadequate, some missing skills; vendor hard to work with"
+						},
+						{
+							"id": "1a1454ef-15ac-6bed-78c3-1f42a8d10926",
+							"label": "1 - (Worst) Inadequate staff, missing skills, restaffing risk; vendor support will end"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "99e95ad4-6831-1491-61bf-81672058dba2",
+					"label": "Cloud readiness:  Is the application able to leverage cloud technology to deliver scalability and continuity?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "045d7644-5a88-dfb4-3a1a-e6fea314a9ad",
+							"label": "5 - (Best) State-of-the-art, fully scalable, high availability and redundancy available"
+						},
+						{
+							"id": "c3229f31-6224-1641-f7b2-bf6dfc4d85f5",
+							"label": "4 - (Above Average) Cloud enabled, non-functional requirements (SLAs) met"
+						},
+						{
+							"id": "abac4f5a-d250-8fff-4c5e-7de43f5fe010",
+							"label": "3 - (Average) Cloud ready, but not leveraging capabilities or cloud is not applicable"
+						},
+						{
+							"id": "0d36e800-8842-0555-b452-a34f2d8dd43d",
+							"label": "2 - (Below Average) Hosted on prem; shift to cloud would require effort"
+						},
+						{
+							"id": "e38730a2-24c8-5d15-e00b-415625461522",
+							"label": "1 - (Worst) No clear path forward or cloud incompatible"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "a6e1cdfe-e736-da84-18b1-73b28f6d4d26",
+					"label": "Architecture Alignment:  Is application aligned to current architecture principles and Digital Backbone standards?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "812f5347-1dc9-3967-852b-39575bfeafe0",
+							"label": "5 - (Best) Fully aligned with Digital Backbone and current standards"
+						},
+						{
+							"id": "30515b5a-7db2-c6a2-3c55-ea10b897430a",
+							"label": "4 - (Above Average) Mostly aligned, with an immediate action plan to resolve deviations"
+						},
+						{
+							"id": "4e644517-4baa-baba-6c1a-7f471be941ee",
+							"label": "3 - (Average) Generally aligned with standards, acceptable deviations"
+						},
+						{
+							"id": "aed0934d-969f-d73f-9574-e1100eff340d",
+							"label": "2 - (Below Average) Noncompliant, unwanted technical debt exists"
+						},
+						{
+							"id": "0f23e762-f6fd-3d56-2b29-d034a0b96de3",
+							"label": "1 - (Worst) Noncompliant, no plan for eliminating technical debt"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "66661a3e-039a-b0df-ff54-4ae6f05f213d",
+					"label": "Security:  Are there known vulnerabilities or risks?",
+					"type": "radio",
+					"options": [
+						{
+							"id": "0ac458af-afe3-f7ec-7a9f-3808e2738d6e",
+							"label": "5 - (Best) No vulnerabilities, risks or incidents; full tracing and auditing support in place"
+						},
+						{
+							"id": "7d68b5c0-c358-26e5-dccc-efb32c10b8f3",
+							"label": "4 - (Above Average) No vulnerabilities or risks, able to detect and raise security incidents"
+						},
+						{
+							"id": "ddcad8b6-593e-4031-d07b-e0c65687bb78",
+							"label": "3 - (Average) No known vulnerabilities; risks have been sufficiently mitigated"
+						},
+						{
+							"id": "102276f6-4c50-cb6a-58df-a736419c3f62",
+							"label": "2 - (Below Average) Known security vulnerabilities, but clear plan to resolve quickly"
+						},
+						{
+							"id": "ca508f6f-a71f-b17e-39de-25445d84f49f",
+							"label": "1 - (Worst) Known security vulnerabilities with no plan to resolve quickly"
+						}
+					],
+					"powerfeature": false
+				},
+				{
+					"id": "1a8b7dac-2095-f816-482b-e4979a967ed4",
+					"label": "Technical Fit Score",
+					"type": "calc",
+					"powerfeature": true,
+					"settings": {
+						"formula": "const wt1 = 0.20; \nconst wt2 = 0.25; \nconst wt3 = 0.20; \nconst wt4 = 0.15; \nconst wt5 = 0.10;\nconst wt6 = 0.10;\n\nvar scoreT = 0;\nscoreT += answers[7].substring(0,1) * wt1 \n+ answers[8].substring(0,1) * wt2 \n+ answers[9].substring(0,1) * wt3 \n+ answers[10].substring(0,1) * wt4 \n+ answers[11].substring(0,1) * wt5\n+ answers[12].substring(0,1) * wt6;\nreturn 'Overall score: ' + scoreT.toFixed(2);"
+					}
+				}
+			],
+			"powerfeature": true,
+			"settings": {
+				"version": 1,
+				"isConditional": true,
+				"dependency": {
+					"parentId": "f01ec0ea-5137-75e6-73b0-53d8fbf02e27",
+					"condition": {
+						"op": "||",
+						"args": [
+							{
+								"op": "==",
+								"args": [
+									[
+										0
+									],
+									"Technical knowledge"
+								]
+							},
+							{
+								"op": "==",
+								"args": [
+									[
+										0
+									],
+									"Both"
+								]
+							}
+						]
+					}
+				}
+			}
+		}
+	]
+}

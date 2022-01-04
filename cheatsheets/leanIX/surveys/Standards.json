@@ -1,0 +1,158 @@
+{
+	"title": "Technology Standards Survey",
+	"questions": [
+		{
+			"id": "81b187db-c6ef-3da1-43d3-a040cc50ddd4",
+			"label": "Are you a responsible Architect/Project Manager to adapt this IT Component?",
+			"type": "factsheet",
+			"powerfeature": true,
+			"settings": {
+				"version": 1,
+				"fsSections": {
+					"section.information": {
+						"section": true,
+						"subsection.nameTypeDescription": {
+							"selected": true,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.acl": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.factSheetOf": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.lifecycle": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.successors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.predecessors": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.location": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						}
+					},
+					"section.dependencies": {
+						"section": false,
+						"subsection.parents": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.children": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requires": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.requiredBy": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.projects": {
+						"section": false,
+						"subsection.factSheetRelatedTo": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					},
+					"section.sourcing": {
+						"section": false,
+						"subsection.factSheetBelongingTo": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.technicalSuitability": {
+							"selected": false,
+							"isRelation": false,
+							"tags": []
+						},
+						"subsection.factSheetsUsing": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsImplementedUsing": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						},
+						"subsection.factSheetsUsing_": {
+							"selected": false,
+							"isRelation": true,
+							"tags": []
+						}
+					}
+				}
+			}
+		},
+		{
+			"id": "7f431bb0-2a31-d4de-c66d-dd01f1431fd1",
+			"label": "Is this technology widely established on the market?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "e2746193-71dd-d3a1-8604-23246f435a3c",
+					"label": "Low establishment"
+				},
+				{
+					"id": "bd88aeb0-ac99-391f-c031-69f52f4ae829",
+					"label": "Medium establishment"
+				},
+				{
+					"id": "db624f52-f808-e9f3-28a6-506faeebee7f",
+					"label": "High establishment"
+				}
+			],
+			"powerfeature": false
+		},
+		{
+			"id": "4a513b37-6af7-ffd3-392e-2b98d85ff833",
+			"label": "To what degree could the implementation of this technology be scaled?",
+			"type": "radio",
+			"options": [
+				{
+					"id": "61b356c3-b47b-9e08-58c1-c9de5b0ebea4",
+					"label": "Very easy"
+				},
+				{
+					"id": "b09b368a-23e9-6ac2-e8ba-fa596de27cca",
+					"label": "Easy"
+				},
+				{
+					"id": "8914985d-1318-23ab-bcb2-e25df8826648",
+					"label": "Difficult"
+				},
+				{
+					"id": "58051897-0e8a-62fa-e5fe-af549627b3bd",
+					"label": "Very difficult"
+				}
+			],
+			"powerfeature": false
+		}
+	],
+	"factSheetType": "ITComponent"
+}

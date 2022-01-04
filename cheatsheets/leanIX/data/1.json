@@ -1,0 +1,772 @@
+{
+    "data": {
+      "allFactSheets": {
+        "edges": [
+          {
+            "node": {
+              "id": "28fe4aa2-6e46-41a1-a131-72afb3acf256",
+              "name": "AC Management",
+              "description": "Assessment Center Management supports all major functions for planning, organizing and managing our assessment center. This is usable for external and internal applicants."
+            }
+          },
+          {
+            "node": {
+              "id": "2efa37b5-18aa-48d8-9d70-1328c0d856d7",
+              "name": "AC Management Cloud",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "91a18208-aade-4a64-ae58-11a6a307a26e",
+              "name": "AttorneyNet",
+              "description": "AttorneyNet is an inventory of all lawyers around the world we are working together."
+            }
+          },
+          {
+            "node": {
+              "id": "001d3e51-a3be-4d5b-90f7-5b7a9e0b9458",
+              "name": "audimex",
+              "description": "To perform Audit projects audimex is the companion for managing all aspects of such projects, COBIT compliant."
+            }
+          },
+          {
+            "node": {
+              "id": "e5322a3c-c499-4b78-a45a-908a916d9704",
+              "name": "AutoCAD",
+              "description": "In Development and construction we use AutoCAD as the CAD program. It is connected with everything to ensure most effective and efficient use."
+            }
+          },
+          {
+            "node": {
+              "id": "daddde61-1f50-4ab1-bbfd-36f0a5329988",
+              "name": "Bonus Card Americas",
+              "description": "This is the special version for Americas to increase customer loyalty"
+            }
+          },
+          {
+            "node": {
+              "id": "9dc25869-ff39-46ef-aefb-3b407ffbc9db",
+              "name": "Bonus Card Asia/Pacific",
+              "description": "Due to different requirements in the regions for each region a dedicated bonus program exist, this is for Asia/Pacific"
+            }
+          },
+          {
+            "node": {
+              "id": "90492d17-4dc3-421a-911b-aa906d05f116",
+              "name": "Bonus Card Europe",
+              "description": "Due to different requirements in the regions for each region a dedicated bonus program exist, this is for Europe"
+            }
+          },
+          {
+            "node": {
+              "id": "25eda1ec-7b46-40d5-967d-40944ca6510a",
+              "name": "Bonus Card Use Watch",
+              "description": "With this application the use of the bonus card per customer is tracked"
+            }
+          },
+          {
+            "node": {
+              "id": "bb540308-fe7a-406a-aaf0-1a46ae57577a",
+              "name": "BPM",
+              "description": "Business Process Management"
+            }
+          },
+          {
+            "node": {
+              "id": "50365418-7351-44ad-8b23-ad8e0bd1ac7a",
+              "name": "brand maker",
+              "description": "brand maker is a marketing resource management tool and covers functions such as marketing planning and reporting"
+            }
+          },
+          {
+            "node": {
+              "id": "d8dc25a5-8efb-49c6-8b70-90db625a44c7",
+              "name": "BYOD Directory",
+              "description": "Bring your own device (BYOD) is the directory of all private devices with access to our infratsructure"
+            }
+          },
+          {
+            "node": {
+              "id": "728926ed-e9aa-4ec2-b790-875e39792a58",
+              "name": "Call Center Management",
+              "description": "For the management of a call center this application is totally crucial. You can manage working schedule, call routing, customer information, and so on"
+            }
+          },
+          {
+            "node": {
+              "id": "6a6d5076-73ec-4d94-9515-90d6121b3446",
+              "name": "Call Center Management 2.0",
+              "description": "For the management of a call center this application is totally crucial. You can manage working schedule, call routing, customer information, and so on"
+            }
+          },
+          {
+            "node": {
+              "id": "2311437f-0ce0-49b5-ba32-e2dae8a52659",
+              "name": "Capacity",
+              "description": "With this application you can plan and track the production capacity. This app includes also reports for historical comparison"
+            }
+          },
+          {
+            "node": {
+              "id": "c90ae45a-b163-42fa-841b-3f738122775c",
+              "name": "CID",
+              "description": "Corporate Idendity Information Database containing all rules and examples for design of corporate materials"
+            }
+          },
+          {
+            "node": {
+              "id": "15e59ed2-6ad4-4d79-9430-500cca91fa19",
+              "name": "CIS",
+              "description": "Corporate information system "
+            }
+          },
+          {
+            "node": {
+              "id": "2d912343-92ff-45a9-8ef3-a5a56264af97",
+              "name": "CoA",
+              "description": "Chart of Accounts"
+            }
+          },
+          {
+            "node": {
+              "id": "9fbf0823-4298-41b5-bb0a-552ae0067177",
+              "name": "Contract Management",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "c2721fc1-c7c3-4b59-ad74-432399823330",
+              "name": "Cost Modelling",
+              "description": "Cost Modelling is the tool to better manage production cost. It lets you define cost driver, assign cost values and adjust quantity per cost driver. "
+            }
+          },
+          {
+            "node": {
+              "id": "001c3e45-aa0f-458b-b919-065b178ee514",
+              "name": "CustEchoe Americas",
+              "description": "Customer Feedback Analysis Tool for Americas"
+            }
+          },
+          {
+            "node": {
+              "id": "7de29b8c-5a7d-448d-99d0-0a5486421bc1",
+              "name": "CustEchoe Asia/Pacific",
+              "description": "Customer Feedback Analysis Tool for Asia and Pacific"
+            }
+          },
+          {
+            "node": {
+              "id": "81074707-5ce5-4700-96fa-37eb464abf9c",
+              "name": "CustEchoe Europe",
+              "description": "Customer Feedback Analysis Tool for Europe"
+            }
+          },
+          {
+            "node": {
+              "id": "198dc748-90bd-47fc-8c1f-02d9520bfd36",
+              "name": "CustEchoe New",
+              "description": "Next Generation Customer Feedback Analysis Tool"
+            }
+          },
+          {
+            "node": {
+              "id": "1cee5ffa-c4da-4fa0-a856-60e506188114",
+              "name": "DocMan",
+              "description": "Document Management system which stores all technical drawings, contracts, orders, invoices, ... with the intelligent index and search mechanism all documents can be found easily"
+            }
+          },
+          {
+            "node": {
+              "id": "8f021f46-67e1-4ec5-aae2-e11a05dad253",
+              "name": "EmpAppraise",
+              "description": "Employee Appraisals are managed with EmpAppraise, preparation and workflow is supported."
+            }
+          },
+          {
+            "node": {
+              "id": "8056e3b2-fae0-4904-8f7e-f899276cdb05",
+              "name": "eShopping",
+              "description": "This is our internal tool for organizing all request for materials"
+            }
+          },
+          {
+            "node": {
+              "id": "ced963cc-6188-48da-a70b-2469363c471f",
+              "name": "Event Plan",
+              "description": "Event Planner Application for planning external and internal events"
+            }
+          },
+          {
+            "node": {
+              "id": "3e096448-db65-4e29-9fd5-2f919abd8209",
+              "name": "EXCEL Planning Tool",
+              "description": "This tool contains all relevant activities for every planned change with regards to the strategy"
+            }
+          },
+          {
+            "node": {
+              "id": "e3a08f5f-5c3e-4dc1-8444-ed87bdd48634",
+              "name": "Exchange",
+              "description": "Mail Management"
+            }
+          },
+          {
+            "node": {
+              "id": "14a29d03-e96e-4bb7-8ac7-24c168b44fbf",
+              "name": "ExecuTrack",
+              "description": "Executives are tracked with ExecuTrack"
+            }
+          },
+          {
+            "node": {
+              "id": "97d309e1-7571-4b06-9dc5-b4339ecec997",
+              "name": "faceLift",
+              "description": "faceLift is the provider for different facebook apps and the fan Activator\n"
+            }
+          },
+          {
+            "node": {
+              "id": "3a28f34d-c6df-41ae-8e78-807d8b8df94f",
+              "name": "FMS",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "2e1afd87-72e4-4d89-ba15-faae26de2645",
+              "name": "Global Capacity Management",
+              "description": "With this application you can plan and track the production capacity. This app includes also reports for historical comparison"
+            }
+          },
+          {
+            "node": {
+              "id": "feca1cf0-837c-4645-a7cf-752440241ca0",
+              "name": "Google",
+              "description": "We use Google to support our research efforts with public available information and trends from the internet"
+            }
+          },
+          {
+            "node": {
+              "id": "3ab27ef5-c433-4777-8890-a011bd3186f3",
+              "name": "Google Analytics",
+              "description": "Google Analytics enables us to better understand the usage from our websites by providing a lot of information and analyzing capabilities\n"
+            }
+          },
+          {
+            "node": {
+              "id": "e11a6f72-5051-4eb2-a1fd-e0a8634500ce",
+              "name": "Govi",
+              "description": "Governance Reporting for all corporate wide processes, SOX-Compliance, and so on"
+            }
+          },
+          {
+            "node": {
+              "id": "28d2601b-8048-49aa-854e-79cc50f48f37",
+              "name": "HP Service Desk",
+              "description": "With HP Service Desk we manage all service tickets and the service desk management"
+            }
+          },
+          {
+            "node": {
+              "id": "26be83c4-2b7f-479e-b3f9-ef0006db54ba",
+              "name": "HR Admin",
+              "description": "HR Admin supports the whole lifecycle of an employee, data management of all employee information, administration, payroll preparation, absence management"
+            }
+          },
+          {
+            "node": {
+              "id": "5d927321-84b2-47ec-8653-25110ccf9872",
+              "name": "HR Plan",
+              "description": "HR Plan plans the development of our workforce, from a qualitative and quantitative aspect"
+            }
+          },
+          {
+            "node": {
+              "id": "36485eed-512b-4ea1-b592-8e332c6483e7",
+              "name": "HutSut meshlab",
+              "description": "Social Media Management Dashboard evaluating the impact of the company social media activities"
+            }
+          },
+          {
+            "node": {
+              "id": "c443c92f-d9b1-4f25-8521-ed33e24a344b",
+              "name": "HypeCollab",
+              "description": "Collaboration for idea and innovation management we use HypeCollab. It can manage user and work groups, different projects, scenarios of projects, stores documentation with definable access rights"
+            }
+          },
+          {
+            "node": {
+              "id": "79880ea8-40b0-48fc-af7b-f295d6a81b1f",
+              "name": "Idea Club",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "181e7c42-3725-4ed2-94cc-822a3413dc8e",
+              "name": "IdeaIT",
+              "description": "IdeaIT enables every employee to enter ideas for enhancements or to reduce problems in the Intranet. The administrator can track and monitor all ideas. The integrated workflow supports the assessment and approval process."
+            }
+          },
+          {
+            "node": {
+              "id": "6adca1cb-3d09-456f-a02d-3d9a77d7e36f",
+              "name": "Imagine",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "cbde2056-08cf-40e8-a2c8-8f8130ec3994",
+              "name": "inDesign",
+              "description": "Adobe product for designing marketing material"
+            }
+          },
+          {
+            "node": {
+              "id": "84056b78-2fcd-4932-9861-7b3f66edaa68",
+              "name": "Insight",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "f10d75f9-86f9-4718-829a-cba2c5514497",
+              "name": "Issue Tracking",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "948a8e2e-db59-484d-a87d-82e583beb885",
+              "name": "issueTrack",
+              "description": "you can track and categorize customer complaints, issues and other requests. The system ensures monitoring of activities and reminds the service rep to complete customer related activities in a timely manner"
+            }
+          },
+          {
+            "node": {
+              "id": "765e070c-8829-4489-a852-05f10b7fb0a0",
+              "name": "Jenny",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "67295ffd-dda7-4c28-8892-b9a77008fc49",
+              "name": "JIT Reporting",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "6c27902e-3f85-4f1a-af8c-92a4ea9f7a6c",
+              "name": "Jobwatch",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "508144e7-2498-4b5d-9e5a-f04d048ddfa5",
+              "name": "Law+",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "78a18461-7330-4af2-a77f-0a1572debfac",
+              "name": "LDAP",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "5d11a313-8a1c-4636-ad3c-138e883233de",
+              "name": "leanIX",
+              "description": "Management Tool for the management of our IT organization, serves as repository, inventory, reporting system. It is crowdsourcing and swarm intelligence combined at ist best"
+            }
+          },
+          {
+            "node": {
+              "id": "67f73344-079c-4a37-9042-d6617b9dd7b9",
+              "name": "LeanReport",
+              "description": "With this tool we get cost reporting about the actual production cost including consumed resources. This app includes benchmark values to compare actual versus planned and best-in-class cost"
+            }
+          },
+          {
+            "node": {
+              "id": "78e4cd84-f4cb-47a0-9451-36e491c0ef26",
+              "name": "Lex Actual",
+              "description": "Lex Actual provides a database with all actual laws and important legal decisions; it will be automatically updated every 4 weeks with a CD which is shipped to our headquarter"
+            }
+          },
+          {
+            "node": {
+              "id": "1a610104-6088-498a-856f-bb6a8298bcd4",
+              "name": "Mailsnake",
+              "description": "Mailsnake is supporting newsletter mailing for different user groups for after-sales services ... announcing new features, small online training courses, ..."
+            }
+          },
+          {
+            "node": {
+              "id": "9040591f-3e2d-43f9-805d-76d250d5de0d",
+              "name": "Media DB",
+              "description": "This database contains all company related media which can be used in publications and for press material"
+            }
+          },
+          {
+            "node": {
+              "id": "c44e4fba-87af-471d-9269-304ad1d7cbd7",
+              "name": "meshlab Intranet",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "4e7db63e-92ef-4c75-80ce-790af877c3fa",
+              "name": "Monsta",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "98c52aaa-096a-41c1-bd27-709f2761cf8f",
+              "name": "newschimp",
+              "description": "relevant for all newsletters for personalized marketing "
+            }
+          },
+          {
+            "node": {
+              "id": "727a8827-0cae-42d6-ac8a-bb33da43247f",
+              "name": "Odysseus",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "3142ff97-7ddd-4f46-8075-f80d8279ff38",
+              "name": "OLAPCube",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "1d57512e-c783-437c-90bf-a9c6c9e92cbf",
+              "name": "OMS",
+              "description": "Order Management System"
+            }
+          },
+          {
+            "node": {
+              "id": "dc0d5354-510e-42f3-97f0-9c34bde7ae66",
+              "name": "OpenInno",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "9861d5d0-2c05-41e6-ba68-90766aa57335",
+              "name": "Orgaplan Americas",
+              "description": "With this tool you can plan and design your organizational structure. It is even possible to define certain scenarios. "
+            }
+          },
+          {
+            "node": {
+              "id": "53da2126-fbf2-40ad-806e-aa228b4bedc7",
+              "name": "Orgaplan Asia/Pacific",
+              "description": "With this tool you can plan and design your organizational structure. It is even possible to define certain scenarios. "
+            }
+          },
+          {
+            "node": {
+              "id": "f7c360bc-4b4b-423b-9996-813964a9f281",
+              "name": "Orgaplan Europe",
+              "description": "With this tool you can plan and design your organizational structure. It is even possible to define certain scenarios."
+            }
+          },
+          {
+            "node": {
+              "id": "6c0d6c85-f105-464a-aac1-547be3bdebfe",
+              "name": "Orgaview",
+              "description": "The Orgaviewer presents the current organization as described in Orgaplan in a graphical view which can be zoomed and printed"
+            }
+          },
+          {
+            "node": {
+              "id": "7adfe54a-b33d-4c3c-a790-958c7467f112",
+              "name": "PartsList",
+              "description": "Contains all parts we are using in the company...this is relevant for product development, production and Warehouse Management"
+            }
+          },
+          {
+            "node": {
+              "id": "2f17a77f-036e-448b-80c6-4873f30b6ed5",
+              "name": "Payroll Europe",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "c408569d-b925-44f5-a5b8-48e89f623eb9",
+              "name": "Payroll Germany",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "4a29ee5c-56bd-4db9-9360-d065f0f34f23",
+              "name": "Payroll RoW",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "44295c93-d9dd-47a6-9137-2469221993d0",
+              "name": "QMCheck",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "aef0ef0c-c611-4bef-a63a-65c080e2fb8b",
+              "name": "RD-DB",
+              "description": "Research and Development Database with information about latest research initiatives and academic studies as a basis for further development activities"
+            }
+          },
+          {
+            "node": {
+              "id": "6353085e-16b1-4762-aea9-2b26fb897b36",
+              "name": "RELAX",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "8e1b9e8e-63cd-41a7-b690-0f4325a77296",
+              "name": "Revenue Collector",
+              "description": "This application collects all revenue which has been produced by the different Bonus Card users and shows trendreports to evaluate the success of the bonus card loyalty program"
+            }
+          },
+          {
+            "node": {
+              "id": "83c70ef0-18ee-4bfd-8a91-d09a2985399e",
+              "name": "RIM",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "b9b13c59-cf09-46a7-a150-478a464cfa38",
+              "name": "Salary Compact",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "0355d0b3-e601-4996-8f47-fccfc77e450c",
+              "name": "salesforce Light",
+              "description": "Customer Relationship Management from salesforce, light because we just use the professional version"
+            }
+          },
+          {
+            "node": {
+              "id": "875aaf6d-f61d-4f48-81e7-3383ded897bc",
+              "name": "SAP BI",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "fc2b0641-6172-40cf-9dbb-10e514c7e341",
+              "name": "SAP CO",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "1e12b27d-ea34-4a1c-a04c-d489840288ef",
+              "name": "SAP FI",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "a3934b25-387a-49af-a8ea-a3ec2c4cd872",
+              "name": "SAP FSCM",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "b8221f32-f846-4058-86e4-2e6b6acfaad9",
+              "name": "SAP MM",
+              "description": "SAP Materials Management System. Inventory, Materials, Parts"
+            }
+          },
+          {
+            "node": {
+              "id": "716b9d27-3df7-42ca-ae6e-e2ef788064dd",
+              "name": "SAP SCM",
+              "description": "SAP Supply Chain Management handles everything with regards to our supply chain, from planning, coordination with our supplier and customer. It is fully integrated with our Warehouse Management"
+            }
+          },
+          {
+            "node": {
+              "id": "bed438b9-f76d-4942-958f-a24d2cb471cb",
+              "name": "Schedule & Track",
+              "description": "This is for production planning and managing in the Asia production factory"
+            }
+          },
+          {
+            "node": {
+              "id": "e9d4d782-de57-4419-a27c-03f1e395f3ab",
+              "name": "serviceEngage",
+              "description": "Online Chat Tool for real-time and online support desk operation at our web products"
+            }
+          },
+          {
+            "node": {
+              "id": "df381add-191a-40e8-aff4-660935b74bac",
+              "name": "SLA Tracking",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "0d140d63-d0ab-4cc3-a95f-172c4645a816",
+              "name": "SPSS",
+              "description": "statistical and analysis software for monitoring and analyzing the data from the production process"
+            }
+          },
+          {
+            "node": {
+              "id": "2c39107a-51a0-4bce-a539-d59bdbca2c0f",
+              "name": "Stocky",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "ac6d7dcb-0d8c-498e-9155-cc67b0515b3d",
+              "name": "Supplier Tracking Germany",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "08de9e1e-7a19-4d65-b1f5-3234280b1804",
+              "name": "Supplier Tracking Poland",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "5c4cb3d9-d215-4adc-9db1-d209de57317a",
+              "name": "Supplier Tracking USA",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "30dc4257-9395-46ce-a2ad-b7a582f58de6",
+              "name": "SuppList",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "0f535fd8-5ef6-42b1-85dd-b87ebd19224c",
+              "name": "Time Track",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "a97d05c9-6695-443e-9f83-42eab141d07f",
+              "name": "Training Management",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "ddcc0f4b-a1f8-48c1-994d-1e80d7f746ee",
+              "name": "Training Plan",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "99ec9dd3-5f11-4556-9d2b-8efb4af92f7a",
+              "name": "Transport Timestamp",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "0550e21b-7b97-40a3-baf1-cffac190b5b5",
+              "name": "TUPPAS",
+              "description": "TUPPAS supports the management of production in USA, scheduling, reporting, inventory, TQM, ..."
+            }
+          },
+          {
+            "node": {
+              "id": "83869127-6099-4e66-9a93-1f720f86d2e1",
+              "name": "twitter",
+              "description": "You do not know twitter? It is from birdie"
+            }
+          },
+          {
+            "node": {
+              "id": "d1080953-0051-49d9-972b-4a9addf0b321",
+              "name": "Ultimo",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "ad945f33-d5e7-4a5b-a5b4-ef9be316a59f",
+              "name": "Video Conference",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "f68e52d5-8133-483c-8465-06fcc34a38d6",
+              "name": "VPN",
+              "description": null
+            }
+          },
+          {
+            "node": {
+              "id": "dec8a3f7-f291-4075-8fb2-4221c6ed140b",
+              "name": "WebTime",
+              "description": "With WebTime every Employee with an Intranet Access can edit their working time on a daily basis"
+            }
+          },
+          {
+            "node": {
+              "id": "4584a892-f133-4cdd-94a6-2b6854b84de3",
+              "name": "WMS large",
+              "description": "WMS large is a warehouse management system used in medium and large countries. It was purchased in 2001 from Redmoon software USA. We own the Source code. The module cover: Inventory Management which provides inventory information for each warehouse, Bar Code System, vendor information, Parts codes, physical inventory management. Cycle Counting to manage inventory cycle counts. "
+            }
+          },
+          {
+            "node": {
+              "id": "f23a2dac-f2c8-4289-9635-d8c1accc355c",
+              "name": "WMS light",
+              "description": "WMS light is a warehouse management system used in smaller countries. It was purchased in 2001 from Redmoon software USA. We own the Source code. The module cover: Inventory Management which provides inventory information for each warehouse, Bar Code System, vendor information, Parts codes, physical inventory management. Cycle Counting to manage inventory cycle counts. "
+            }
+          },
+          {
+            "node": {
+              "id": "bd51b347-54f8-4101-9f9a-d18eceb9f121",
+              "name": "WMS special",
+              "description": "WMS is a warehouse management system used in special situations. It is based on the software we purchased in 2001 from Redmoon software USA. We own the Source code. The module cover: Inventory Management which provides inventory information for each warehouse, Bar Code System, vendor information, Parts codes, physical inventory management.  "
+            }
+          }
+        ]
+      }
+    },
+    "errors": null
+  }

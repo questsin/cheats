@@ -1,0 +1,66 @@
+{
+    "title": "Availability survey",
+    "questions": [
+        {
+            "id": "78ac3262-65a7-0d44-3ab2-10954d1cb149",
+            "type": "radio",
+            "label": "For the Fact Sheet at hand, how do you rate availability during the past 90 days?",
+            "options": [
+                {
+                    "id": "c1ad131d-24c7-3a9f-89a9-77c09c8ef17c",
+                    "label": "Good"
+                },
+                {
+                    "id": "754c1b9d-817a-7428-5041-f578b86191b0",
+                    "label": "Sufficient"
+                },
+                {
+                    "id": "466d13b8-2fea-7928-7162-4777f69b6716",
+                    "label": "Many outages"
+                }
+            ]
+        },
+        {
+            "id": "18ffe115-98a4-344e-8773-e1a6dfe0f24e",
+            "type": "textarea",
+            "label": "In case of \"Many outages\", please give examples of the impact."
+        },
+        {
+            "id": "c15c2aef-1b8a-d229-a2d2-5c1397a823e7",
+            "type": "checkbox",
+            "label": "Which channels of communication did you use to inform your users about availability issues?",
+            "options": [
+                {
+                    "id": "406a072d-550a-7668-530d-852686410ca1",
+                    "label": "E-Mail"
+                },
+                {
+                    "id": "25c083fc-81da-d680-ff6c-3d767fdec25c",
+                    "label": "Phone"
+                },
+                {
+                    "id": "d5f3c1e4-bb20-77c0-16fa-d00d8dcf02ae",
+                    "label": "Status page"
+                },
+                {
+                    "id": "9e2b7898-3eb1-2cb4-1145-23aea1c29455",
+                    "label": "RSS feed"
+                },
+                {
+                    "id": "a3d725af-942b-1fcb-338d-c210089933eb",
+                    "label": "Other"
+                }
+            ]
+        },
+        {
+            "id": "f8524c4c-9ec5-6b80-1fb5-e0e1b87be66a",
+            "type": "textarea",
+            "label": "In case of \"Other\", please specify."
+        },
+        {
+            "id": "b37c268d-84fd-acbb-c70b-33390068e8b0",
+            "type": "text",
+            "label": "Please list the key (internal) customers affected by outages."
+        }
+    ]
+}

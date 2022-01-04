@@ -1,0 +1,504 @@
+{
+    "data": {
+      "allFactSheets": {
+        "edges": [
+          {
+            "node": {
+              "id": "50a6ef84-7cfa-4ce7-8eda-93a989b0e344",
+              "name": "Australia",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "Australia",
+              "fullName": "Australia",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2019-04-26T16:23:51.589Z",
+              "completion": {
+                "completion": 0.18486772486772485,
+                "percentage": 18
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "6de40c21-6b6f-4118-8a97-817d6da5b6b4",
+              "name": "Brazil",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "Brazil",
+              "fullName": "Brazil",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2018-09-25T09:41:20.072Z",
+              "completion": {
+                "completion": 0.1859259259259259,
+                "percentage": 19
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "bfb01659-4493-4a45-bc93-040c16dbf24c",
+              "name": "China",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "China",
+              "fullName": "China",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2019-04-26T16:23:24.187Z",
+              "completion": {
+                "completion": 0.14888888888888888,
+                "percentage": 15
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "1c3ef333-5cc1-414d-ba3e-108af7f0ffc4",
+              "name": "France",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "France",
+              "fullName": "France",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2019-04-11T20:19:05.937Z",
+              "completion": {
+                "completion": 0.1859259259259259,
+                "percentage": 19
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "2d570bfb-1569-41f2-9037-8897adb94469",
+              "name": "Headquarter",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "Headquarter",
+              "fullName": "Headquarter",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2018-09-25T09:41:20.089Z",
+              "completion": {
+                "completion": 0.4451851851851852,
+                "percentage": 45
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "8c8540d5-fd5f-4446-9447-35a009bae2e9",
+              "name": "Group Accounting",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "Headquarter / Group Accounting",
+              "fullName": "Group Accounting",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2018-09-25T09:41:20.094Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "894e3cb4-d44b-4d5a-bd5c-bebd47b67512",
+              "name": "Group Communications",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "Headquarter / Group Communications",
+              "fullName": "Group Communications",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 2,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2018-09-25T09:41:20.099Z",
+              "completion": {
+                "completion": 0.19333333333333333,
+                "percentage": 19
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "21d5ef09-2eaf-47e2-a5c2-6db8b0021d62",
+              "name": "Italy",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "Italy",
+              "fullName": "Italy",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2018-09-25T09:41:20.102Z",
+              "completion": {
+                "completion": 0.1859259259259259,
+                "percentage": 19
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "37dcef1e-15de-40cf-8f14-06baa53b1c58",
+              "name": "Poland",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "Poland",
+              "fullName": "Poland",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2019-04-26T16:23:11.775Z",
+              "completion": {
+                "completion": 0.18063492063492062,
+                "percentage": 18
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "b7c2b92d-4c1c-4018-96bc-88ffd478fb17",
+              "name": "Spain",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "Spain",
+              "fullName": "Spain",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2019-04-26T16:23:37.408Z",
+              "completion": {
+                "completion": 0.1844444444444444,
+                "percentage": 18
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          },
+          {
+            "node": {
+              "id": "2bc49272-4d6e-4a2e-a735-a323b7c6da5d",
+              "name": "USA",
+              "description": null,
+              "category": null,
+              "type": "UserGroup",
+              "displayName": "USA",
+              "fullName": "USA",
+              "naFields": [],
+              "tags": [
+                {
+                  "id": "2ddc9122-4513-40e2-afd8-4b28f41474a4",
+                  "name": "Demo",
+                  "description": "Demo data created by LeanIX",
+                  "color": "#D8D8D8",
+                  "tagGroup": null,
+                  "status": "ACTIVE",
+                  "factSheetCount": 384,
+                  "deletable": false
+                }
+              ],
+              "documents": {
+                "edges": []
+              },
+              "comments": {
+                "edges": []
+              },
+              "subscriptions": {
+                "edges": []
+              },
+              "permittedReadACL": [],
+              "permittedWriteACL": [],
+              "status": "ACTIVE",
+              "level": 1,
+              "createdAt": "2018-04-17T21:44:32.493Z",
+              "updatedAt": "2019-04-11T20:19:02.161Z",
+              "completion": {
+                "completion": 0.27994301994301996,
+                "percentage": 28
+              },
+              "__typename": "UserGroup",
+              "lxState": "BROKEN_QUALITY_SEAL"
+            }
+          }
+        ]
+      }
+    },
+    "errors": null
+  }
