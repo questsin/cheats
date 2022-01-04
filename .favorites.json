@@ -1,20 +1,47 @@
 [
     {
-        "type": "File",
-        "name": "c:\\github\\cheats\\cheatsheets\\py\\hellloworld.py",
+        "type": "Directory",
+        "name": "c:\\github\\cheats\\cheatsheets\\notes",
         "parent_id": null,
-        "fsPath": "c:\\github\\cheats\\cheatsheets\\py\\hellloworld.py",
+        "fsPath": "c:\\github\\cheats\\cheatsheets\\notes",
         "workspaceRoot": null,
         "workspacePath": null,
-        "id": "E1Q3ONAHTVmFabxd"
+        "id": "TwQyXZKar6RJV0xA"
     },
     {
         "type": "Directory",
-        "name": "c:\\github\\cheats\\cheatsheets\\swagger",
+        "name": "c:\\github\\cheats\\cheatsheets\\leanIX",
         "parent_id": null,
-        "fsPath": "c:\\github\\cheats\\cheatsheets\\swagger",
+        "fsPath": "c:\\github\\cheats\\cheatsheets\\leanIX",
         "workspaceRoot": null,
         "workspacePath": null,
-        "id": "Rhdz9ZDpqWwYcv2E"
+        "id": "JuKiVSRCaLGqtv1k"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\github\\cheats\\cheatsheets\\mongo",
+        "parent_id": null,
+        "fsPath": "c:\\github\\cheats\\cheatsheets\\mongo",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "K04nAf2NPegF7bqW"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\github\\cheats\\cheatsheets\\cmdb",
+        "parent_id": null,
+        "fsPath": "c:\\github\\cheats\\cheatsheets\\cmdb",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Tk4v9OzHCILb6mW1"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\github\\cheats\\cheatsheets\\mongo-realm",
+        "parent_id": null,
+        "fsPath": "c:\\github\\cheats\\cheatsheets\\mongo-realm",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "UC2wBduzKt5Wivja"
     }
 ]
